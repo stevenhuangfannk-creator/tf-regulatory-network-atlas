@@ -1,0 +1,190 @@
+{
+  "png_count": 13,
+  "svg_count": 13,
+  "pngs": [
+    {
+      "figure": "Composite_periodontal_regulatory_landscape",
+      "width_px": 4322,
+      "height_px": 5834,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig01_analysis_workflow",
+      "width_px": 4322,
+      "height_px": 2362,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig02_tf_activity_umap",
+      "width_px": 4322,
+      "height_px": 3543,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig03_donor_activity_heatmap",
+      "width_px": 4322,
+      "height_px": 3661,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig04_curated_tf_target_network",
+      "width_px": 4322,
+      "height_px": 3070,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig05_differential_tf_activity",
+      "width_px": 4322,
+      "height_px": 2834,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig09_celltype_activity_profile",
+      "width_px": 4322,
+      "height_px": 2598,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig12_method_concordance",
+      "width_px": 4322,
+      "height_px": 2244,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig13_progeny_donor_pathways",
+      "width_px": 4322,
+      "height_px": 3897,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig13b_progeny_disease_effects",
+      "width_px": 4322,
+      "height_px": 2952,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig14_original_viper_activity",
+      "width_px": 4322,
+      "height_px": 3661,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig15_tf_hallmark_overlap",
+      "width_px": 4322,
+      "height_px": 2598,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "figure": "Fig16_donor_expression_activity",
+      "width_px": 4322,
+      "height_px": 3188,
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    }
+  ],
+  "svgs": [
+    {
+      "figure": "Composite_periodontal_regulatory_landscape",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig01_analysis_workflow",
+      "editable_text": true,
+      "minimum_declared_font_px": 7.68
+    },
+    {
+      "figure": "Fig02_tf_activity_umap",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig03_donor_activity_heatmap",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig04_curated_tf_target_network",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig05_differential_tf_activity",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig09_celltype_activity_profile",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig12_method_concordance",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig13b_progeny_disease_effects",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig13_progeny_donor_pathways",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig14_original_viper_activity",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig15_tf_hallmark_overlap",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    },
+    {
+      "figure": "Fig16_donor_expression_activity",
+      "editable_text": true,
+      "minimum_declared_font_px": 6.5
+    }
+  ]
+}

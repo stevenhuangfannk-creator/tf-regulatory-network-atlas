@@ -1,0 +1,1245 @@
+{
+  "audit_method": "Non-visual PyMuPDF text-span inspection with effective PDF text-matrix scaling; all plots and visual exports remain R-only.",
+  "minimum_required_pt": 5,
+  "all_passed": true,
+  "files": [
+    {
+      "pdf": "Composite_periodontal_regulatory_landscape.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        246.944
+      ],
+      "editable_text_span_count": 166,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Composite_periodontal_regulatory_landscape.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 49,
+        "below_minimum_count": 49,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig01_analysis_workflow.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        99.836
+      ],
+      "editable_text_span_count": 20,
+      "effective_minimum_pt": 7.682243824005127,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig01_analysis_workflow.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 3,
+        "below_minimum_count": 3,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig02_tf_activity_umap.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        149.931
+      ],
+      "editable_text_span_count": 65,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig02_tf_activity_umap.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 30,
+        "below_minimum_count": 30,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig03_donor_activity_heatmap.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        154.869
+      ],
+      "editable_text_span_count": 67,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig03_donor_activity_heatmap.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 10,
+        "below_minimum_count": 10,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig04_curated_tf_target_network.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        129.822
+      ],
+      "editable_text_span_count": 33,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig04_curated_tf_target_network.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 6,
+        "below_minimum_count": 6,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig05_differential_tf_activity.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        119.944
+      ],
+      "editable_text_span_count": 49,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig05_differential_tf_activity.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 11,
+        "below_minimum_count": 11,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig09_celltype_activity_profile.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        109.714
+      ],
+      "editable_text_span_count": 29,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig09_celltype_activity_profile.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 10,
+        "below_minimum_count": 10,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig12_method_concordance.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        94.897
+      ],
+      "editable_text_span_count": 38,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig12_method_concordance.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 10,
+        "below_minimum_count": 10,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig13_progeny_donor_pathways.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        164.747
+      ],
+      "editable_text_span_count": 75,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig13_progeny_donor_pathways.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 10,
+        "below_minimum_count": 10,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig13b_progeny_disease_effects.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        124.883
+      ],
+      "editable_text_span_count": 64,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig13b_progeny_disease_effects.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 11,
+        "below_minimum_count": 11,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig14_original_viper_activity.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        154.869
+      ],
+      "editable_text_span_count": 68,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig14_original_viper_activity.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 10,
+        "below_minimum_count": 10,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig15_tf_hallmark_overlap.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        109.714
+      ],
+      "editable_text_span_count": 30,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig15_tf_hallmark_overlap.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 7,
+        "below_minimum_count": 7,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    },
+    {
+      "pdf": "Fig16_donor_expression_activity.pdf",
+      "pages": 1,
+      "width_mm": [
+        182.739
+      ],
+      "height_mm": [
+        134.761
+      ],
+      "editable_text_span_count": 34,
+      "effective_minimum_pt": 6.5,
+      "below_floor": [],
+      "passed": true,
+      "raw_Tf_audit": {
+        "pdf": "C:\\Users\\13683\\Documents\\Codex\\2026-10-08\\files-pasted-by-the-user-codex\\outputs\\tf-regulatory-network-atlas\\results\\figures\\Fig16_donor_expression_activity.pdf",
+        "auditable": true,
+        "minimum_required_pt": 5.0,
+        "minimum_found_pt": 1.0,
+        "text_run_count": 13,
+        "below_minimum_count": 13,
+        "below_minimum": [
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-1-0",
+            "size_pt": 1.0
+          },
+          {
+            "stream": 1,
+            "font": "f-0-0",
+            "size_pt": 1.0
+          }
+        ],
+        "warnings": []
+      },
+      "raw_Tf_interpretation": "Cairo uses Tf 1 with scaled text matrices; raw Tf-only validator does not measure effective glyph size. PyMuPDF resolves the text matrix and reports effective span size."
+    }
+  ]
+}

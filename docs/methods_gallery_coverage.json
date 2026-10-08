@@ -1,0 +1,297 @@
+{
+  "verified_on": "2026-10-08",
+  "registry_methods": 21,
+  "gallery_methods": 21,
+  "n_gallery_contracts": 78,
+  "missing_registry_methods": [],
+  "coverage": [
+    {
+      "method_id": "aracne-ap",
+      "gallery_method": "aracne-ap",
+      "n_plot_contracts": 4,
+      "plot_ids": [
+        "aracne-ap-01",
+        "aracne-ap-02",
+        "aracne-ap-03",
+        "aracne-ap-04"
+      ],
+      "status_counts": {
+        "planned": 4
+      }
+    },
+    {
+      "method_id": "viper-msviper",
+      "gallery_method": "viper",
+      "n_plot_contracts": 5,
+      "plot_ids": [
+        "viper-01",
+        "viper-02",
+        "viper-03",
+        "viper-04",
+        "viper-05"
+      ],
+      "status_counts": {
+        "planned": 5
+      }
+    },
+    {
+      "method_id": "collectri",
+      "gallery_method": "collectri",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "collectri-01",
+        "collectri-02",
+        "collectri-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "decoupler",
+      "gallery_method": "decoupler",
+      "n_plot_contracts": 5,
+      "plot_ids": [
+        "decoupler-01",
+        "decoupler-02",
+        "decoupler-03",
+        "decoupler-04",
+        "decoupler-05"
+      ],
+      "status_counts": {
+        "planned": 5
+      }
+    },
+    {
+      "method_id": "dorothea",
+      "gallery_method": "dorothea",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "dorothea-01",
+        "dorothea-02",
+        "dorothea-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "progeny",
+      "gallery_method": "progeny",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "progeny-01",
+        "progeny-02",
+        "progeny-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "pyscenic",
+      "gallery_method": "pyscenic",
+      "n_plot_contracts": 6,
+      "plot_ids": [
+        "pyscenic-01",
+        "pyscenic-02",
+        "pyscenic-03",
+        "pyscenic-04",
+        "pyscenic-05",
+        "pyscenic-06"
+      ],
+      "status_counts": {
+        "planned": 6
+      }
+    },
+    {
+      "method_id": "hdwgcna",
+      "gallery_method": "hdwgcna",
+      "n_plot_contracts": 6,
+      "plot_ids": [
+        "hdwgcna-01",
+        "hdwgcna-02",
+        "hdwgcna-03",
+        "hdwgcna-04",
+        "hdwgcna-05",
+        "hdwgcna-06"
+      ],
+      "status_counts": {
+        "planned": 6
+      }
+    },
+    {
+      "method_id": "celloracle",
+      "gallery_method": "celloracle",
+      "n_plot_contracts": 4,
+      "plot_ids": [
+        "celloracle-01",
+        "celloracle-02",
+        "celloracle-03",
+        "celloracle-04"
+      ],
+      "status_counts": {
+        "planned": 4
+      }
+    },
+    {
+      "method_id": "scenicplus",
+      "gallery_method": "scenicplus",
+      "n_plot_contracts": 4,
+      "plot_ids": [
+        "scenicplus-01",
+        "scenicplus-02",
+        "scenicplus-03",
+        "scenicplus-04"
+      ],
+      "status_counts": {
+        "planned": 4
+      }
+    },
+    {
+      "method_id": "pando",
+      "gallery_method": "pando",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "pando-01",
+        "pando-02",
+        "pando-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "granie",
+      "gallery_method": "granie",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "granie-01",
+        "granie-02",
+        "granie-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "linger",
+      "gallery_method": "linger",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "linger-01",
+        "linger-02",
+        "linger-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "scprint",
+      "gallery_method": "scprint",
+      "n_plot_contracts": 4,
+      "plot_ids": [
+        "scprint-01",
+        "scprint-02",
+        "scprint-03",
+        "scprint-04"
+      ],
+      "status_counts": {
+        "planned": 4
+      }
+    },
+    {
+      "method_id": "inferelator",
+      "gallery_method": "inferelator",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "inferelator-01",
+        "inferelator-02",
+        "inferelator-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "regenrich",
+      "gallery_method": "regenrich",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "regenrich-01",
+        "regenrich-02",
+        "regenrich-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "nichenet",
+      "gallery_method": "nichenet",
+      "n_plot_contracts": 4,
+      "plot_ids": [
+        "nichenet-01",
+        "nichenet-02",
+        "nichenet-03",
+        "nichenet-04"
+      ],
+      "status_counts": {
+        "planned": 4
+      }
+    },
+    {
+      "method_id": "omnipath",
+      "gallery_method": "omnipath",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "omnipath-01",
+        "omnipath-02",
+        "omnipath-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "renge",
+      "gallery_method": "renge",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "renge-01",
+        "renge-02",
+        "renge-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "switchtfi",
+      "gallery_method": "switchtfi",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "switchtfi-01",
+        "switchtfi-02",
+        "switchtfi-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    },
+    {
+      "method_id": "kegni",
+      "gallery_method": "kegni",
+      "n_plot_contracts": 3,
+      "plot_ids": [
+        "kegni-01",
+        "kegni-02",
+        "kegni-03"
+      ],
+      "status_counts": {
+        "planned": 3
+      }
+    }
+  ]
+}

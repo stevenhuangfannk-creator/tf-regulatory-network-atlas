@@ -1,0 +1,398 @@
+{
+  "audit_date": "2026-10-08",
+  "selected_data": {
+    "type": "CELLxGENE derived multi-source periodontal meta-atlas",
+    "collection_id": "71f4bccf-53d4-4c12-9e80-e73bfb89e398",
+    "dataset_id": "9fcb0b73-c734-40a5-be9c-ace7eea401c9",
+    "dataset_version_id": "171607d7-dcc2-4993-9deb-bbc62cf13273",
+    "url": "https://datasets.cellxgene.cziscience.com/171607d7-dcc2-4993-9deb-bbc62cf13273.h5ad",
+    "doi": "10.1038/s41467-024-49037-y",
+    "relative_path": "data/raw/periodontal_atlas.h5ad",
+    "bytes": 705007195,
+    "sha256": "7dc13de46fd2702dbfaf8d69bec933b79b05196ebce7d516e59cea471aa83c4e",
+    "organism": "Homo sapiens",
+    "reference": "GRCh38 / hg38 source processing; gene IDs ENSG, symbols feature_name",
+    "raw_counts": "raw/X; every stored nonzero verified nonnegative integer",
+    "normalized_expression": "X; nonnegative noninteger, source-normalized values",
+    "n_cells": 105918,
+    "n_features": 35369,
+    "n_library_labels": 34,
+    "n_author_cell_types": 27,
+    "annotation_provenance": "Author/CELLxGENE curated labels; not independently reannotated",
+    "is_primary_data_all_true": true,
+    "source_members": [
+      "GSE152042",
+      "GSE161267",
+      "GSE164241",
+      "GSE266897"
+    ],
+    "member_cohorts": [
+      {
+        "Study": "Caetano",
+        "disease": "normal",
+        "n_cells": 3329,
+        "n_library_labels": 2
+      },
+      {
+        "Study": "Caetano",
+        "disease": "periodontitis",
+        "n_cells": 6734,
+        "n_library_labels": 2
+      },
+      {
+        "Study": "Huang",
+        "disease": "gingivitis",
+        "n_cells": 6587,
+        "n_library_labels": 4
+      },
+      {
+        "Study": "Pagella",
+        "disease": "normal",
+        "n_cells": 3130,
+        "n_library_labels": 5
+      },
+      {
+        "Study": "Williams",
+        "disease": "normal",
+        "n_cells": 54352,
+        "n_library_labels": 13
+      },
+      {
+        "Study": "Williams",
+        "disease": "periodontitis",
+        "n_cells": 31786,
+        "n_library_labels": 8
+      }
+    ],
+    "selected_analysis_scope": "Only Study=Williams, GSE164241, normal vs periodontitis",
+    "patient_mapping": "Conservative donor-code collapsing; PD161 and PD164 multi-biopsy identity requires Table S1 confirmation",
+    "assay_imbalance": "10 v2+3 v3 healthy donor codes;1 v2+4 v3 disease codes",
+    "licenses": "Public download; no explicit dataset-license field in collection API. Do not redistribute full source matrices in Git; cite data sources and review CELLxGENE and original-source data terms.",
+    "integrity": {
+      "X": {
+        "shape": [
+          105918,
+          35369
+        ],
+        "dtype": "float32",
+        "nnz": 138928204,
+        "all_nonnegative": true,
+        "all_integer": false,
+        "range": [
+          0.06633423268795013,
+          9.11131477355957
+        ]
+      },
+      "raw/X": {
+        "shape": [
+          105918,
+          35369
+        ],
+        "dtype": "float32",
+        "nnz": 138928204,
+        "all_nonnegative": true,
+        "all_integer": true,
+        "range": [
+          1.0,
+          58299.0
+        ]
+      }
+    },
+    "embedding": {
+      "X_pca": [
+        105918,
+        50
+      ],
+      "X_umap": [
+        105918,
+        2
+      ]
+    }
+  },
+  "selected_replication": {
+    "date": "2026-10-08",
+    "selected_cohort": "CELLxGENE periodontal meta-atlas; Study=Williams, GSE164241",
+    "n_cells": 86138,
+    "n_libraries": 21,
+    "condition_cells": {
+      "normal": 54352,
+      "periodontitis": 31786
+    },
+    "condition_libraries": {
+      "normal": 13,
+      "periodontitis": 8
+    },
+    "condition_conservative_donors": {
+      "normal": 13,
+      "periodontitis": 5
+    },
+    "assay_donors": [
+      {
+        "condition": "normal",
+        "assay": "10x 3' v2",
+        "n_donors": 10
+      },
+      {
+        "condition": "normal",
+        "assay": "10x 3' v3",
+        "n_donors": 3
+      },
+      {
+        "condition": "periodontitis",
+        "assay": "10x 3' v2",
+        "n_donors": 1
+      },
+      {
+        "condition": "periodontitis",
+        "assay": "10x 3' v3",
+        "n_donors": 4
+      }
+    ],
+    "unverified_groupings": [
+      {
+        "sample_id": "Williams_GSE164241_GSM5005060",
+        "biological_donor": "PD161",
+        "sample_title": "PD161"
+      },
+      {
+        "sample_id": "Williams_GSE164241_GSM5005061",
+        "biological_donor": "PD161",
+        "sample_title": "PD161b"
+      },
+      {
+        "sample_id": "Williams_GSE164241_GSM5005062",
+        "biological_donor": "PD164",
+        "sample_title": "PD164"
+      },
+      {
+        "sample_id": "Williams_GSE164241_GSM5177042",
+        "biological_donor": "PD164",
+        "sample_title": "PD164b"
+      },
+      {
+        "sample_id": "Williams_GSE164241_GSM5177043",
+        "biological_donor": "PD164",
+        "sample_title": "PD164c"
+      }
+    ],
+    "same_donor_multiple_assays": 0,
+    "primary_data_all_true": true,
+    "cell_types": {
+      "fibroblast": 16291,
+      "endothelial cell of venule": 14757,
+      "plasma cell": 9124,
+      "helper T cell": 6840,
+      "keratinocyte": 5293,
+      "T cell": 5173,
+      "capillary endothelial cell": 3754,
+      "endothelial cell of artery": 2911,
+      "pericyte": 2821,
+      "B cell": 2488,
+      "vascular associated smooth muscle cell": 2473,
+      "mast cell": 2460,
+      "conventional dendritic cell": 1542,
+      "macrophage": 1504,
+      "endothelial cell of lymphatic vessel": 1436,
+      "neutrophil": 1301,
+      "mucosal-associated invariant T cell": 1249,
+      "gamma-delta T cell": 907,
+      "natural killer cell": 891,
+      "mature NK T cell": 851,
+      "regulatory T cell": 844,
+      "T-helper 17 cell": 519,
+      "plasmacytoid dendritic cell": 445,
+      "melanocyte": 119,
+      "Langerhans cell": 100,
+      "Schwann cell": 26,
+      "Merkel cell": 19
+    },
+    "limitations": [
+      "CELLxGENE donor_id uses GSM-specific library labels; repeated patient-code biopsies are conservatively merged. Supplementary Table S1 confirmation remains pending.",
+      "Williams both disease states are within the original study, but assay version is strongly imbalanced: v3-only sensitivity has 3 healthy and 4 disease donor codes.",
+      "All 21 selected GEO library titles and all 7 candidate new-library metadata refreshed live on 2026-10-08.",
+      "is_primary_data=True indicates this asset is the preferred meta-atlas representation, not independence from reused GEO members; do not sum meta-atlas and GEO counts.",
+      "Author cell_type labels are retained, not independently re-annotated by this project.",
+      "Raw integer counts establish data-format integrity, not transcript/protein causal activity."
+    ]
+  },
+  "candidates": [
+    {
+      "accession": "GSE266897",
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266897",
+      "doi": "10.1038/s41467-024-49037-y",
+      "condition": "Induced gingivitis only",
+      "n_new_libraries": 4,
+      "n_independent_donors": "Not established by sample accessions alone; no within-accession control cohort",
+      "full_matrix_downloaded": false,
+      "matrix_header_counts_integer": true,
+      "all_counts_integrity_verified": false,
+      "matrix_files_total_compressed_bytes": 50884934,
+      "author_annotations_available_in_GEO_deposit": "Not found in the inspected listed supplementary files; only MEX counts/barcodes/features",
+      "expression": [
+        {
+          "gsm": "GSM8256116",
+          "n_features": 36601,
+          "n_barcodes": 1820,
+          "n_nonzero": 2796997,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256116/suppl/GSM8256116_processed_ATL_01_matrix.mtx.gz",
+          "compressed_bytes": 8846997
+        },
+        {
+          "gsm": "GSM8256117",
+          "n_features": 36601,
+          "n_barcodes": 2618,
+          "n_nonzero": 4447032,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256117/suppl/GSM8256117_processed_ATL_02_matrix.mtx.gz",
+          "compressed_bytes": 14002497
+        },
+        {
+          "gsm": "GSM8256118",
+          "n_features": 36601,
+          "n_barcodes": 3145,
+          "n_nonzero": 6430691,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256118/suppl/GSM8256118_ATL_03_matrix.mtx.gz",
+          "compressed_bytes": 20140254
+        },
+        {
+          "gsm": "GSM8256119",
+          "n_features": 36601,
+          "n_barcodes": 1115,
+          "n_nonzero": 2537304,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256119/suppl/GSM8256119_ATL_05_matrix.mtx.gz",
+          "compressed_bytes": 7895186
+        }
+      ]
+    },
+    {
+      "accession": "GSE310110",
+      "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE310110",
+      "doi": "10.1038/s41467-026-72452-2",
+      "condition": "Peri-implantitis only",
+      "n_new_libraries": 3,
+      "n_independent_donors": "Not established by sample accessions alone; no within-accession control cohort",
+      "full_matrix_downloaded": false,
+      "matrix_header_counts_integer": true,
+      "all_counts_integrity_verified": false,
+      "matrix_files_total_compressed_bytes": 140292297,
+      "author_annotations_available_in_GEO_deposit": "Not found in the inspected listed supplementary files; only MEX counts/barcodes/features",
+      "expression": [
+        {
+          "gsm": "GSM9288586",
+          "n_features": 36601,
+          "n_barcodes": 8867,
+          "n_nonzero": 20374196,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288586/suppl/GSM9288586_Ko_2_matrix.mtx.gz",
+          "compressed_bytes": 77559753
+        },
+        {
+          "gsm": "GSM9288587",
+          "n_features": 36601,
+          "n_barcodes": 1766,
+          "n_nonzero": 6170529,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288587/suppl/GSM9288587_Ko_3_matrix.mtx.gz",
+          "compressed_bytes": 23198077
+        },
+        {
+          "gsm": "GSM9288588",
+          "n_features": 36601,
+          "n_barcodes": 4426,
+          "n_nonzero": 10366625,
+          "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288588/suppl/GSM9288588_Ko_6_matrix.mtx.gz",
+          "compressed_bytes": 39534467
+        }
+      ]
+    }
+  ],
+  "local_fallback": {
+    "asset": "Existing Lin2026 reproduction indexed by oral-scrna-atlas",
+    "mode": "Read-only; not used in present main analysis",
+    "source_accessions": [
+      "GSE164241 healthy-only local view",
+      "zenodo.19697597 PI local view"
+    ],
+    "n_cells": 92112,
+    "n_features": 21934,
+    "healthy_cells": 53464,
+    "PI_cells": 38648,
+    "healthy_donor_ids": 13,
+    "PI_donor_ids": 7,
+    "PI_libraries": 8,
+    "PI_repeated_donor": "IGT6 and IGT8 are D6",
+    "source_batch_confounded_with_condition": true,
+    "canonical_sha256": "c96701c4e0d079b8e9c08b8fbcd754910040367399f6884300852b8ea72e9f0a",
+    "overlay_sha256": "058969e6210452c11d1e49f92fa048d2a9a00dfca835f3095d4159e1f5cbb61f",
+    "matrix_sample_integrity": {
+      "X": {
+        "shape": [
+          92112,
+          21934
+        ],
+        "dtype": "float64",
+        "nnz": 147063492,
+        "sampled_nnz": 1000000,
+        "sample_nonnegative": true,
+        "sample_integer": false,
+        "sample_range": [
+          0.2517660362674132,
+          7.490516076260897
+        ]
+      },
+      "layers/counts": {
+        "shape": [
+          92112,
+          21934
+        ],
+        "dtype": "float64",
+        "nnz": 147063492,
+        "sampled_nnz": 1000000,
+        "sample_nonnegative": true,
+        "sample_integer": true,
+        "sample_range": [
+          1.0,
+          2075.0
+        ]
+      }
+    },
+    "annotation_status": "Curated-v2 reproduction overlay; provisional; author labels not available",
+    "path_configuration": "Original absolute paths retained only in ignored local evidence; use LIN2026_PROJECT to relocate."
+  },
+  "failures_and_resolution": [
+    {
+      "event": "Initial H5AD download premature EOF",
+      "received_bytes": 683242469,
+      "expected_bytes": 705007195,
+      "resolution": "Validated Range resume for final21764726 bytes; SHA and HDF5 size passed."
+    },
+    {
+      "event": "GEO family targ=all includes enormous platform record",
+      "resolution": "Switched to targ=self for concise current series/sample metadata; discarded unneeded family responses from Git."
+    },
+    {
+      "event": "Original Williams Table S1 supplemental XLSX",
+      "resolution": "PMC direct routes returned HTML or404; EuropePMC fullTextXML500; NCBI BioC main text obtained, 8 biopsies confirmed but repeated patient mapping remains conservative."
+    },
+    {
+      "event": "GSE310110 processing-version mismatch",
+      "resolution": "GEO text says Cell Ranger3.1.0, while MEX metadata headers say6.1.2/7.2.0/8.0.1. Preserve both; do not claim homogeneous processing."
+    }
+  ],
+  "evidence_files": [
+    "data/download_manifest.json",
+    "data/cellxgene_collection_2026-10-08.json",
+    "data/cellxgene_object_inspection.json",
+    "data/geo_current_metadata.json",
+    "data/candidate_matrix_probes.json",
+    "data/donor_map.csv",
+    "data/donor_replication_audit.json",
+    "data/donor_celltype_counts.csv"
+  ],
+  "method_eligibility": {
+    "CollecTRI_ULM": "Counts, species/symbol mapping and annotations available; donor pseudobulk plus assay adjustment feasible for Fibroblast and blood Endothelial; discovery limits apply.",
+    "VIPER_prebuilt": "Feasible with signed curated network; distinguish network source from this expression study.",
+    "ARACNe_de_novo": "Not justified as patient-replicated disease network:18conservative donor codes << approximate100independent samples; cell numbers do not satisfy this criterion.",
+    "pySCENIC": "RNA input available; no motif ranking database obtained/validated by this audit.",
+    "hdWGCNA": "RNA available; no module inference or validation claimed by this audit.",
+    "SCENIC_Pando_GRaNIE_LINGER_multiomics": "This chosen asset has RNA only; matched ATAC/enhancer evidence not present.",
+    "CellOracle_perturbation": "No model/base GRN or simulated perturbation performed by this audit."
+  }
+}

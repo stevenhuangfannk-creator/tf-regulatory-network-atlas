@@ -1,0 +1,222 @@
+[
+  {
+    "method": "ARACNe-AP",
+    "paper_doi": "10.1093/bioinformatics/btw216",
+    "paper_title": "ARACNe-AP: gene network reverse engineering through adaptive partitioning inference of mutual information.",
+    "paper_year": "2016",
+    "first_publication_date": "2016-04-23",
+    "journal": "Bioinformatics (Oxford, England)",
+    "pubmed_id": "27153652",
+    "pmc_id": "PMC4937200"
+  },
+  {
+    "method": "VIPER",
+    "paper_doi": "10.1038/ng.3593",
+    "paper_title": "Functional characterization of somatic mutations in cancer using network-based inference of protein activity.",
+    "paper_year": "2016",
+    "first_publication_date": "2016-06-20",
+    "journal": "Nature genetics",
+    "pubmed_id": "27322546",
+    "pmc_id": "PMC5040167"
+  },
+  {
+    "method": "CollecTRI",
+    "paper_doi": "10.1093/nar/gkad841",
+    "paper_title": "Expanding the coverage of regulons from high-confidence prior knowledge for accurate estimation of transcription factor activities.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-11-01",
+    "journal": "Nucleic acids research",
+    "pubmed_id": "37843125",
+    "pmc_id": "PMC10639077"
+  },
+  {
+    "method": "decoupler",
+    "paper_doi": "10.1093/bioadv/vbac016",
+    "paper_title": "decoupleR: ensemble of computational methods to infer biological activities from omics data.",
+    "paper_year": "2022",
+    "first_publication_date": "2022-03-08",
+    "journal": "Bioinformatics advances",
+    "pubmed_id": "36699385",
+    "pmc_id": "PMC9710656"
+  },
+  {
+    "method": "DoRothEA",
+    "paper_doi": "10.1101/gr.240663.118",
+    "paper_title": "Benchmark and integration of resources for the estimation of human transcription factor activities.",
+    "paper_year": "2019",
+    "first_publication_date": "2019-07-24",
+    "journal": "Genome research",
+    "pubmed_id": "31340985",
+    "pmc_id": "PMC6673718"
+  },
+  {
+    "method": "PROGENy",
+    "paper_doi": "10.1038/s41467-017-02391-6",
+    "paper_title": "Perturbation-response genes reveal signaling footprints in cancer gene expression.",
+    "paper_year": "2018",
+    "first_publication_date": "2018-01-02",
+    "journal": "Nature communications",
+    "pubmed_id": "29295995",
+    "pmc_id": "PMC5750219"
+  },
+  {
+    "method": "pySCENIC",
+    "paper_doi": "10.1038/s41596-020-0336-2",
+    "paper_title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis.",
+    "paper_year": "2020",
+    "first_publication_date": "2020-06-19",
+    "journal": "Nature protocols",
+    "pubmed_id": "32561888",
+    "pmc_id": ""
+  },
+  {
+    "method": "hdWGCNA",
+    "paper_doi": "10.1016/j.crmeth.2023.100498",
+    "paper_title": "hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-06-12",
+    "journal": "Cell reports methods",
+    "pubmed_id": "37426759",
+    "pmc_id": "PMC10326379"
+  },
+  {
+    "method": "CellOracle",
+    "paper_doi": "10.1038/s41586-022-05688-9",
+    "paper_title": "Dissecting cell identity via network inference and in silico gene perturbation.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-02-08",
+    "journal": "Nature",
+    "pubmed_id": "36755098",
+    "pmc_id": "PMC9946838"
+  },
+  {
+    "method": "SCENIC+",
+    "paper_doi": "10.1038/s41592-023-01938-4",
+    "paper_title": "SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-07-13",
+    "journal": "Nature methods",
+    "pubmed_id": "37443338",
+    "pmc_id": "PMC10482700"
+  },
+  {
+    "method": "Pando",
+    "paper_doi": "10.1038/s41586-022-05279-8",
+    "paper_title": "Inferring and perturbing cell fate regulomes in human brain organoids.",
+    "paper_year": "2023",
+    "first_publication_date": "2022-10-05",
+    "journal": "Nature",
+    "pubmed_id": "36198796",
+    "pmc_id": "PMC10499607"
+  },
+  {
+    "method": "GRaNIE",
+    "paper_doi": "10.15252/msb.202311627",
+    "paper_title": "GRaNIE and GRaNPA: inference and evaluation of enhancer-mediated gene regulatory networks.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-04-19",
+    "journal": "Molecular systems biology",
+    "pubmed_id": "37073532",
+    "pmc_id": "PMC10258561"
+  },
+  {
+    "method": "LINGER",
+    "paper_doi": "10.1038/s41587-024-02182-7",
+    "paper_title": "Inferring gene regulatory networks from single-cell multiome data using atlas-scale external data.",
+    "paper_year": "2025",
+    "first_publication_date": "2024-04-12",
+    "journal": "Nature biotechnology",
+    "pubmed_id": "38609714",
+    "pmc_id": "PMC11825371"
+  },
+  {
+    "method": "scPRINT",
+    "paper_doi": "10.1038/s41467-025-58699-1",
+    "paper_title": "scPRINT: pre-training on 50 million cells allows robust gene network predictions.",
+    "paper_year": "2025",
+    "first_publication_date": "2025-04-16",
+    "journal": "Nature communications",
+    "pubmed_id": "40240364",
+    "pmc_id": "PMC12003772"
+  },
+  {
+    "method": "Inferelator",
+    "paper_doi": "10.1093/bioinformatics/btac117",
+    "paper_title": "High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0.",
+    "paper_year": "2022",
+    "first_publication_date": "2022-04-01",
+    "journal": "Bioinformatics (Oxford, England)",
+    "pubmed_id": "35188184",
+    "pmc_id": "PMC9048651"
+  },
+  {
+    "method": "RegEnrich",
+    "paper_doi": "10.1038/s42003-021-02991-5",
+    "paper_title": "RegEnrich gene regulator enrichment analysis reveals a key role of the ETS transcription factor family in interferon signaling.",
+    "paper_year": "2022",
+    "first_publication_date": "2022-01-11",
+    "journal": "Communications biology",
+    "pubmed_id": "35017649",
+    "pmc_id": "PMC8752721"
+  },
+  {
+    "method": "NicheNet",
+    "paper_doi": "10.1038/s41592-019-0667-5",
+    "paper_title": "NicheNet: modeling intercellular communication by linking ligands to target genes.",
+    "paper_year": "2020",
+    "first_publication_date": "2019-12-09",
+    "journal": "Nature methods",
+    "pubmed_id": "31819264",
+    "pmc_id": ""
+  },
+  {
+    "method": "OmniPath",
+    "paper_doi": "10.15252/msb.20209923",
+    "paper_title": "Integrated intra- and intercellular signaling knowledge for multicellular omics analysis.",
+    "paper_year": "2021",
+    "first_publication_date": "2021-03-01",
+    "journal": "Molecular systems biology",
+    "pubmed_id": "33749993",
+    "pmc_id": "PMC7983032"
+  },
+  {
+    "method": "RENGE",
+    "paper_doi": "10.1038/s42003-023-05594-4",
+    "paper_title": "RENGE infers gene regulatory networks using time-series single-cell RNA-seq data with CRISPR perturbations.",
+    "paper_year": "2023",
+    "first_publication_date": "2023-12-28",
+    "journal": "Communications biology",
+    "pubmed_id": "38155269",
+    "pmc_id": "PMC10754834"
+  },
+  {
+    "method": "SwitchTFI",
+    "paper_doi": "10.1186/s13059-025-03876-0",
+    "paper_title": "SwitchTFI: identifying transcription factors driving cell differentiation.",
+    "paper_year": "2025",
+    "first_publication_date": "2025-12-02",
+    "journal": "Genome biology",
+    "pubmed_id": "41331466",
+    "pmc_id": "PMC12673684"
+  },
+  {
+    "method": "KEGNI",
+    "paper_doi": "10.1186/s13059-025-03780-7",
+    "paper_title": "KEGNI: knowledge graph enhanced framework for gene regulatory network inference.",
+    "paper_year": "2025",
+    "first_publication_date": "2025-09-22",
+    "journal": "Genome biology",
+    "pubmed_id": "40983951",
+    "pmc_id": "PMC12455831"
+  },
+  {
+    "method": "SCENIC foundational paper",
+    "paper_doi": "10.1038/nmeth.4463",
+    "paper_title": "SCENIC: single-cell regulatory network inference and clustering.",
+    "paper_year": "2017",
+    "first_publication_date": "2017-10-09",
+    "journal": "Nature methods",
+    "pubmed_id": "28991892",
+    "pmc_id": "PMC5937676"
+  }
+]

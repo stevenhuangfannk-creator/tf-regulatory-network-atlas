@@ -1,0 +1,12 @@
+{
+  "command": "python scripts/run_tests.py",
+  "status": "PASS",
+  "tests_run": 7,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "skip_reasons": [],
+  "seconds": 15.26500000001397,
+  "unit_fixture_policy": "Synthetic bytes/arrays are used only in numerical/download regression unit tests, never for scientific figures",
+  "limit": "Tests check data/numeric contracts; large ignored inputs are skipped when missing, not silently declared validated"
+}

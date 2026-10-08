@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='518.74pt' height='283.46pt' viewBox='0 0 518.74 283.46'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MC4wMHwyODMuNDY='>
+    <rect x='0.00' y='0.00' width='518.74' height='283.46' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHwyODMuNDY=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MjQuNjV8MjgzLjQ2'>
+    <rect x='0.00' y='24.65' width='518.74' height='258.81' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MjQuNjV8MjgzLjQ2)'>
+<rect x='36.94' y='58.09' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<rect x='194.13' y='58.09' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<rect x='351.33' y='58.09' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<rect x='36.94' y='181.92' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<rect x='194.13' y='181.92' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<rect x='351.33' y='181.92' width='130.47' height='68.11' style='stroke-width: 0.96; stroke: #91A8BC; stroke-linecap: butt; stroke-linejoin: miter; fill: #EEF3F7;' />
+<text x='102.18' y='83.37' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='79.37px' lengthAdjust='spacingAndGlyphs'>Public periodontal atlas</text>
+<text x='102.18' y='94.89' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='73.83px' lengthAdjust='spacingAndGlyphs'>38,971 analyzed cells</text>
+<text x='102.18' y='106.41' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='94.92px' lengthAdjust='spacingAndGlyphs'>Raw counts + author UMAP</text>
+<text x='259.37' y='83.37' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='79.80px' lengthAdjust='spacingAndGlyphs'>Source and donor audit</text>
+<text x='259.37' y='94.89' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='106.67px' lengthAdjust='spacingAndGlyphs'>Within-study condition mapping</text>
+<text x='259.37' y='106.41' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='86.16px' lengthAdjust='spacingAndGlyphs'>Assay/platform sensitivity</text>
+<text x='416.56' y='83.37' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='77.22px' lengthAdjust='spacingAndGlyphs'>Signed CollecTRI prior</text>
+<text x='416.56' y='94.89' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='74.24px' lengthAdjust='spacingAndGlyphs'>Human gene symbols</text>
+<text x='416.56' y='106.41' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='89.17px' lengthAdjust='spacingAndGlyphs'>Observed-target coverage</text>
+<text x='102.18' y='207.20' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='78.52px' lengthAdjust='spacingAndGlyphs'>Candidate prioritization</text>
+<text x='102.18' y='218.72' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='84.69px' lengthAdjust='spacingAndGlyphs'>Prior targets + regulators</text>
+<text x='102.18' y='230.25' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='113.51px' lengthAdjust='spacingAndGlyphs'>Proposed experimental validation</text>
+<text x='259.37' y='207.20' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='72.96px' lengthAdjust='spacingAndGlyphs'>Donor-level inference</text>
+<text x='259.37' y='218.72' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='109.43px' lengthAdjust='spacingAndGlyphs'>Assay-adjusted model + HC3 CI</text>
+<text x='259.37' y='230.25' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='76.14px' lengthAdjust='spacingAndGlyphs'>FDR + stability checks</text>
+<text x='416.56' y='207.20' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='81.91px' lengthAdjust='spacingAndGlyphs'>Matched activity scoring</text>
+<text x='416.56' y='218.72' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='74.87px' lengthAdjust='spacingAndGlyphs'>ULM + VIPER scoring</text>
+<text x='416.56' y='230.25' text-anchor='middle' style='font-size: 7.68px; font-family: "Arial";' textLength='98.99px' lengthAdjust='spacingAndGlyphs'>Donor x cell-type pseudobulk</text>
+<line x1='170.56' y1='92.14' x2='188.63' y2='92.14' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<polyline points='183.72,94.98 188.63,92.14 183.72,89.31 ' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<line x1='327.75' y1='92.14' x2='345.83' y2='92.14' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<polyline points='340.92,94.98 345.83,92.14 340.92,89.31 ' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<line x1='416.56' y1='128.05' x2='416.56' y2='180.06' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<polyline points='413.73,175.15 416.56,180.06 419.40,175.15 ' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<line x1='348.18' y1='215.98' x2='330.11' y2='215.98' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<polyline points='335.02,213.14 330.11,215.98 335.02,218.81 ' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<line x1='190.99' y1='215.98' x2='172.91' y2='215.98' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+<polyline points='177.82,213.14 172.91,215.98 177.82,218.81 ' style='stroke-width: 1.07; stroke: #4477AA; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHwyODMuNDY=)'>
+<text x='0.00' y='22.97' style='font-size: 8.00px; font-family: "Arial";' textLength='264.67px' lengthAdjust='spacingAndGlyphs'>Cells describe local patterns; donors support exploratory disease inference</text>
+<text x='0.00' y='11.15' style='font-size: 10.00px; font-weight: bold; font-family: "Arial";' textLength='180.11px' lengthAdjust='spacingAndGlyphs'>Executed regulatory-activity workflow</text>
+</g>
+</svg>

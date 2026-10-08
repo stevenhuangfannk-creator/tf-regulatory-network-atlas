@@ -1,0 +1,26 @@
+# Large inputs, caches and local environments are reconstructed, never published.
+data/raw/
+data/cache/
+data/local/
+*.h5ad
+*.rds
+*.loom
+*.h5
+*.hdf5
+*.mtx
+*.mtx.gz
+*.fastq*
+*.bam
+*.jar
+*.feather
+*.parquet
+*.pt
+*.pth
+*.ckpt
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+config/local.json
+*.log

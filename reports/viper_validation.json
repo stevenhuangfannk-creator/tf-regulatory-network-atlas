@@ -1,0 +1,26 @@
+[
+  {
+    "cell_type": "Endothelial",
+    "n_regulators": 516,
+    "effect_spearman": 0.9350923860803135,
+    "rank_spearman": 0.8686225348754232,
+    "same_sign_fraction": 0.9457364341085271,
+    "note": "Same data and shared prior: agreement is not independent validation"
+  },
+  {
+    "cell_type": "Fibroblast",
+    "n_regulators": 516,
+    "effect_spearman": 0.9411215773652901,
+    "rank_spearman": 0.8715241945450963,
+    "same_sign_fraction": 0.937984496124031,
+    "note": "Same data and shared prior: agreement is not independent validation"
+  },
+  {
+    "cell_type": "Macrophage",
+    "n_regulators": 516,
+    "effect_spearman": 0.9347066743587737,
+    "rank_spearman": 0.8530411264249649,
+    "same_sign_fraction": 0.8992248062015504,
+    "note": "Same data and shared prior: agreement is not independent validation"
+  }
+]

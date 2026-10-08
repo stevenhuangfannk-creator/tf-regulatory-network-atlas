@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "nonvisual_inspection": "Effective text spans account for Cairo normalized Tf=1 and text-matrix scaling; R is the only renderer",
+  "figures": [
+    {
+      "figure": "Composite_periodontal_regulatory_landscape",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        246.9444444444444
+      ],
+      "text_spans": 166,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig01_analysis_workflow",
+      "minimum_effective_font_pt": 7.682243824005127,
+      "dimensions_mm": [
+        182.73888888888888,
+        99.8361111111111
+      ],
+      "text_spans": 20,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig02_tf_activity_umap",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        149.93055555555554
+      ],
+      "text_spans": 65,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig03_donor_activity_heatmap",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        154.86944444444444
+      ],
+      "text_spans": 67,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig04_curated_tf_target_network",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        129.8222222222222
+      ],
+      "text_spans": 33,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig05_differential_tf_activity",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        119.94444444444444
+      ],
+      "text_spans": 49,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig09_celltype_activity_profile",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        109.71388888888889
+      ],
+      "text_spans": 29,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig12_method_concordance",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        94.89722222222221
+      ],
+      "text_spans": 38,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig13_progeny_donor_pathways",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        164.7472222222222
+      ],
+      "text_spans": 75,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig13b_progeny_disease_effects",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        124.88333333333334
+      ],
+      "text_spans": 64,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig14_original_viper_activity",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        154.86944444444444
+      ],
+      "text_spans": 68,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig15_tf_hallmark_overlap",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        109.71388888888889
+      ],
+      "text_spans": 30,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    },
+    {
+      "figure": "Fig16_donor_expression_activity",
+      "minimum_effective_font_pt": 6.5,
+      "dimensions_mm": [
+        182.73888888888888,
+        134.7611111111111
+      ],
+      "text_spans": 34,
+      "png_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "svg_editable_text": true
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "backend": "R",
+  "seed": 20261008,
+  "style": {
+    "font": "Arial",
+    "base_font_pt": 8,
+    "minimum_font_pt": 5,
+    "width_mm": 183,
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ],
+    "editable_vector_text": true,
+    "dense_umap_marks": "R ggrastr rasterization at 600 dpi; vector axes and labels",
+    "palette": {
+      "positive": "#4477AA",
+      "negative": "#CC6677",
+      "neutral": "#B9BDC2",
+      "accent": "#DD9955"
+    }
+  },
+  "data_rows": {
+    "cells": 38971,
+    "pseudobulk": 23736,
+    "differential": 1548,
+    "network_input": 48
+  },
+  "umap_sampling": "None",
+  "umap_tfs": ["GTF3A", "ZNF148"],
+  "figure_inputs": {
+    "Fig01": [
+      "cells.csv.gz",
+      "pseudobulk_activity.csv",
+      "regulon_coverage.csv"
+    ],
+    "Fig02": [
+      "cells.csv.gz",
+      "differential_activity.csv"
+    ],
+    "Fig03": [
+      "pseudobulk_activity.csv",
+      "differential_activity.csv"
+    ],
+    "Fig04": [
+      "selected_network_edges.csv"
+    ],
+    "Fig05": [
+      "differential_activity.csv"
+    ],
+    "Fig09": [
+      "celltype_activity.csv"
+    ],
+    "Fig12": [
+      "method_concordance.csv"
+    ],
+    "Composite": [
+      "cells.csv.gz",
+      "pseudobulk_activity.csv",
+      "differential_activity.csv",
+      "selected_network_edges.csv",
+      "method_concordance.csv",
+      "progeny_differential.csv",
+      "tf_pathway_links.csv"
+    ],
+    "Fig06": {},
+    "Fig07": {},
+    "Fig08": {},
+    "Fig10": {},
+    "Fig11": {},
+    "Fig13": [
+      "progeny_activity_matrix.csv",
+      "pseudobulk_metadata.csv"
+    ],
+    "Fig13b": [
+      "progeny_differential.csv"
+    ],
+    "Fig14": [
+      "bioc_viper_activity_matrix.csv",
+      "pseudobulk_metadata.csv",
+      "differential_activity.csv"
+    ],
+    "Fig15": [
+      "tf_pathway_links.csv"
+    ],
+    "Fig16": [
+      "donor_expression_activity.csv"
+    ]
+  },
+  "interpretation_boundaries": [
+    "Cells are descriptive observations; donors are the inferential units.",
+    "UMAP proximity is not lineage, trajectory or causation.",
+    "Curated prior edges are not de novo sample-specific GRN inference.",
+    "Activity scores are expression footprints, not measured TF protein activity.",
+    "Agreement on a shared prior is an algorithm comparison, not independent biological validation.",
+    "Ordinary coexpression cannot be labelled hdWGCNA or a directed regulatory network."
+  ],
+  "packages": {
+    "ggplot2": "3.5.2",
+    "patchwork": "1.3.1",
+    "svglite": "2.1.3",
+    "ragg": "1.3.3",
+    "ggrastr": "1.0.2",
+    "jsonlite": "2.0.0"
+  },
+  "figures": {
+    "Fig02_tf_activity_umap": {
+      "width_mm": 183,
+      "height_mm": 150,
+      "dpi": 600,
+      "selection": {
+        "tfs": ["GTF3A", "ZNF148"],
+        "cells_retained": 38971,
+        "embedding": "Unchanged author X_umap"
+      }
+    },
+    "Fig03_donor_activity_heatmap": {
+      "width_mm": 183,
+      "height_mm": 155,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 552,
+        "tfs": ["BHLHE40", "DDIT3", "EGR4", "GLI2", "JUNB", "NFKBIB", "PRDM2", "TBX5", "TCF7L2", "XBP1", "ZBTB7A", "ZNF384", "CREBBP", "EPAS1", "ETV3", "GTF3A", "HMGA2", "JUND", "MAF", "NFATC1", "NR2C2", "TFE3", "ZNF148", "BCL6", "CIITA", "CREB3L1", "EGR1", "ELF3", "ELF4", "EZH2", "KAT5", "NR1H4", "NR1I3", "RARA", "ZNF382"],
+        "transform": "Z-score each TF within cell type across actual donor pseudobulk scores; constant rows map to zero."
+      }
+    },
+    "Fig05_differential_tf_activity": {
+      "width_mm": 183,
+      "height_mm": 120,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 30,
+        "ranking": "Ascending donor-level BH FDR, then descending absolute effect; ties resolved lexicographically.",
+        "statistic": "Assay-adjusted disease coefficient; HC3 95% CI; BH FDR"
+      }
+    },
+    "Fig04_curated_tf_target_network": {
+      "width_mm": 183,
+      "height_mm": 130,
+      "dpi": 600,
+      "selection": {
+        "input_edges": 48,
+        "displayed_edges": 18,
+        "tfs": ["GTF3A", "ZNF148", "CREBBP"],
+        "targets": ["MMP3", "CXCL8", "CXCL5", "CSF2", "PTGS2", "IGF2", "ADM", "LDLR", "VEGFA", "PLAU", "OAS1", "KDR", "ODC1", "SOX18", "EGFR", "IRF1", "HMGCS1", "IRS2"],
+        "selection_rule": "Retain available top-ranked displayed TFs and target genes ranked by absolute supplied expression contrast; no change to original result tables.",
+        "evidence_type": "curated_prior"
+      }
+    },
+    "Fig09_celltype_activity_profile": {
+      "width_mm": 183,
+      "height_mm": 110,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 48,
+        "statistic": "Descriptive cell mean ULM activity; not RSS",
+        "transform": "Z-score celltype/condition means within each TF for descriptive display only."
+      }
+    },
+    "Fig12_method_concordance": {
+      "width_mm": 183,
+      "height_mm": 95,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 1548,
+        "statistic": "Descriptive Spearman correlation of nominal disease-association P-value ranks across shared TFs; not independent validation",
+        "implementation": "Original Bioconductor VIPER 1.36.0",
+        "labelled_tfs": ["GTF3A", "ZNF148", "CREBBP"]
+      }
+    },
+    "Fig01_analysis_workflow": {
+      "width_mm": 183,
+      "height_mm": 100,
+      "dpi": 600,
+      "selection": {}
+    },
+    "Fig13_progeny_donor_pathways": {
+      "width_mm": 183,
+      "height_mm": 165,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 644,
+        "statistic": "PROGENy pathway activity, not TF activity"
+      }
+    },
+    "Fig13b_progeny_disease_effects": {
+      "width_mm": 183,
+      "height_mm": 125,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 42,
+        "statistic": "Assay-adjusted donor pathway coefficient; HC3 95% CI; BH FDR"
+      }
+    },
+    "Fig14_original_viper_activity": {
+      "width_mm": 183,
+      "height_mm": 155,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 552,
+        "implementation": "Original Bioconductor VIPER 1.36.0",
+        "targets": "Same filtered CollecTRI prior"
+      }
+    },
+    "Fig15_tf_hallmark_overlap": {
+      "width_mm": 183,
+      "height_mm": 110,
+      "dpi": 600,
+      "selection": {
+        "input_rows": 400,
+        "displayed_rows": 48,
+        "gene_sets": ["TNF-alpha Signaling via NF-kB", "Apoptosis", "Epithelial Mesenchymal Transition", "Inflammatory Response", "Allograft Rejection", "Complement"],
+        "selection": "Six gene sets with lowest observed minimum BH q; all supplied TF pairs retained for these sets",
+        "statistic": "Curated-prior target overlap; not coexpression modules or disease pathway activation"
+      }
+    },
+    "Fig16_donor_expression_activity": {
+      "width_mm": 183,
+      "height_mm": 135,
+      "dpi": 600,
+      "selection": {
+        "rows_displayed": 92,
+        "tfs": ["GTF3A", "ZNF148"],
+        "unit": "Matched biological donor x cell type",
+        "statistic": "Raw paired expression/activity observations; no fitted causal relationship"
+      }
+    },
+    "Composite_periodontal_regulatory_landscape": {
+      "width_mm": 183,
+      "height_mm": 247,
+      "dpi": 600,
+      "selection": {
+        "focus_cell_type": "Fibroblast",
+        "focus_tf": "GTF3A",
+        "panels": ["cell embedding", "TF activity", "donor disease coefficients", "donor regulon heatmap", "curated prior network", "algorithm concordance", "PROGENy pathway effects", "prior-target Hallmark overlap"],
+        "pathway_focus": ["MAPK", "EGFR", "NFkB", "Trail", "TNFa"],
+        "compact_forest_tfs": ["GTF3A", "ZNF148", "CREBBP", "NFKBIB", "TFE3", "ETV3", "JUND", "HMGA2"],
+        "compact_network_targets": ["MMP3", "CXCL8", "CXCL5", "CSF2", "PTGS2", "IGF2", "ADM", "LDLR", "VEGFA", "PLAU"],
+        "compact_overlap_sets": ["TNF-alpha Signaling via NF-kB", "Apoptosis", "Epithelial Mesenchymal Transition"]
+      }
+    }
+  },
+  "input_table_md5": {
+    "bioc_viper_activity_matrix.csv": "b1d814080362f4d2cfc7c840db637d6c",
+    "bioc_viper_differential.csv": "fbcfd00a85156e2756051e6238af3e4b",
+    "bioc_viper_pseudobulk_activity.csv": "82f7e6ab2b1df1a82dc16d40560f9897",
+    "cells.csv.gz": "c0621307d5ff2b0bccbb0180e298b743",
+    "celltype_activity.csv": "8dc44d7fc7f46207054965f370e1e445",
+    "differential_activity.csv": "0b96474512c2608d4d9b78a40ed7ccce",
+    "donor_expression_activity.csv": "3e0ff10212760b8f74aff1450ae62a91",
+    "expression_activity_comparison.csv": "4b4538f5345719eb47404fbd6fc459ae",
+    "method_concordance.csv": "1db9f54b1070cca905464c4461f11104",
+    "progeny_activity_matrix.csv": "46be17e65c19f7013ec159a1b9a55fcb",
+    "progeny_differential.csv": "4611be21f984ea6672d319a6df34b006",
+    "pseudobulk_activity.csv": "8c077663d64299996bb9a7d73c0bb5c2",
+    "pseudobulk_metadata.csv": "3cf319c16ae150c7aac7982005d75226",
+    "regulator_expression_differential.csv": "843483e702e4a6926428442fb2b71973",
+    "regulon_coverage.csv": "60b09f5f13c47ded5aa259b9e9a227c0",
+    "regulon_target_stability.csv": "08e6e39d2ce1e8e8dae8f688c2639257",
+    "regulon_target_subsampling.csv": "7b0bb339ee8a2f8974760ab7d221ca24",
+    "sample_cell_counts_before_filter.csv": "f2986b5d7871a13e75f471a91be5a9b3",
+    "selected_network_edges.csv": "4235c4121904ba415dfee49ee6405eac",
+    "stability.csv": "2102aa11a5c129139b896819138f57e9",
+    "tf_pathway_links.csv": "3979e5491956cb7ea3ac336fc55940ca",
+    "ulm_activity_matrix.csv": "1cbd1ed0c9798a8eb2a4e0cd48ce4008",
+    "viper_activity_matrix.csv": "9cca9e5c947656c6379b419d2c0a5c53",
+    "viper_implementation_comparison.csv": "c510144657521369e47cc29b2f53c954"
+  }
+}

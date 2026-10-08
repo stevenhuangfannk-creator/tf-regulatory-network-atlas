@@ -1,0 +1,47 @@
+{
+  "status": "executed",
+  "software": "Original Bioconductor VIPER",
+  "version": "1.36.0",
+  "R_version": "R version 4.3.1 (2023-06-16 ucrt)",
+  "seed": 20261008,
+  "parameters": {
+    "method": "none",
+    "minsize": 10,
+    "eset.filter": false,
+    "pleiotropy": true,
+    "cores": 1,
+    "verbose": false,
+    "nes": true,
+    "bootstraps": 0,
+    "likelihood": "Uniform 1 per retained target",
+    "tfmode": "Sign of CollecTRI weight"
+  },
+  "elapsed_seconds": 14.13,
+  "input": {
+    "expression": "data/local/pseudobulk_centered.csv.gz",
+    "prior": "data/cache/collectri.csv",
+    "expression_md5": "b6e2598db46bc7be9b3c751eaed93eb5",
+    "prior_md5": "cee4a3943c059e6dd8796ced6dec44f6",
+    "genes": 21690,
+    "samples": 46,
+    "original_prior_edges": 43175,
+    "matched_prior_edges": 36178,
+    "scored_regulators": 516
+  },
+  "output": {
+    "path": "results/tables/bioc_viper_activity_matrix.csv",
+    "orientation": "sample x regulator",
+    "finite": true
+  },
+  "packages": {
+    "viper": "1.36.0",
+    "Biobase": "2.62.0",
+    "BiocGenerics": "0.48.1",
+    "mixtools": "2.0.0.1",
+    "e1071": "1.7.16",
+    "proxy": "0.4.27",
+    "KernSmooth": "2.23.21",
+    "jsonlite": "2.0.0"
+  },
+  "limitations": ["Curated prior; ARACNe de novo inference was not executed.", "No msVIPER/MRA was executed.", "Donor group mapping and assay confounding limit disease interpretation.", "Original VIPER output is distinct from decoupler's VIPER implementation."]
+}

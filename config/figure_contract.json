@@ -1,0 +1,186 @@
+{
+  "backend": "R",
+  "archetype": "asymmetric mixed-modality figure",
+  "core_conclusion": "Donor-level transcriptional footprints nominate inflammation-associated regulatory candidates for experimental follow-up.",
+  "style": {
+    "font": "Arial",
+    "base_font_pt": 8.0,
+    "minimum_font_pt": 5.0,
+    "width_mm": 183,
+    "dpi": 600,
+    "formats": [
+      "pdf",
+      "svg",
+      "png"
+    ],
+    "editable_vector_text": true,
+    "dense_umap_marks": "R ggrastr rasterization at 600 dpi; vector axes and labels",
+    "palette": {
+      "positive": "#4477AA",
+      "negative": "#CC6677",
+      "neutral": "#B9BDC2",
+      "accent": "#DD9955"
+    }
+  },
+  "selection": {
+    "umap_tf_count": 2,
+    "heatmap_tf_count_per_cell_type": 12,
+    "forest_tf_count_per_cell_type": 10,
+    "network_tf_count": 3,
+    "network_max_targets": 28,
+    "network_selection": "Retain available top-ranked displayed TFs and target genes ranked by absolute supplied expression contrast; no change to original result tables.",
+    "candidate_order": "Ascending donor-level BH FDR, then descending absolute effect; ties resolved lexicographically.",
+    "heatmap_transform": "Z-score each TF within cell type across actual donor pseudobulk scores; constant rows map to zero.",
+    "dotplot_transform": "Z-score celltype/condition means within each TF for descriptive display only.",
+    "umap_sampling": "None: retain all supplied cells and embedding coordinates."
+  },
+  "figures": {
+    "Fig01": {
+      "claim": "Shows the executed data-to-candidate workflow and statistical unit.",
+      "input": [
+        "cells.csv.gz",
+        "pseudobulk_activity.csv",
+        "regulon_coverage.csv"
+      ],
+      "height_mm": 100,
+      "status": "implemented"
+    },
+    "Fig02": {
+      "claim": "TF expression and inferred activity vary across the same author-provided cell embedding.",
+      "input": [
+        "cells.csv.gz",
+        "differential_activity.csv"
+      ],
+      "height_mm": 150,
+      "status": "implemented"
+    },
+    "Fig03": {
+      "claim": "Candidate TF footprints vary between donors and cell types.",
+      "input": [
+        "pseudobulk_activity.csv",
+        "differential_activity.csv"
+      ],
+      "height_mm": 155,
+      "status": "implemented"
+    },
+    "Fig04": {
+      "claim": "Curated signed prior targets explain candidate TF scoring inputs.",
+      "input": [
+        "selected_network_edges.csv"
+      ],
+      "height_mm": 130,
+      "edge_type": "curated_prior",
+      "status": "implemented"
+    },
+    "Fig05": {
+      "claim": "Donor-level activity differences are shown with their uncertainty and multiple-testing results.",
+      "input": [
+        "differential_activity.csv"
+      ],
+      "height_mm": 120,
+      "status": "implemented"
+    },
+    "Fig09": {
+      "claim": "Descriptive TF activity patterns differ across annotated cell types.",
+      "input": [
+        "celltype_activity.csv"
+      ],
+      "height_mm": 110,
+      "statistic": "Mean ULM activity, not RSS",
+      "status": "implemented"
+    },
+    "Fig12": {
+      "claim": "Two executed scoring algorithms show partial agreement of nominal disease-association P-value ranks using the same prior.",
+      "input": [
+        "method_concordance.csv"
+      ],
+      "height_mm": 95,
+      "status": "implemented"
+    },
+    "Composite": {
+      "claim": "Integrates cell context, expression–activity distinction, donor effects, donor heterogeneity, prior-network interpretation, pathway scores and target gene-set overlap.",
+      "input": [
+        "cells.csv.gz",
+        "pseudobulk_activity.csv",
+        "differential_activity.csv",
+        "selected_network_edges.csv",
+        "method_concordance.csv",
+        "progeny_differential.csv",
+        "tf_pathway_links.csv"
+      ],
+      "height_mm": 247,
+      "status": "implemented"
+    },
+    "Fig06": {
+      "status": "planned",
+      "reason": "Requires executed hdWGCNA and donor-level module associations."
+    },
+    "Fig07": {
+      "status": "planned",
+      "reason": "Requires actual modules, TF overlap and pathway evidence."
+    },
+    "Fig08": {
+      "status": "planned",
+      "reason": "Requires genuine multi-TF module/gene-set associations."
+    },
+    "Fig10": {
+      "status": "planned",
+      "reason": "Requires executed perturbation simulation."
+    },
+    "Fig11": {
+      "status": "planned",
+      "reason": "Requires motif or chromatin evidence with matched genome build."
+    },
+    "Fig13": {
+      "status": "implemented",
+      "claim": "PROGENy donor footprints describe pathway activity, distinct from TF activity.",
+      "input": [
+        "progeny_activity_matrix.csv",
+        "pseudobulk_metadata.csv"
+      ],
+      "height_mm": 165
+    },
+    "Fig13b": {
+      "status": "implemented",
+      "claim": "Assay-adjusted donor pathway effects are shown with HC3 uncertainty.",
+      "input": [
+        "progeny_differential.csv"
+      ],
+      "height_mm": 125
+    },
+    "Fig14": {
+      "status": "implemented",
+      "claim": "Original Bioconductor VIPER scores on matched donor input show comparable factor patterns.",
+      "input": [
+        "bioc_viper_activity_matrix.csv",
+        "pseudobulk_metadata.csv",
+        "differential_activity.csv"
+      ],
+      "height_mm": 155
+    },
+    "Fig15": {
+      "status": "implemented",
+      "claim": "Selected prior target sets overlap Hallmark annotations; this is not measured pathway activation.",
+      "input": [
+        "tf_pathway_links.csv"
+      ],
+      "height_mm": 110
+    },
+    "Fig16": {
+      "status": "implemented",
+      "claim": "Matched donor observations distinguish regulator expression from downstream activity footprints.",
+      "input": [
+        "donor_expression_activity.csv"
+      ],
+      "height_mm": 135
+    }
+  },
+  "interpretation_boundaries": [
+    "Cells are descriptive observations; donors are the inferential units.",
+    "UMAP proximity is not lineage, trajectory or causation.",
+    "Curated prior edges are not de novo sample-specific GRN inference.",
+    "Activity scores are expression footprints, not measured TF protein activity.",
+    "Agreement on a shared prior is an algorithm comparison, not independent biological validation.",
+    "Ordinary coexpression cannot be labelled hdWGCNA or a directed regulatory network."
+  ]
+}

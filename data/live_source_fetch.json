@@ -1,0 +1,55 @@
+[
+  {
+    "source": "GSE266897",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266897&targ=all&form=text&view=full",
+    "status": 200,
+    "sha256": "c738d09607b50075742fb6bc40c1aea05e16088e0c519438afe1ddefa26a500b",
+    "bytes": 5242880
+  },
+  {
+    "source": "GSE310110",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE310110&targ=all&form=text&view=full",
+    "status": 200,
+    "sha256": "1fffcf429463a1c92752d1310be5d07088eb6953a2244ec656877f19caea9016",
+    "bytes": 5242880
+  },
+  {
+    "source": "cellxgene_collection",
+    "url": "https://api.cellxgene.cziscience.com/curation/v1/collections/71f4bccf-53d4-4c12-9e80-e73bfb89e398",
+    "status": 200,
+    "sha256": "c72f6f6cc99a144a399f81aa2857b016395dc23a0689c0ebdfc73fdb018f3c01",
+    "bytes": 9054
+  },
+  {
+    "source": "GSE164241",
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164241&targ=all&form=text&view=full",
+    "status": 200,
+    "sha256": "da7ee8987253c9d8ed7459b91ac7557156c084e974d4a321909d144cf3816cb5",
+    "bytes": 5242880
+  },
+  {
+    "source": "cellxgene_h5ad_prefix",
+    "url": "https://datasets.cellxgene.cziscience.com/171607d7-dcc2-4993-9deb-bbc62cf13273.h5ad",
+    "status": 206,
+    "headers": {
+      "Content-Type": "binary/octet-stream",
+      "Content-Length": "1024",
+      "Connection": "close",
+      "Date": "Wed, 02 Sep 2026 13:07:58 GMT",
+      "Last-Modified": "Wed, 10 Jun 2026 07:07:15 GMT",
+      "ETag": "\"f95ebf94afa705c82d8eeec24e1595ab-85\"",
+      "x-amz-server-side-encryption": "AES256",
+      "x-amz-version-id": "b6BYTOA0Ect8sMA5EngRElpIhhTnj7bl",
+      "Server": "AmazonS3",
+      "X-Cache": "Hit from cloudfront",
+      "Via": "1.1 c9249f7f94011ec15757db9d9378506c.cloudfront.net (CloudFront)",
+      "X-Amz-Cf-Pop": "HKG54-P2",
+      "X-Amz-Cf-Id": "Pz7nTFjn5FjwBXrrLYwJR-eJzCSRxSBw9rrgwu4BTMR7r4ovyE841Q==",
+      "Age": "3114910",
+      "Content-Range": "bytes 0-1023/705007195"
+    },
+    "prefix_hex": "894844460d0a1a0a",
+    "read_bytes": 1024,
+    "full_download": false
+  }
+]

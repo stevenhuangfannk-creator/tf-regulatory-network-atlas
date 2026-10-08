@@ -1,0 +1,424 @@
+biological_donor,disease,assay,analysis_cell_type,n_cells
+GM136,normal,10x 3' v2,B cell,34
+GM136,normal,10x 3' v2,Endothelial,734
+GM136,normal,10x 3' v2,Fibroblast,602
+GM136,normal,10x 3' v2,Langerhans cell,5
+GM136,normal,10x 3' v2,Lymphatic endothelial,54
+GM136,normal,10x 3' v2,Macrophage,74
+GM136,normal,10x 3' v2,Neutrophil,31
+GM136,normal,10x 3' v2,T cell,78
+GM136,normal,10x 3' v2,T-helper 17 cell,5
+GM136,normal,10x 3' v2,conventional dendritic cell,45
+GM136,normal,10x 3' v2,gamma-delta T cell,15
+GM136,normal,10x 3' v2,helper T cell,105
+GM136,normal,10x 3' v2,keratinocyte,88
+GM136,normal,10x 3' v2,mast cell,76
+GM136,normal,10x 3' v2,mature NK T cell,9
+GM136,normal,10x 3' v2,melanocyte,9
+GM136,normal,10x 3' v2,mucosal-associated invariant T cell,27
+GM136,normal,10x 3' v2,natural killer cell,31
+GM136,normal,10x 3' v2,pericyte,66
+GM136,normal,10x 3' v2,plasma cell,35
+GM136,normal,10x 3' v2,plasmacytoid dendritic cell,11
+GM136,normal,10x 3' v2,regulatory T cell,16
+GM136,normal,10x 3' v2,vascular associated smooth muscle cell,65
+GM143,normal,10x 3' v2,B cell,7
+GM143,normal,10x 3' v2,Endothelial,1147
+GM143,normal,10x 3' v2,Fibroblast,374
+GM143,normal,10x 3' v2,Langerhans cell,17
+GM143,normal,10x 3' v2,Lymphatic endothelial,227
+GM143,normal,10x 3' v2,Macrophage,46
+GM143,normal,10x 3' v2,Merkel cell,15
+GM143,normal,10x 3' v2,Neutrophil,18
+GM143,normal,10x 3' v2,T cell,45
+GM143,normal,10x 3' v2,T-helper 17 cell,12
+GM143,normal,10x 3' v2,conventional dendritic cell,55
+GM143,normal,10x 3' v2,gamma-delta T cell,25
+GM143,normal,10x 3' v2,helper T cell,103
+GM143,normal,10x 3' v2,keratinocyte,346
+GM143,normal,10x 3' v2,mast cell,158
+GM143,normal,10x 3' v2,mature NK T cell,11
+GM143,normal,10x 3' v2,melanocyte,23
+GM143,normal,10x 3' v2,mucosal-associated invariant T cell,8
+GM143,normal,10x 3' v2,natural killer cell,21
+GM143,normal,10x 3' v2,pericyte,100
+GM143,normal,10x 3' v2,plasma cell,80
+GM143,normal,10x 3' v2,plasmacytoid dendritic cell,1
+GM143,normal,10x 3' v2,regulatory T cell,12
+GM143,normal,10x 3' v2,vascular associated smooth muscle cell,63
+GM144,normal,10x 3' v2,B cell,11
+GM144,normal,10x 3' v2,Endothelial,809
+GM144,normal,10x 3' v2,Fibroblast,220
+GM144,normal,10x 3' v2,Langerhans cell,4
+GM144,normal,10x 3' v2,Lymphatic endothelial,50
+GM144,normal,10x 3' v2,Macrophage,19
+GM144,normal,10x 3' v2,Neutrophil,18
+GM144,normal,10x 3' v2,T cell,67
+GM144,normal,10x 3' v2,T-helper 17 cell,11
+GM144,normal,10x 3' v2,conventional dendritic cell,21
+GM144,normal,10x 3' v2,gamma-delta T cell,10
+GM144,normal,10x 3' v2,helper T cell,101
+GM144,normal,10x 3' v2,keratinocyte,122
+GM144,normal,10x 3' v2,mast cell,103
+GM144,normal,10x 3' v2,mature NK T cell,26
+GM144,normal,10x 3' v2,melanocyte,4
+GM144,normal,10x 3' v2,mucosal-associated invariant T cell,27
+GM144,normal,10x 3' v2,natural killer cell,17
+GM144,normal,10x 3' v2,pericyte,95
+GM144,normal,10x 3' v2,plasma cell,30
+GM144,normal,10x 3' v2,plasmacytoid dendritic cell,1
+GM144,normal,10x 3' v2,regulatory T cell,6
+GM144,normal,10x 3' v2,vascular associated smooth muscle cell,66
+GM147,normal,10x 3' v2,B cell,19
+GM147,normal,10x 3' v2,Endothelial,560
+GM147,normal,10x 3' v2,Fibroblast,396
+GM147,normal,10x 3' v2,Langerhans cell,2
+GM147,normal,10x 3' v2,Lymphatic endothelial,48
+GM147,normal,10x 3' v2,Macrophage,14
+GM147,normal,10x 3' v2,Neutrophil,25
+GM147,normal,10x 3' v2,T cell,45
+GM147,normal,10x 3' v2,T-helper 17 cell,7
+GM147,normal,10x 3' v2,conventional dendritic cell,12
+GM147,normal,10x 3' v2,gamma-delta T cell,13
+GM147,normal,10x 3' v2,helper T cell,146
+GM147,normal,10x 3' v2,keratinocyte,73
+GM147,normal,10x 3' v2,mast cell,61
+GM147,normal,10x 3' v2,mature NK T cell,25
+GM147,normal,10x 3' v2,melanocyte,4
+GM147,normal,10x 3' v2,mucosal-associated invariant T cell,13
+GM147,normal,10x 3' v2,natural killer cell,40
+GM147,normal,10x 3' v2,pericyte,64
+GM147,normal,10x 3' v2,plasma cell,50
+GM147,normal,10x 3' v2,plasmacytoid dendritic cell,5
+GM147,normal,10x 3' v2,regulatory T cell,6
+GM147,normal,10x 3' v2,vascular associated smooth muscle cell,53
+GM148,normal,10x 3' v2,B cell,27
+GM148,normal,10x 3' v2,Endothelial,1902
+GM148,normal,10x 3' v2,Fibroblast,3264
+GM148,normal,10x 3' v2,Langerhans cell,6
+GM148,normal,10x 3' v2,Lymphatic endothelial,173
+GM148,normal,10x 3' v2,Macrophage,133
+GM148,normal,10x 3' v2,Neutrophil,64
+GM148,normal,10x 3' v2,Schwann cell,3
+GM148,normal,10x 3' v2,T cell,176
+GM148,normal,10x 3' v2,T-helper 17 cell,7
+GM148,normal,10x 3' v2,conventional dendritic cell,79
+GM148,normal,10x 3' v2,gamma-delta T cell,18
+GM148,normal,10x 3' v2,helper T cell,146
+GM148,normal,10x 3' v2,keratinocyte,657
+GM148,normal,10x 3' v2,mast cell,216
+GM148,normal,10x 3' v2,mature NK T cell,26
+GM148,normal,10x 3' v2,melanocyte,15
+GM148,normal,10x 3' v2,mucosal-associated invariant T cell,39
+GM148,normal,10x 3' v2,natural killer cell,28
+GM148,normal,10x 3' v2,pericyte,194
+GM148,normal,10x 3' v2,plasma cell,155
+GM148,normal,10x 3' v2,plasmacytoid dendritic cell,5
+GM148,normal,10x 3' v2,regulatory T cell,19
+GM148,normal,10x 3' v2,vascular associated smooth muscle cell,281
+GM169,normal,10x 3' v3,B cell,15
+GM169,normal,10x 3' v3,Endothelial,1277
+GM169,normal,10x 3' v3,Fibroblast,819
+GM169,normal,10x 3' v3,Langerhans cell,9
+GM169,normal,10x 3' v3,Lymphatic endothelial,39
+GM169,normal,10x 3' v3,Macrophage,36
+GM169,normal,10x 3' v3,Neutrophil,28
+GM169,normal,10x 3' v3,Schwann cell,1
+GM169,normal,10x 3' v3,T cell,107
+GM169,normal,10x 3' v3,T-helper 17 cell,24
+GM169,normal,10x 3' v3,conventional dendritic cell,59
+GM169,normal,10x 3' v3,gamma-delta T cell,13
+GM169,normal,10x 3' v3,helper T cell,231
+GM169,normal,10x 3' v3,keratinocyte,471
+GM169,normal,10x 3' v3,mast cell,112
+GM169,normal,10x 3' v3,mature NK T cell,8
+GM169,normal,10x 3' v3,melanocyte,10
+GM169,normal,10x 3' v3,mucosal-associated invariant T cell,35
+GM169,normal,10x 3' v3,natural killer cell,16
+GM169,normal,10x 3' v3,pericyte,429
+GM169,normal,10x 3' v3,plasma cell,78
+GM169,normal,10x 3' v3,plasmacytoid dendritic cell,5
+GM169,normal,10x 3' v3,regulatory T cell,13
+GM169,normal,10x 3' v3,vascular associated smooth muscle cell,200
+GM183,normal,10x 3' v2,B cell,34
+GM183,normal,10x 3' v2,Endothelial,1514
+GM183,normal,10x 3' v2,Fibroblast,1333
+GM183,normal,10x 3' v2,Langerhans cell,2
+GM183,normal,10x 3' v2,Lymphatic endothelial,168
+GM183,normal,10x 3' v2,Macrophage,81
+GM183,normal,10x 3' v2,Neutrophil,45
+GM183,normal,10x 3' v2,Schwann cell,1
+GM183,normal,10x 3' v2,T cell,235
+GM183,normal,10x 3' v2,T-helper 17 cell,20
+GM183,normal,10x 3' v2,conventional dendritic cell,73
+GM183,normal,10x 3' v2,gamma-delta T cell,25
+GM183,normal,10x 3' v2,helper T cell,322
+GM183,normal,10x 3' v2,keratinocyte,451
+GM183,normal,10x 3' v2,mast cell,184
+GM183,normal,10x 3' v2,mature NK T cell,47
+GM183,normal,10x 3' v2,melanocyte,15
+GM183,normal,10x 3' v2,mucosal-associated invariant T cell,40
+GM183,normal,10x 3' v2,natural killer cell,29
+GM183,normal,10x 3' v2,pericyte,137
+GM183,normal,10x 3' v2,plasma cell,126
+GM183,normal,10x 3' v2,plasmacytoid dendritic cell,6
+GM183,normal,10x 3' v2,regulatory T cell,46
+GM183,normal,10x 3' v2,vascular associated smooth muscle cell,131
+GM184,normal,10x 3' v2,B cell,4
+GM184,normal,10x 3' v2,Endothelial,742
+GM184,normal,10x 3' v2,Fibroblast,422
+GM184,normal,10x 3' v2,Langerhans cell,16
+GM184,normal,10x 3' v2,Lymphatic endothelial,45
+GM184,normal,10x 3' v2,Macrophage,23
+GM184,normal,10x 3' v2,Neutrophil,9
+GM184,normal,10x 3' v2,Schwann cell,1
+GM184,normal,10x 3' v2,T cell,87
+GM184,normal,10x 3' v2,T-helper 17 cell,13
+GM184,normal,10x 3' v2,conventional dendritic cell,23
+GM184,normal,10x 3' v2,gamma-delta T cell,20
+GM184,normal,10x 3' v2,helper T cell,109
+GM184,normal,10x 3' v2,keratinocyte,130
+GM184,normal,10x 3' v2,mast cell,11
+GM184,normal,10x 3' v2,mature NK T cell,17
+GM184,normal,10x 3' v2,melanocyte,5
+GM184,normal,10x 3' v2,mucosal-associated invariant T cell,27
+GM184,normal,10x 3' v2,natural killer cell,20
+GM184,normal,10x 3' v2,pericyte,104
+GM184,normal,10x 3' v2,plasma cell,55
+GM184,normal,10x 3' v2,regulatory T cell,7
+GM184,normal,10x 3' v2,vascular associated smooth muscle cell,96
+GM238,normal,10x 3' v2,B cell,378
+GM238,normal,10x 3' v2,Endothelial,1894
+GM238,normal,10x 3' v2,Fibroblast,1486
+GM238,normal,10x 3' v2,Langerhans cell,8
+GM238,normal,10x 3' v2,Lymphatic endothelial,254
+GM238,normal,10x 3' v2,Macrophage,151
+GM238,normal,10x 3' v2,Merkel cell,3
+GM238,normal,10x 3' v2,Neutrophil,105
+GM238,normal,10x 3' v2,Schwann cell,1
+GM238,normal,10x 3' v2,T cell,518
+GM238,normal,10x 3' v2,T-helper 17 cell,57
+GM238,normal,10x 3' v2,conventional dendritic cell,228
+GM238,normal,10x 3' v2,gamma-delta T cell,125
+GM238,normal,10x 3' v2,helper T cell,827
+GM238,normal,10x 3' v2,keratinocyte,417
+GM238,normal,10x 3' v2,mast cell,330
+GM238,normal,10x 3' v2,mature NK T cell,85
+GM238,normal,10x 3' v2,melanocyte,2
+GM238,normal,10x 3' v2,mucosal-associated invariant T cell,125
+GM238,normal,10x 3' v2,natural killer cell,94
+GM238,normal,10x 3' v2,pericyte,311
+GM238,normal,10x 3' v2,plasma cell,239
+GM238,normal,10x 3' v2,plasmacytoid dendritic cell,232
+GM238,normal,10x 3' v2,regulatory T cell,65
+GM238,normal,10x 3' v2,vascular associated smooth muscle cell,219
+GM241,normal,10x 3' v2,B cell,8
+GM241,normal,10x 3' v2,Endothelial,1520
+GM241,normal,10x 3' v2,Fibroblast,645
+GM241,normal,10x 3' v2,Langerhans cell,3
+GM241,normal,10x 3' v2,Lymphatic endothelial,77
+GM241,normal,10x 3' v2,Macrophage,40
+GM241,normal,10x 3' v2,Neutrophil,19
+GM241,normal,10x 3' v2,Schwann cell,2
+GM241,normal,10x 3' v2,T cell,129
+GM241,normal,10x 3' v2,T-helper 17 cell,20
+GM241,normal,10x 3' v2,conventional dendritic cell,45
+GM241,normal,10x 3' v2,gamma-delta T cell,34
+GM241,normal,10x 3' v2,helper T cell,245
+GM241,normal,10x 3' v2,keratinocyte,123
+GM241,normal,10x 3' v2,mast cell,29
+GM241,normal,10x 3' v2,mature NK T cell,38
+GM241,normal,10x 3' v2,mucosal-associated invariant T cell,46
+GM241,normal,10x 3' v2,natural killer cell,26
+GM241,normal,10x 3' v2,pericyte,157
+GM241,normal,10x 3' v2,plasma cell,100
+GM241,normal,10x 3' v2,plasmacytoid dendritic cell,10
+GM241,normal,10x 3' v2,regulatory T cell,25
+GM241,normal,10x 3' v2,vascular associated smooth muscle cell,102
+GM242,normal,10x 3' v2,B cell,48
+GM242,normal,10x 3' v2,Endothelial,1884
+GM242,normal,10x 3' v2,Fibroblast,1747
+GM242,normal,10x 3' v2,Langerhans cell,11
+GM242,normal,10x 3' v2,Lymphatic endothelial,87
+GM242,normal,10x 3' v2,Macrophage,114
+GM242,normal,10x 3' v2,Neutrophil,70
+GM242,normal,10x 3' v2,Schwann cell,1
+GM242,normal,10x 3' v2,T cell,297
+GM242,normal,10x 3' v2,T-helper 17 cell,13
+GM242,normal,10x 3' v2,conventional dendritic cell,137
+GM242,normal,10x 3' v2,gamma-delta T cell,73
+GM242,normal,10x 3' v2,helper T cell,307
+GM242,normal,10x 3' v2,keratinocyte,533
+GM242,normal,10x 3' v2,mast cell,333
+GM242,normal,10x 3' v2,mature NK T cell,41
+GM242,normal,10x 3' v2,melanocyte,20
+GM242,normal,10x 3' v2,mucosal-associated invariant T cell,93
+GM242,normal,10x 3' v2,natural killer cell,82
+GM242,normal,10x 3' v2,pericyte,233
+GM242,normal,10x 3' v2,plasma cell,145
+GM242,normal,10x 3' v2,plasmacytoid dendritic cell,15
+GM242,normal,10x 3' v2,regulatory T cell,23
+GM242,normal,10x 3' v2,vascular associated smooth muscle cell,205
+GM283,normal,10x 3' v3,B cell,736
+GM283,normal,10x 3' v3,Endothelial,1202
+GM283,normal,10x 3' v3,Fibroblast,473
+GM283,normal,10x 3' v3,Langerhans cell,2
+GM283,normal,10x 3' v3,Lymphatic endothelial,47
+GM283,normal,10x 3' v3,Macrophage,118
+GM283,normal,10x 3' v3,Merkel cell,1
+GM283,normal,10x 3' v3,Neutrophil,56
+GM283,normal,10x 3' v3,Schwann cell,2
+GM283,normal,10x 3' v3,T cell,590
+GM283,normal,10x 3' v3,T-helper 17 cell,47
+GM283,normal,10x 3' v3,conventional dendritic cell,134
+GM283,normal,10x 3' v3,gamma-delta T cell,84
+GM283,normal,10x 3' v3,helper T cell,678
+GM283,normal,10x 3' v3,keratinocyte,654
+GM283,normal,10x 3' v3,mast cell,130
+GM283,normal,10x 3' v3,mature NK T cell,81
+GM283,normal,10x 3' v3,melanocyte,2
+GM283,normal,10x 3' v3,mucosal-associated invariant T cell,182
+GM283,normal,10x 3' v3,natural killer cell,67
+GM283,normal,10x 3' v3,pericyte,144
+GM283,normal,10x 3' v3,plasma cell,294
+GM283,normal,10x 3' v3,plasmacytoid dendritic cell,17
+GM283,normal,10x 3' v3,regulatory T cell,68
+GM283,normal,10x 3' v3,vascular associated smooth muscle cell,92
+GM289,normal,10x 3' v3,B cell,86
+GM289,normal,10x 3' v3,Endothelial,675
+GM289,normal,10x 3' v3,Fibroblast,312
+GM289,normal,10x 3' v3,Langerhans cell,4
+GM289,normal,10x 3' v3,Lymphatic endothelial,36
+GM289,normal,10x 3' v3,Macrophage,27
+GM289,normal,10x 3' v3,Neutrophil,26
+GM289,normal,10x 3' v3,Schwann cell,1
+GM289,normal,10x 3' v3,T cell,138
+GM289,normal,10x 3' v3,T-helper 17 cell,31
+GM289,normal,10x 3' v3,conventional dendritic cell,40
+GM289,normal,10x 3' v3,gamma-delta T cell,26
+GM289,normal,10x 3' v3,helper T cell,254
+GM289,normal,10x 3' v3,keratinocyte,173
+GM289,normal,10x 3' v3,mast cell,55
+GM289,normal,10x 3' v3,mature NK T cell,11
+GM289,normal,10x 3' v3,mucosal-associated invariant T cell,49
+GM289,normal,10x 3' v3,natural killer cell,17
+GM289,normal,10x 3' v3,pericyte,43
+GM289,normal,10x 3' v3,plasma cell,895
+GM289,normal,10x 3' v3,plasmacytoid dendritic cell,5
+GM289,normal,10x 3' v3,regulatory T cell,30
+GM289,normal,10x 3' v3,vascular associated smooth muscle cell,41
+PD134,periodontitis,10x 3' v2,B cell,79
+PD134,periodontitis,10x 3' v2,Endothelial,381
+PD134,periodontitis,10x 3' v2,Fibroblast,268
+PD134,periodontitis,10x 3' v2,Lymphatic endothelial,11
+PD134,periodontitis,10x 3' v2,Macrophage,108
+PD134,periodontitis,10x 3' v2,Neutrophil,82
+PD134,periodontitis,10x 3' v2,Schwann cell,3
+PD134,periodontitis,10x 3' v2,T cell,258
+PD134,periodontitis,10x 3' v2,T-helper 17 cell,38
+PD134,periodontitis,10x 3' v2,conventional dendritic cell,92
+PD134,periodontitis,10x 3' v2,gamma-delta T cell,57
+PD134,periodontitis,10x 3' v2,helper T cell,422
+PD134,periodontitis,10x 3' v2,keratinocyte,37
+PD134,periodontitis,10x 3' v2,mast cell,144
+PD134,periodontitis,10x 3' v2,mature NK T cell,68
+PD134,periodontitis,10x 3' v2,melanocyte,2
+PD134,periodontitis,10x 3' v2,mucosal-associated invariant T cell,44
+PD134,periodontitis,10x 3' v2,natural killer cell,54
+PD134,periodontitis,10x 3' v2,pericyte,37
+PD134,periodontitis,10x 3' v2,plasma cell,292
+PD134,periodontitis,10x 3' v2,plasmacytoid dendritic cell,14
+PD134,periodontitis,10x 3' v2,regulatory T cell,33
+PD134,periodontitis,10x 3' v2,vascular associated smooth muscle cell,40
+PD153,periodontitis,10x 3' v3,B cell,30
+PD153,periodontitis,10x 3' v3,Endothelial,540
+PD153,periodontitis,10x 3' v3,Fibroblast,403
+PD153,periodontitis,10x 3' v3,Langerhans cell,1
+PD153,periodontitis,10x 3' v3,Lymphatic endothelial,5
+PD153,periodontitis,10x 3' v3,Macrophage,41
+PD153,periodontitis,10x 3' v3,Neutrophil,88
+PD153,periodontitis,10x 3' v3,T cell,15
+PD153,periodontitis,10x 3' v3,T-helper 17 cell,8
+PD153,periodontitis,10x 3' v3,conventional dendritic cell,39
+PD153,periodontitis,10x 3' v3,gamma-delta T cell,12
+PD153,periodontitis,10x 3' v3,helper T cell,49
+PD153,periodontitis,10x 3' v3,keratinocyte,153
+PD153,periodontitis,10x 3' v3,mast cell,37
+PD153,periodontitis,10x 3' v3,mature NK T cell,6
+PD153,periodontitis,10x 3' v3,mucosal-associated invariant T cell,5
+PD153,periodontitis,10x 3' v3,natural killer cell,12
+PD153,periodontitis,10x 3' v3,pericyte,80
+PD153,periodontitis,10x 3' v3,plasma cell,56
+PD153,periodontitis,10x 3' v3,plasmacytoid dendritic cell,2
+PD153,periodontitis,10x 3' v3,regulatory T cell,13
+PD153,periodontitis,10x 3' v3,vascular associated smooth muscle cell,100
+PD161,periodontitis,10x 3' v3,B cell,62
+PD161,periodontitis,10x 3' v3,Endothelial,1122
+PD161,periodontitis,10x 3' v3,Fibroblast,887
+PD161,periodontitis,10x 3' v3,Langerhans cell,4
+PD161,periodontitis,10x 3' v3,Lymphatic endothelial,39
+PD161,periodontitis,10x 3' v3,Macrophage,83
+PD161,periodontitis,10x 3' v3,Neutrophil,132
+PD161,periodontitis,10x 3' v3,Schwann cell,2
+PD161,periodontitis,10x 3' v3,T cell,181
+PD161,periodontitis,10x 3' v3,T-helper 17 cell,28
+PD161,periodontitis,10x 3' v3,conventional dendritic cell,70
+PD161,periodontitis,10x 3' v3,gamma-delta T cell,59
+PD161,periodontitis,10x 3' v3,helper T cell,364
+PD161,periodontitis,10x 3' v3,keratinocyte,470
+PD161,periodontitis,10x 3' v3,mast cell,162
+PD161,periodontitis,10x 3' v3,mature NK T cell,71
+PD161,periodontitis,10x 3' v3,melanocyte,1
+PD161,periodontitis,10x 3' v3,mucosal-associated invariant T cell,73
+PD161,periodontitis,10x 3' v3,natural killer cell,102
+PD161,periodontitis,10x 3' v3,pericyte,190
+PD161,periodontitis,10x 3' v3,plasma cell,320
+PD161,periodontitis,10x 3' v3,plasmacytoid dendritic cell,3
+PD161,periodontitis,10x 3' v3,regulatory T cell,68
+PD161,periodontitis,10x 3' v3,vascular associated smooth muscle cell,251
+PD164,periodontitis,10x 3' v3,B cell,631
+PD164,periodontitis,10x 3' v3,Endothelial,2880
+PD164,periodontitis,10x 3' v3,Fibroblast,2161
+PD164,periodontitis,10x 3' v3,Langerhans cell,6
+PD164,periodontitis,10x 3' v3,Lymphatic endothelial,71
+PD164,periodontitis,10x 3' v3,Macrophage,212
+PD164,periodontitis,10x 3' v3,Neutrophil,210
+PD164,periodontitis,10x 3' v3,Schwann cell,7
+PD164,periodontitis,10x 3' v3,T cell,1730
+PD164,periodontitis,10x 3' v3,T-helper 17 cell,144
+PD164,periodontitis,10x 3' v3,conventional dendritic cell,252
+PD164,periodontitis,10x 3' v3,gamma-delta T cell,236
+PD164,periodontitis,10x 3' v3,helper T cell,1852
+PD164,periodontitis,10x 3' v3,keratinocyte,294
+PD164,periodontitis,10x 3' v3,mast cell,152
+PD164,periodontitis,10x 3' v3,mature NK T cell,201
+PD164,periodontitis,10x 3' v3,melanocyte,7
+PD164,periodontitis,10x 3' v3,mucosal-associated invariant T cell,335
+PD164,periodontitis,10x 3' v3,natural killer cell,187
+PD164,periodontitis,10x 3' v3,pericyte,275
+PD164,periodontitis,10x 3' v3,plasma cell,4049
+PD164,periodontitis,10x 3' v3,plasmacytoid dendritic cell,72
+PD164,periodontitis,10x 3' v3,regulatory T cell,257
+PD164,periodontitis,10x 3' v3,vascular associated smooth muscle cell,252
+PD170,periodontitis,10x 3' v3,B cell,279
+PD170,periodontitis,10x 3' v3,Endothelial,639
+PD170,periodontitis,10x 3' v3,Fibroblast,479
+PD170,periodontitis,10x 3' v3,Lymphatic endothelial,5
+PD170,periodontitis,10x 3' v3,Macrophage,184
+PD170,periodontitis,10x 3' v3,Neutrophil,275
+PD170,periodontitis,10x 3' v3,Schwann cell,1
+PD170,periodontitis,10x 3' v3,T cell,477
+PD170,periodontitis,10x 3' v3,T-helper 17 cell,34
+PD170,periodontitis,10x 3' v3,conventional dendritic cell,138
+PD170,periodontitis,10x 3' v3,gamma-delta T cell,62
+PD170,periodontitis,10x 3' v3,helper T cell,579
+PD170,periodontitis,10x 3' v3,keratinocyte,101
+PD170,periodontitis,10x 3' v3,mast cell,167
+PD170,periodontitis,10x 3' v3,mature NK T cell,80
+PD170,periodontitis,10x 3' v3,mucosal-associated invariant T cell,81
+PD170,periodontitis,10x 3' v3,natural killer cell,48
+PD170,periodontitis,10x 3' v3,pericyte,162
+PD170,periodontitis,10x 3' v3,plasma cell,2125
+PD170,periodontitis,10x 3' v3,plasmacytoid dendritic cell,41
+PD170,periodontitis,10x 3' v3,regulatory T cell,137
+PD170,periodontitis,10x 3' v3,vascular associated smooth muscle cell,216

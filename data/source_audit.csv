@@ -1,0 +1,4 @@
+accession,condition,doi,n_new_libraries,compressed_matrix_bytes,status
+GSE266897,Induced gingivitis only,10.1038/s41467-024-49037-y,4,50884934,Metadata and MEX header probes; not fully downloaded
+GSE310110,Peri-implantitis only,10.1038/s41467-026-72452-2,3,140292297,Metadata and MEX header probes; not fully downloaded
+CELLxGENE:9fcb0b73-c734-40a5-be9c-ace7eea401c9,normal;gingivitis;periodontitis,10.1038/s41467-024-49037-y,0,705007195,Full H5AD downloaded; all raw nonzeros verified; original studies reused

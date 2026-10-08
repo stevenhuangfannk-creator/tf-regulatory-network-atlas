@@ -1,0 +1,14 @@
+{
+  "periodontal_atlas": {
+    "url": "https://datasets.cellxgene.cziscience.com/171607d7-dcc2-4993-9deb-bbc62cf13273.h5ad",
+    "path": "data/raw/periodontal_atlas.h5ad",
+    "bytes": 705007195,
+    "sha256": "7dc13de46fd2702dbfaf8d69bec933b79b05196ebce7d516e59cea471aa83c4e"
+  },
+  "collectri": {
+    "url": "https://zenodo.org/records/8192729/files/CollecTRI_regulons.csv?download=1",
+    "path": "data/cache/collectri.csv",
+    "bytes": 4345649,
+    "sha256": "4473c9189dd53dacc80297709ad1452dda1086a1cc2185f9a56146c261668701"
+  }
+}

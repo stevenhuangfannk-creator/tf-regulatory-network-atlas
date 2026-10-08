@@ -1,0 +1,18 @@
+{
+  "progeny": {
+    "top": 100,
+    "threshold": 0.05,
+    "n_edges": 1398,
+    "n_pathways_scored": 14,
+    "sha256": "9968b4069d8acecb549fa6f0dff8b9bbb3f6482596ada387f917dd17a5d1bcf9",
+    "retrieval": "decoupler.op.progeny(organism=human, license=academic)",
+    "meaning": "Perturbation-derived weighted pathway footprint, distinct from TF activity"
+  },
+  "hallmark": {
+    "url": "https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020",
+    "n_sets": 50,
+    "sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81",
+    "tests": 400,
+    "meaning": "Hypergeometric prior-target overlap only; not demonstrated TF pathway regulation"
+  }
+}

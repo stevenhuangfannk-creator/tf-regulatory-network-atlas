@@ -1,0 +1,827 @@
+donor_id,disease,disease_ontology_term_id,cell_type,n_cells
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,B cell,6
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,T cell,13
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,T-helper 17 cell,4
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,capillary endothelial cell,1
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,conventional dendritic cell,28
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,endothelial cell of artery,2
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,endothelial cell of lymphatic vessel,2
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,endothelial cell of venule,18
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,fibroblast,32
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,gamma-delta T cell,1
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,helper T cell,15
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,keratinocyte,47
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,macrophage,27
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,mast cell,101
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,mature NK T cell,1
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,mucosal-associated invariant T cell,4
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,natural killer cell,3
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,neutrophil,39
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,pericyte,8
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,plasma cell,1
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,regulatory T cell,5
+Caetano_GSE152042_GSM4600896,normal,PATO:0000461,vascular associated smooth muscle cell,17
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,B cell,5
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,Langerhans cell,5
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,Schwann cell,5
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,T cell,56
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,T-helper 17 cell,24
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,capillary endothelial cell,58
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,conventional dendritic cell,31
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,endothelial cell of artery,51
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,endothelial cell of lymphatic vessel,64
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,endothelial cell of venule,265
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,fibroblast,343
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,gamma-delta T cell,8
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,helper T cell,86
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,keratinocyte,1195
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,macrophage,45
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,mast cell,195
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,mature NK T cell,13
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,mucosal-associated invariant T cell,14
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,natural killer cell,13
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,neutrophil,34
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,pericyte,198
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,plasma cell,30
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,regulatory T cell,5
+Caetano_GSE152042_GSM4600897,normal,PATO:0000461,vascular associated smooth muscle cell,211
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,B cell,442
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,Langerhans cell,9
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,T cell,213
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,T-helper 17 cell,16
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,capillary endothelial cell,5
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,conventional dendritic cell,353
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,endothelial cell of artery,2
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,12
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,endothelial cell of venule,29
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,fibroblast,446
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,gamma-delta T cell,31
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,helper T cell,157
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,keratinocyte,88
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,macrophage,306
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,mast cell,832
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,mature NK T cell,18
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,69
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,natural killer cell,20
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,neutrophil,226
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,pericyte,24
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,plasma cell,170
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,112
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,regulatory T cell,26
+Caetano_GSE152042_GSM4600898,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,25
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,B cell,70
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,Langerhans cell,3
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,Schwann cell,1
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,T cell,48
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,capillary endothelial cell,3
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,conventional dendritic cell,98
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,endothelial cell of artery,2
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,4
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,endothelial cell of venule,24
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,fibroblast,85
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,gamma-delta T cell,8
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,helper T cell,112
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,keratinocyte,34
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,macrophage,116
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,mast cell,32
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,mature NK T cell,3
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,9
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,natural killer cell,13
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,neutrophil,163
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,pericyte,1
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,plasma cell,2240
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,24
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,regulatory T cell,4
+Caetano_GSE152042_GSM4600899,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,6
+Huang_ATL01,gingivitis,MONDO:0002508,B cell,126
+Huang_ATL01,gingivitis,MONDO:0002508,Langerhans cell,5
+Huang_ATL01,gingivitis,MONDO:0002508,T cell,254
+Huang_ATL01,gingivitis,MONDO:0002508,T-helper 17 cell,16
+Huang_ATL01,gingivitis,MONDO:0002508,capillary endothelial cell,8
+Huang_ATL01,gingivitis,MONDO:0002508,conventional dendritic cell,53
+Huang_ATL01,gingivitis,MONDO:0002508,endothelial cell of artery,4
+Huang_ATL01,gingivitis,MONDO:0002508,endothelial cell of lymphatic vessel,17
+Huang_ATL01,gingivitis,MONDO:0002508,endothelial cell of venule,39
+Huang_ATL01,gingivitis,MONDO:0002508,fibroblast,1
+Huang_ATL01,gingivitis,MONDO:0002508,gamma-delta T cell,112
+Huang_ATL01,gingivitis,MONDO:0002508,helper T cell,261
+Huang_ATL01,gingivitis,MONDO:0002508,keratinocyte,97
+Huang_ATL01,gingivitis,MONDO:0002508,macrophage,19
+Huang_ATL01,gingivitis,MONDO:0002508,mast cell,47
+Huang_ATL01,gingivitis,MONDO:0002508,mature NK T cell,47
+Huang_ATL01,gingivitis,MONDO:0002508,melanocyte,2
+Huang_ATL01,gingivitis,MONDO:0002508,mucosal-associated invariant T cell,117
+Huang_ATL01,gingivitis,MONDO:0002508,natural killer cell,125
+Huang_ATL01,gingivitis,MONDO:0002508,neutrophil,17
+Huang_ATL01,gingivitis,MONDO:0002508,pericyte,2
+Huang_ATL01,gingivitis,MONDO:0002508,plasma cell,125
+Huang_ATL01,gingivitis,MONDO:0002508,plasmacytoid dendritic cell,7
+Huang_ATL01,gingivitis,MONDO:0002508,regulatory T cell,57
+Huang_ATL01,gingivitis,MONDO:0002508,vascular associated smooth muscle cell,3
+Huang_ATL02,gingivitis,MONDO:0002508,B cell,30
+Huang_ATL02,gingivitis,MONDO:0002508,Langerhans cell,8
+Huang_ATL02,gingivitis,MONDO:0002508,Schwann cell,3
+Huang_ATL02,gingivitis,MONDO:0002508,T cell,276
+Huang_ATL02,gingivitis,MONDO:0002508,T-helper 17 cell,17
+Huang_ATL02,gingivitis,MONDO:0002508,capillary endothelial cell,9
+Huang_ATL02,gingivitis,MONDO:0002508,conventional dendritic cell,23
+Huang_ATL02,gingivitis,MONDO:0002508,endothelial cell of artery,7
+Huang_ATL02,gingivitis,MONDO:0002508,endothelial cell of lymphatic vessel,200
+Huang_ATL02,gingivitis,MONDO:0002508,endothelial cell of venule,88
+Huang_ATL02,gingivitis,MONDO:0002508,fibroblast,4
+Huang_ATL02,gingivitis,MONDO:0002508,gamma-delta T cell,107
+Huang_ATL02,gingivitis,MONDO:0002508,helper T cell,234
+Huang_ATL02,gingivitis,MONDO:0002508,keratinocyte,653
+Huang_ATL02,gingivitis,MONDO:0002508,macrophage,10
+Huang_ATL02,gingivitis,MONDO:0002508,mast cell,31
+Huang_ATL02,gingivitis,MONDO:0002508,mature NK T cell,44
+Huang_ATL02,gingivitis,MONDO:0002508,melanocyte,3
+Huang_ATL02,gingivitis,MONDO:0002508,mucosal-associated invariant T cell,82
+Huang_ATL02,gingivitis,MONDO:0002508,natural killer cell,65
+Huang_ATL02,gingivitis,MONDO:0002508,neutrophil,13
+Huang_ATL02,gingivitis,MONDO:0002508,pericyte,12
+Huang_ATL02,gingivitis,MONDO:0002508,plasma cell,125
+Huang_ATL02,gingivitis,MONDO:0002508,plasmacytoid dendritic cell,5
+Huang_ATL02,gingivitis,MONDO:0002508,regulatory T cell,32
+Huang_ATL03,gingivitis,MONDO:0002508,B cell,57
+Huang_ATL03,gingivitis,MONDO:0002508,Langerhans cell,10
+Huang_ATL03,gingivitis,MONDO:0002508,Schwann cell,5
+Huang_ATL03,gingivitis,MONDO:0002508,T cell,150
+Huang_ATL03,gingivitis,MONDO:0002508,T-helper 17 cell,13
+Huang_ATL03,gingivitis,MONDO:0002508,capillary endothelial cell,16
+Huang_ATL03,gingivitis,MONDO:0002508,conventional dendritic cell,28
+Huang_ATL03,gingivitis,MONDO:0002508,endothelial cell of artery,8
+Huang_ATL03,gingivitis,MONDO:0002508,endothelial cell of lymphatic vessel,73
+Huang_ATL03,gingivitis,MONDO:0002508,endothelial cell of venule,57
+Huang_ATL03,gingivitis,MONDO:0002508,fibroblast,19
+Huang_ATL03,gingivitis,MONDO:0002508,gamma-delta T cell,51
+Huang_ATL03,gingivitis,MONDO:0002508,helper T cell,183
+Huang_ATL03,gingivitis,MONDO:0002508,keratinocyte,1054
+Huang_ATL03,gingivitis,MONDO:0002508,macrophage,35
+Huang_ATL03,gingivitis,MONDO:0002508,mast cell,92
+Huang_ATL03,gingivitis,MONDO:0002508,mature NK T cell,20
+Huang_ATL03,gingivitis,MONDO:0002508,mucosal-associated invariant T cell,44
+Huang_ATL03,gingivitis,MONDO:0002508,natural killer cell,59
+Huang_ATL03,gingivitis,MONDO:0002508,neutrophil,16
+Huang_ATL03,gingivitis,MONDO:0002508,pericyte,6
+Huang_ATL03,gingivitis,MONDO:0002508,plasma cell,293
+Huang_ATL03,gingivitis,MONDO:0002508,plasmacytoid dendritic cell,8
+Huang_ATL03,gingivitis,MONDO:0002508,regulatory T cell,33
+Huang_ATL03,gingivitis,MONDO:0002508,vascular associated smooth muscle cell,1
+Huang_ATL05,gingivitis,MONDO:0002508,B cell,2
+Huang_ATL05,gingivitis,MONDO:0002508,Langerhans cell,9
+Huang_ATL05,gingivitis,MONDO:0002508,T cell,22
+Huang_ATL05,gingivitis,MONDO:0002508,T-helper 17 cell,5
+Huang_ATL05,gingivitis,MONDO:0002508,capillary endothelial cell,7
+Huang_ATL05,gingivitis,MONDO:0002508,conventional dendritic cell,11
+Huang_ATL05,gingivitis,MONDO:0002508,endothelial cell of artery,3
+Huang_ATL05,gingivitis,MONDO:0002508,endothelial cell of lymphatic vessel,18
+Huang_ATL05,gingivitis,MONDO:0002508,endothelial cell of venule,79
+Huang_ATL05,gingivitis,MONDO:0002508,fibroblast,1
+Huang_ATL05,gingivitis,MONDO:0002508,gamma-delta T cell,4
+Huang_ATL05,gingivitis,MONDO:0002508,helper T cell,23
+Huang_ATL05,gingivitis,MONDO:0002508,keratinocyte,288
+Huang_ATL05,gingivitis,MONDO:0002508,macrophage,16
+Huang_ATL05,gingivitis,MONDO:0002508,mast cell,28
+Huang_ATL05,gingivitis,MONDO:0002508,mature NK T cell,10
+Huang_ATL05,gingivitis,MONDO:0002508,melanocyte,3
+Huang_ATL05,gingivitis,MONDO:0002508,mucosal-associated invariant T cell,12
+Huang_ATL05,gingivitis,MONDO:0002508,natural killer cell,3
+Huang_ATL05,gingivitis,MONDO:0002508,neutrophil,5
+Huang_ATL05,gingivitis,MONDO:0002508,pericyte,1
+Huang_ATL05,gingivitis,MONDO:0002508,plasma cell,58
+Huang_ATL05,gingivitis,MONDO:0002508,plasmacytoid dendritic cell,2
+Huang_ATL05,gingivitis,MONDO:0002508,regulatory T cell,4
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,B cell,2
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,Schwann cell,1
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,T cell,16
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,capillary endothelial cell,13
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,conventional dendritic cell,2
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,endothelial cell of artery,18
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,endothelial cell of lymphatic vessel,1
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,endothelial cell of venule,39
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,fibroblast,42
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,gamma-delta T cell,4
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,helper T cell,9
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,keratinocyte,212
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,macrophage,5
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,mature NK T cell,10
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,mucosal-associated invariant T cell,2
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,natural killer cell,10
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,neutrophil,4
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,pericyte,42
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,plasma cell,11
+Pagella_GSE161267_GSM4904134,normal,PATO:0000461,vascular associated smooth muscle cell,34
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,B cell,4
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,Schwann cell,2
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,T cell,26
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,capillary endothelial cell,30
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,conventional dendritic cell,1
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,endothelial cell of artery,22
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,endothelial cell of lymphatic vessel,2
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,endothelial cell of venule,66
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,fibroblast,59
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,gamma-delta T cell,4
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,helper T cell,14
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,keratinocyte,214
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,macrophage,5
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,mature NK T cell,8
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,mucosal-associated invariant T cell,2
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,natural killer cell,14
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,neutrophil,2
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,pericyte,42
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,plasma cell,20
+Pagella_GSE161267_GSM4904135,normal,PATO:0000461,vascular associated smooth muscle cell,50
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,T cell,5
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,capillary endothelial cell,32
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,conventional dendritic cell,4
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,endothelial cell of artery,33
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,endothelial cell of venule,152
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,fibroblast,26
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,gamma-delta T cell,1
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,helper T cell,6
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,macrophage,4
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,mast cell,1
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,mucosal-associated invariant T cell,2
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,natural killer cell,1
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,neutrophil,1
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,pericyte,73
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,plasma cell,9
+Pagella_GSE161267_GSM4904136,normal,PATO:0000461,vascular associated smooth muscle cell,91
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,B cell,14
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,Schwann cell,2
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,T cell,36
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,T-helper 17 cell,4
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,capillary endothelial cell,27
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,conventional dendritic cell,13
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,endothelial cell of artery,29
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,endothelial cell of lymphatic vessel,1
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,endothelial cell of venule,99
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,fibroblast,122
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,gamma-delta T cell,10
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,helper T cell,45
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,keratinocyte,523
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,macrophage,27
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,mast cell,5
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,mature NK T cell,12
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,mucosal-associated invariant T cell,7
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,natural killer cell,13
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,neutrophil,14
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,pericyte,74
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,plasma cell,123
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,plasmacytoid dendritic cell,2
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,regulatory T cell,8
+Pagella_GSE161267_GSM4904137,normal,PATO:0000461,vascular associated smooth muscle cell,67
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,B cell,2
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,Schwann cell,4
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,T cell,3
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,T-helper 17 cell,7
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,capillary endothelial cell,48
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,conventional dendritic cell,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,endothelial cell of artery,25
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,endothelial cell of lymphatic vessel,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,endothelial cell of venule,107
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,fibroblast,62
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,gamma-delta T cell,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,helper T cell,12
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,keratinocyte,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,macrophage,10
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,mast cell,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,mature NK T cell,6
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,mucosal-associated invariant T cell,4
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,natural killer cell,5
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,neutrophil,1
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,pericyte,18
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,plasma cell,6
+Pagella_GSE161267_GSM4904138,normal,PATO:0000461,vascular associated smooth muscle cell,23
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,B cell,34
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,Langerhans cell,5
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,T cell,78
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,T-helper 17 cell,5
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,capillary endothelial cell,168
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,conventional dendritic cell,45
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,endothelial cell of artery,116
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,endothelial cell of lymphatic vessel,54
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,endothelial cell of venule,450
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,fibroblast,602
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,gamma-delta T cell,15
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,helper T cell,105
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,keratinocyte,88
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,macrophage,74
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,mast cell,76
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,mature NK T cell,9
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,melanocyte,9
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,mucosal-associated invariant T cell,27
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,natural killer cell,31
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,neutrophil,31
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,pericyte,66
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,plasma cell,35
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,plasmacytoid dendritic cell,11
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,regulatory T cell,16
+Williams_GSE164241_GSM5005048,normal,PATO:0000461,vascular associated smooth muscle cell,65
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,B cell,7
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,Langerhans cell,17
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,Merkel cell,15
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,T cell,45
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,T-helper 17 cell,12
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,capillary endothelial cell,199
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,conventional dendritic cell,55
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,endothelial cell of artery,162
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,endothelial cell of lymphatic vessel,227
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,endothelial cell of venule,786
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,fibroblast,374
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,gamma-delta T cell,25
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,helper T cell,103
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,keratinocyte,346
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,macrophage,46
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,mast cell,158
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,mature NK T cell,11
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,melanocyte,23
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,mucosal-associated invariant T cell,8
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,natural killer cell,21
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,neutrophil,18
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,pericyte,100
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,plasma cell,80
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,plasmacytoid dendritic cell,1
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,regulatory T cell,12
+Williams_GSE164241_GSM5005049,normal,PATO:0000461,vascular associated smooth muscle cell,63
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,B cell,11
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,Langerhans cell,4
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,T cell,67
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,T-helper 17 cell,11
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,capillary endothelial cell,155
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,conventional dendritic cell,21
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,endothelial cell of artery,127
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,endothelial cell of lymphatic vessel,50
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,endothelial cell of venule,527
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,fibroblast,220
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,gamma-delta T cell,10
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,helper T cell,101
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,keratinocyte,122
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,macrophage,19
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,mast cell,103
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,mature NK T cell,26
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,melanocyte,4
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,mucosal-associated invariant T cell,27
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,natural killer cell,17
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,neutrophil,18
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,pericyte,95
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,plasma cell,30
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,plasmacytoid dendritic cell,1
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,regulatory T cell,6
+Williams_GSE164241_GSM5005050,normal,PATO:0000461,vascular associated smooth muscle cell,66
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,B cell,19
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,Langerhans cell,2
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,T cell,45
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,T-helper 17 cell,7
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,capillary endothelial cell,84
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,conventional dendritic cell,12
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,endothelial cell of artery,50
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,endothelial cell of lymphatic vessel,48
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,endothelial cell of venule,426
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,fibroblast,396
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,gamma-delta T cell,13
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,helper T cell,146
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,keratinocyte,73
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,macrophage,14
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,mast cell,61
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,mature NK T cell,25
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,melanocyte,4
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,mucosal-associated invariant T cell,13
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,natural killer cell,40
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,neutrophil,25
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,pericyte,64
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,plasma cell,50
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,plasmacytoid dendritic cell,5
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,regulatory T cell,6
+Williams_GSE164241_GSM5005051,normal,PATO:0000461,vascular associated smooth muscle cell,53
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,B cell,27
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,Langerhans cell,6
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,Schwann cell,3
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,T cell,176
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,T-helper 17 cell,7
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,capillary endothelial cell,305
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,conventional dendritic cell,79
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,endothelial cell of artery,246
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,endothelial cell of lymphatic vessel,173
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,endothelial cell of venule,1351
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,fibroblast,3264
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,gamma-delta T cell,18
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,helper T cell,146
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,keratinocyte,657
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,macrophage,133
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,mast cell,216
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,mature NK T cell,26
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,melanocyte,15
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,mucosal-associated invariant T cell,39
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,natural killer cell,28
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,neutrophil,64
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,pericyte,194
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,plasma cell,155
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,plasmacytoid dendritic cell,5
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,regulatory T cell,19
+Williams_GSE164241_GSM5005052,normal,PATO:0000461,vascular associated smooth muscle cell,281
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,B cell,34
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,Langerhans cell,2
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,T cell,235
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,T-helper 17 cell,20
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,capillary endothelial cell,254
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,conventional dendritic cell,73
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,endothelial cell of artery,237
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,endothelial cell of lymphatic vessel,168
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,endothelial cell of venule,1023
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,fibroblast,1333
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,gamma-delta T cell,25
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,helper T cell,322
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,keratinocyte,451
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,macrophage,81
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,mast cell,184
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,mature NK T cell,47
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,melanocyte,15
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,mucosal-associated invariant T cell,40
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,natural killer cell,29
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,neutrophil,45
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,pericyte,137
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,plasma cell,126
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,plasmacytoid dendritic cell,6
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,regulatory T cell,46
+Williams_GSE164241_GSM5005053,normal,PATO:0000461,vascular associated smooth muscle cell,131
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,B cell,4
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,Langerhans cell,16
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,T cell,87
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,T-helper 17 cell,13
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,capillary endothelial cell,133
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,conventional dendritic cell,23
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,endothelial cell of artery,94
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,endothelial cell of lymphatic vessel,45
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,endothelial cell of venule,515
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,fibroblast,422
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,gamma-delta T cell,20
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,helper T cell,109
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,keratinocyte,130
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,macrophage,23
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,mast cell,11
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,mature NK T cell,17
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,melanocyte,5
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,mucosal-associated invariant T cell,27
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,natural killer cell,20
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,neutrophil,9
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,pericyte,104
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,plasma cell,55
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,regulatory T cell,7
+Williams_GSE164241_GSM5005054,normal,PATO:0000461,vascular associated smooth muscle cell,96
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,B cell,378
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,Langerhans cell,8
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,Merkel cell,3
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,T cell,518
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,T-helper 17 cell,57
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,capillary endothelial cell,310
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,conventional dendritic cell,228
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,endothelial cell of artery,270
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,endothelial cell of lymphatic vessel,254
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,endothelial cell of venule,1314
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,fibroblast,1486
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,gamma-delta T cell,125
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,helper T cell,827
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,keratinocyte,417
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,macrophage,151
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,mast cell,330
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,mature NK T cell,85
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,melanocyte,2
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,mucosal-associated invariant T cell,125
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,natural killer cell,94
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,neutrophil,105
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,pericyte,311
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,plasma cell,239
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,plasmacytoid dendritic cell,232
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,regulatory T cell,65
+Williams_GSE164241_GSM5005055,normal,PATO:0000461,vascular associated smooth muscle cell,219
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,B cell,8
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,Langerhans cell,3
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,Schwann cell,2
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,T cell,129
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,T-helper 17 cell,20
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,capillary endothelial cell,240
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,conventional dendritic cell,45
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,endothelial cell of artery,183
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,endothelial cell of lymphatic vessel,77
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,endothelial cell of venule,1097
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,fibroblast,645
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,gamma-delta T cell,34
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,helper T cell,245
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,keratinocyte,123
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,macrophage,40
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,mast cell,29
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,mature NK T cell,38
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,mucosal-associated invariant T cell,46
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,natural killer cell,26
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,neutrophil,19
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,pericyte,157
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,plasma cell,100
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,plasmacytoid dendritic cell,10
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,regulatory T cell,25
+Williams_GSE164241_GSM5005056,normal,PATO:0000461,vascular associated smooth muscle cell,102
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,B cell,48
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,Langerhans cell,11
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,T cell,297
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,T-helper 17 cell,13
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,capillary endothelial cell,319
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,conventional dendritic cell,137
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,endothelial cell of artery,215
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,endothelial cell of lymphatic vessel,87
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,endothelial cell of venule,1350
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,fibroblast,1747
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,gamma-delta T cell,73
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,helper T cell,307
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,keratinocyte,533
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,macrophage,114
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,mast cell,333
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,mature NK T cell,41
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,melanocyte,20
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,mucosal-associated invariant T cell,93
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,natural killer cell,82
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,neutrophil,70
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,pericyte,233
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,plasma cell,145
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,plasmacytoid dendritic cell,15
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,regulatory T cell,23
+Williams_GSE164241_GSM5005057,normal,PATO:0000461,vascular associated smooth muscle cell,205
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,B cell,79
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,Schwann cell,3
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,T cell,258
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,T-helper 17 cell,38
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,capillary endothelial cell,86
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,conventional dendritic cell,92
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,endothelial cell of artery,68
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,11
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,endothelial cell of venule,227
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,fibroblast,268
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,gamma-delta T cell,57
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,helper T cell,422
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,keratinocyte,37
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,macrophage,108
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,mast cell,144
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,mature NK T cell,68
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,melanocyte,2
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,44
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,natural killer cell,54
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,neutrophil,82
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,pericyte,37
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,plasma cell,292
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,14
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,regulatory T cell,33
+Williams_GSE164241_GSM5005058,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,40
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,B cell,30
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,Langerhans cell,1
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,T cell,15
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,T-helper 17 cell,8
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,capillary endothelial cell,81
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,conventional dendritic cell,39
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,endothelial cell of artery,69
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,5
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,endothelial cell of venule,390
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,fibroblast,403
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,gamma-delta T cell,12
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,helper T cell,49
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,keratinocyte,153
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,macrophage,41
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,mast cell,37
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,mature NK T cell,6
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,5
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,natural killer cell,12
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,neutrophil,88
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,pericyte,80
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,plasma cell,56
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,2
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,regulatory T cell,13
+Williams_GSE164241_GSM5005059,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,100
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,B cell,8
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,Langerhans cell,2
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,T cell,74
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,T-helper 17 cell,12
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,capillary endothelial cell,27
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,conventional dendritic cell,12
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,endothelial cell of artery,22
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,2
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,endothelial cell of venule,56
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,fibroblast,75
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,gamma-delta T cell,22
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,helper T cell,105
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,keratinocyte,144
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,macrophage,10
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,mast cell,77
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,mature NK T cell,11
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,29
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,natural killer cell,21
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,neutrophil,12
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,pericyte,27
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,plasma cell,92
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,regulatory T cell,11
+Williams_GSE164241_GSM5005060,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,31
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,B cell,54
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,Langerhans cell,2
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,Schwann cell,2
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,T cell,107
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,T-helper 17 cell,16
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,capillary endothelial cell,194
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,conventional dendritic cell,58
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,endothelial cell of artery,143
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,37
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,endothelial cell of venule,680
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,fibroblast,812
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,gamma-delta T cell,37
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,helper T cell,259
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,keratinocyte,326
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,macrophage,73
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,mast cell,85
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,mature NK T cell,60
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,melanocyte,1
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,44
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,natural killer cell,81
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,neutrophil,120
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,pericyte,163
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,plasma cell,228
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,3
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,regulatory T cell,57
+Williams_GSE164241_GSM5005061,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,220
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,B cell,89
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,Langerhans cell,1
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,Schwann cell,3
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,T cell,325
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,T-helper 17 cell,49
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,capillary endothelial cell,158
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,conventional dendritic cell,84
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,endothelial cell of artery,163
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,11
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,endothelial cell of venule,600
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,fibroblast,500
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,gamma-delta T cell,48
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,helper T cell,402
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,keratinocyte,162
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,macrophage,54
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,mast cell,20
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,mature NK T cell,30
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,81
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,natural killer cell,35
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,neutrophil,39
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,pericyte,79
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,plasma cell,2011
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,15
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,regulatory T cell,60
+Williams_GSE164241_GSM5005062,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,95
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,B cell,15
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,Langerhans cell,9
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,T cell,107
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,T-helper 17 cell,24
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,capillary endothelial cell,271
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,conventional dendritic cell,59
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,endothelial cell of artery,180
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,endothelial cell of lymphatic vessel,39
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,endothelial cell of venule,826
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,fibroblast,819
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,gamma-delta T cell,13
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,helper T cell,231
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,keratinocyte,471
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,macrophage,36
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,mast cell,112
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,mature NK T cell,8
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,melanocyte,10
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,mucosal-associated invariant T cell,35
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,natural killer cell,16
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,neutrophil,28
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,pericyte,429
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,plasma cell,78
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,plasmacytoid dendritic cell,5
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,regulatory T cell,13
+Williams_GSE164241_GSM5177039,normal,PATO:0000461,vascular associated smooth muscle cell,200
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,B cell,736
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,Langerhans cell,2
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,Merkel cell,1
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,Schwann cell,2
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,T cell,590
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,T-helper 17 cell,47
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,capillary endothelial cell,201
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,conventional dendritic cell,134
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,endothelial cell of artery,146
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,endothelial cell of lymphatic vessel,47
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,endothelial cell of venule,855
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,fibroblast,473
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,gamma-delta T cell,84
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,helper T cell,678
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,keratinocyte,654
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,macrophage,118
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,mast cell,130
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,mature NK T cell,81
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,melanocyte,2
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,mucosal-associated invariant T cell,182
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,natural killer cell,67
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,neutrophil,56
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,pericyte,144
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,plasma cell,294
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,plasmacytoid dendritic cell,17
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,regulatory T cell,68
+Williams_GSE164241_GSM5177040,normal,PATO:0000461,vascular associated smooth muscle cell,92
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,B cell,86
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,Langerhans cell,4
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,Schwann cell,1
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,T cell,138
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,T-helper 17 cell,31
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,capillary endothelial cell,127
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,conventional dendritic cell,40
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,endothelial cell of artery,95
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,endothelial cell of lymphatic vessel,36
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,endothelial cell of venule,453
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,fibroblast,312
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,gamma-delta T cell,26
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,helper T cell,254
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,keratinocyte,173
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,macrophage,27
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,mast cell,55
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,mature NK T cell,11
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,mucosal-associated invariant T cell,49
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,natural killer cell,17
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,neutrophil,26
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,pericyte,43
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,plasma cell,895
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,plasmacytoid dendritic cell,5
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,regulatory T cell,30
+Williams_GSE164241_GSM5177041,normal,PATO:0000461,vascular associated smooth muscle cell,41
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,B cell,357
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,Langerhans cell,5
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,Schwann cell,1
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,T cell,515
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,T-helper 17 cell,41
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,capillary endothelial cell,72
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,conventional dendritic cell,107
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,endothelial cell of artery,68
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,13
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,endothelial cell of venule,341
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,fibroblast,415
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,gamma-delta T cell,81
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,helper T cell,532
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,keratinocyte,50
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,macrophage,80
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,mast cell,37
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,mature NK T cell,53
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,72
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,natural killer cell,95
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,neutrophil,112
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,pericyte,64
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,plasma cell,1726
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,42
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,regulatory T cell,68
+Williams_GSE164241_GSM5177042,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,77
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,B cell,185
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,Schwann cell,3
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,T cell,890
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,T-helper 17 cell,54
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,capillary endothelial cell,253
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,conventional dendritic cell,61
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,endothelial cell of artery,162
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,47
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,endothelial cell of venule,1063
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,fibroblast,1246
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,gamma-delta T cell,107
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,helper T cell,918
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,keratinocyte,82
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,macrophage,78
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,mast cell,95
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,mature NK T cell,118
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,melanocyte,7
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,182
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,natural killer cell,57
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,neutrophil,59
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,pericyte,132
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,plasma cell,312
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,15
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,regulatory T cell,129
+Williams_GSE164241_GSM5177043,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,80
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,B cell,279
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,Schwann cell,1
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,T cell,477
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,T-helper 17 cell,34
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,capillary endothelial cell,117
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,conventional dendritic cell,138
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,endothelial cell of artery,95
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,endothelial cell of lymphatic vessel,5
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,endothelial cell of venule,427
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,fibroblast,479
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,gamma-delta T cell,62
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,helper T cell,579
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,keratinocyte,101
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,macrophage,184
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,mast cell,167
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,mature NK T cell,80
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,mucosal-associated invariant T cell,81
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,natural killer cell,48
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,neutrophil,275
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,pericyte,162
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,plasma cell,2125
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,plasmacytoid dendritic cell,41
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,regulatory T cell,137
+Williams_GSE164241_GSM5177044,periodontitis,MONDO:0005076,vascular associated smooth muscle cell,216

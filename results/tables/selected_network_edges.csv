@@ -1,0 +1,49 @@
+source,target,weight,resources,references,sign_decision,evidence_type,target_logcpm_change,contrast_cell_type
+CREBBP,CSF2,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:20439113,default activation,curated_prior,3.037529659342206,Fibroblast
+CREBBP,PTGS2,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:11278336,default activation,curated_prior,2.7881555785958962,Fibroblast
+CREBBP,LDLR,1.0,CollecTRI;TFactS_CollecTRI,CollecTRI:9651391,PMID,curated_prior,1.7150036912814608,Fibroblast
+CREBBP,EGFR,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:21464950,default activation,curated_prior,0.9250121279279204,Fibroblast
+CREBBP,IRF1,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:18497060,PMID,curated_prior,0.8758911734711088,Fibroblast
+CREBBP,HMGCS1,1.0,CollecTRI;TFactS_CollecTRI,CollecTRI:9651391,PMID,curated_prior,0.8525579509795369,Fibroblast
+ETV3,MMP1,-1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI;TRRUST_CollecTRI,CollecTRI:10913304,PMID,curated_prior,5.876088040409749,Fibroblast
+ETV3,NFKB1,-1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:18025162,PMID,curated_prior,1.3681105964702471,Fibroblast
+ETV3,ERF,-1.0,CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:17525531,regulon,curated_prior,1.335692317023701,Fibroblast
+ETV3,FGF2,-1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:10913304,regulon,curated_prior,1.2877066526177403,Fibroblast
+ETV3,ETV3,-1.0,CollecTRI;SIGNOR_CollecTRI,CollecTRI:22028471,PMID,curated_prior,0.9947047261961717,Fibroblast
+ETV3,DUSP6,-1.0,CollecTRI;SIGNOR_CollecTRI,CollecTRI:22028473,PMID,curated_prior,0.36068239127562585,Fibroblast
+GLI2,IL6,1.0,CollecTRI;TFactS_CollecTRI,CollecTRI:14691458,PMID,curated_prior,2.466782838046927,Fibroblast
+GLI2,MEOX1,1.0,CollecTRI;GEREDB_CollecTRI;TFactS_CollecTRI,CollecTRI:14691458;CollecTRI:15039437,PMID,curated_prior,-2.1275881429239316,Fibroblast
+GLI2,MMP10,-1.0,CollecTRI;TFactS_CollecTRI,CollecTRI:14691458,PMID,curated_prior,2.0168695155671106,Fibroblast
+GLI2,BMP2,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI;SIGNOR_CollecTRI,CollecTRI:16880529;CollecTRI:19103752,PMID,curated_prior,1.954006745382963,Fibroblast
+GLI2,PAX3,1.0,CollecTRI;GEREDB_CollecTRI;TFactS_CollecTRI,CollecTRI:15039437,PMID,curated_prior,1.9220812097249464,Fibroblast
+GLI2,MMP13,-1.0,CollecTRI;TFactS_CollecTRI,CollecTRI:14691458,PMID,curated_prior,1.6155989813771088,Fibroblast
+GTF3A,CXCL8,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:22621400,default activation,curated_prior,4.161530212024298,Fibroblast
+GTF3A,IGF2,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:7535092,default activation,curated_prior,2.0508472845888996,Fibroblast
+GTF3A,ADM,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:12630823,default activation,curated_prior,1.9019374622425982,Fibroblast
+GTF3A,VEGFA,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:19420388,default activation,curated_prior,1.5325052026724535,Fibroblast
+GTF3A,PLAU,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:8968087,default activation,curated_prior,1.244977191889789,Fibroblast
+GTF3A,KDR,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:22167188,default activation,curated_prior,-1.0059563561093379,Fibroblast
+JUND,IL11,1.0,CollecTRI;CytReg_CollecTRI;ExTRI_CollecTRI,CollecTRI:12929935;CollecTRI:19665600;CollecTRI:20927330;CollecTRI:21931225;CollecTRI:24036113;CollecTRI:7806493;CollecTRI:9488674,PMID,curated_prior,4.635868096524424,Fibroblast
+JUND,CXCL8,1.0,CollecTRI;CytReg_CollecTRI;ExTRI_CollecTRI,CollecTRI:11973337;CollecTRI:14686613,PMID,curated_prior,4.161530212024298,Fibroblast
+JUND,FOSL1,1.0,CollecTRI;DoRothEA-A_CollecTRI;ExTRI_CollecTRI;SIGNOR_CollecTRI;TRRUST_CollecTRI,CollecTRI:13679379;CollecTRI:23319049,PMID,curated_prior,3.03648074660628,Fibroblast
+JUND,PTGS2,1.0,CollecTRI;TRRUST_CollecTRI,CollecTRI:9620167,PMID,curated_prior,2.7881555785958962,Fibroblast
+JUND,IL6,1.0,CollecTRI;CytReg_CollecTRI;ExTRI_CollecTRI;GEREDB_CollecTRI;TRRUST_CollecTRI,CollecTRI:10037779;CollecTRI:11337499;CollecTRI:11886848;CollecTRI:12727841;CollecTRI:24676671,PMID,curated_prior,2.466782838046927,Fibroblast
+JUND,SERPINE1,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:20351105,PMID,curated_prior,2.3371904426468992,Fibroblast
+NFKBIB,CXCL8,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:9731513,default activation,curated_prior,4.161530212024298,Fibroblast
+NFKBIB,PTGS2,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:12960330,default activation,curated_prior,2.7881555785958962,Fibroblast
+NFKBIB,SOD2,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:15517870;CollecTRI:18769717,default activation,curated_prior,1.6929438427017658,Fibroblast
+NFKBIB,IL1B,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:1905804;CollecTRI:20975042,default activation,curated_prior,1.4469976131282938,Fibroblast
+NFKBIB,PLAU,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:1905804,PMID,curated_prior,1.244977191889789,Fibroblast
+NFKBIB,SRXN1,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:18769717,default activation,curated_prior,0.8159356882230604,Fibroblast
+TFE3,SERPINE1,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:10636910;CollecTRI:12551947;CollecTRI:9765209,PMID,curated_prior,2.3371904426468992,Fibroblast
+TFE3,TXNIP,-1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:24037087,PMID,curated_prior,-2.086768527679231,Fibroblast
+TFE3,SMAD7,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:10973944,default activation,curated_prior,1.7309045345921152,Fibroblast
+TFE3,ACP5,1.0,CollecTRI;ExTRI_CollecTRI;GOA_CollecTRI,CollecTRI:11818452;CollecTRI:21209915,PMID,curated_prior,-1.5332540435427093,Fibroblast
+TFE3,VEGFA,1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI,CollecTRI:22419845,default activation,curated_prior,1.5325052026724535,Fibroblast
+TFE3,ERF,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:9765209,default activation,curated_prior,1.335692317023701,Fibroblast
+ZNF148,MMP3,1.0,CollecTRI;DoRothEA-A_CollecTRI;ExTRI_CollecTRI;HTRI_CollecTRI;TRRUST_CollecTRI,CollecTRI:15003528;CollecTRI:19275880,PMID,curated_prior,4.831825038139101,Fibroblast
+ZNF148,CXCL5,1.0,CollecTRI;CytReg_CollecTRI;DoRothEA-A_CollecTRI;ExTRI_CollecTRI;HTRI_CollecTRI;TRRUST_CollecTRI,CollecTRI:11559712,PMID,curated_prior,3.625861130295927,Fibroblast
+ZNF148,OAS1,1.0,CollecTRI;ExTRI_CollecTRI,CollecTRI:16825291,default activation,curated_prior,-1.1162940625446232,Fibroblast
+ZNF148,ODC1,1.0,CollecTRI;ExTRI_CollecTRI;TRRUST_CollecTRI,CollecTRI:10448078;CollecTRI:9685330,default activation,curated_prior,0.9959400791350781,Fibroblast
+ZNF148,SOX18,-1.0,CollecTRI;ExTRI_CollecTRI;NTNU.Curated_CollecTRI;SIGNOR_CollecTRI;TRRUST_CollecTRI,CollecTRI:18496767,PMID,curated_prior,-0.9824520781940118,Fibroblast
+ZNF148,IRS2,1.0,CollecTRI;DoRothEA-A_CollecTRI;ExTRI_CollecTRI;HTRI_CollecTRI;TRRUST_CollecTRI,CollecTRI:19875459,default activation,curated_prior,0.832264755244374,Fibroblast

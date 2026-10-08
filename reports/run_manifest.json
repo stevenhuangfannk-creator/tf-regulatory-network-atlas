@@ -1,0 +1,66 @@
+{
+  "seed": 20261008,
+  "input_cells": 105918,
+  "retained_cells": 38971,
+  "pseudobulk_samples": 46,
+  "biological_donors": 18,
+  "genes_original": 35369,
+  "genes_unique": 35360,
+  "genes_analyzed": 21690,
+  "regulators_tested": 516,
+  "selected_tfs": [
+    "GTF3A",
+    "ZNF148",
+    "CREBBP",
+    "NFKBIB",
+    "TFE3",
+    "ETV3",
+    "GLI2",
+    "JUND"
+  ],
+  "normalization": {
+    "seed": 20261008,
+    "study": "Williams",
+    "sample_prefix": "Williams_",
+    "cell_type_map": {
+      "fibroblast": "Fibroblast",
+      "macrophage": "Macrophage",
+      "capillary endothelial cell": "Endothelial",
+      "endothelial cell of artery": "Endothelial",
+      "endothelial cell of venule": "Endothelial"
+    },
+    "conditions": [
+      "normal",
+      "periodontitis"
+    ],
+    "cell_types": [
+      "Fibroblast",
+      "Macrophage",
+      "Endothelial"
+    ],
+    "min_cells_per_donor_celltype": 50,
+    "min_donors_per_condition": 3,
+    "min_targets": 10,
+    "chunk_size": 256,
+    "normalization_cell": "log1p(counts / library_size * 10000)",
+    "normalization_pseudobulk": "log2(CPM + 1); center each gene across donors within cell type",
+    "gene_filter": "total pseudobulk count >=10 and nonzero in >=3 donor-celltype samples",
+    "differential_test": "OLS disease+assay on donor-celltype scores; HC3 t-based CI and p-value; BH within celltype-method; v3-only Welch sensitivity",
+    "bootstrap_iterations": 1000,
+    "viper_pleiotropy": true,
+    "figure_tfs": 8
+  },
+  "seconds": 71.18700000003446,
+  "packages": {
+    "decoupler": "2.1.2",
+    "numpy": "2.4.6",
+    "scipy": "1.15.3",
+    "pandas": "3.0.6",
+    "h5py": "3.16.0",
+    "anndata": "0.13.4",
+    "numba": "0.68.0",
+    "statsmodels": "0.15.0"
+  },
+  "versions": "dc.mt.viper is Python reimplementation; not Bioconductor viper or ARACNe reconstruction",
+  "embedding": "Author CELLxGENE X_umap reused; no new trajectory inferred"
+}

@@ -1,0 +1,401 @@
+tf,pathway,overlap,n_targets,n_members,universe,pvalue,genes,evidence_type,fdr
+GTF3A,TNF-alpha Signaling via NF-kB,4,23,198,21690,5.2067650347551326e-05,ABCA1;PLAU;TNF;VEGFA,curated_prior_gene_set_overlap,0.0005206765034755132
+GTF3A,Hypoxia,2,23,190,21690,0.01711390674161596,ADM;VEGFA,curated_prior_gene_set_overlap,0.059599803938847146
+GTF3A,Cholesterol Homeostasis,0,23,73,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Mitotic Spindle,0,23,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Wnt-beta Catenin Signaling,0,23,41,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,TGF-beta Signaling,0,23,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,IL-6/JAK/STAT3 Signaling,2,23,83,21690,0.0034740861248895995,STAT1;TNF,curated_prior_gene_set_overlap,0.015440382777287109
+GTF3A,DNA Repair,1,23,140,21690,0.13844167275608157,NME1,curated_prior_gene_set_overlap,0.29933334649963583
+GTF3A,G2-M Checkpoint,0,23,155,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Apoptosis,1,23,155,21690,0.15213644580118876,TNF,curated_prior_gene_set_overlap,0.3138571487184148
+GTF3A,Notch Signaling,0,23,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Adipogenesis,1,23,196,21690,0.18851461566290167,ABCA1,curated_prior_gene_set_overlap,0.36238173862949175
+GTF3A,Estrogen Response Early,0,23,189,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Estrogen Response Late,0,23,179,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Androgen Response,0,23,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Myogenesis,0,23,186,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Protein Secretion,1,23,94,21690,0.09511253700245101,ABCA1,curated_prior_gene_set_overlap,0.22918683615048438
+GTF3A,Interferon Alpha Response,0,23,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Interferon Gamma Response,1,23,198,21690,0.19025041278048319,STAT1,curated_prior_gene_set_overlap,0.36238173862949175
+GTF3A,Apical Junction,1,23,185,21690,0.17890393123381665,ACTG2,curated_prior_gene_set_overlap,0.3534666362079965
+GTF3A,Apical Surface,0,23,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Hedgehog Signaling,1,23,34,21690,0.035456256285216786,VEGFA,curated_prior_gene_set_overlap,0.10058512421338096
+GTF3A,Complement,0,23,187,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Unfolded Protein Response,3,23,111,21690,0.00021439091015115723,BAG3;FUS;VEGFA,curated_prior_gene_set_overlap,0.001618044604914394
+GTF3A,PI3K/AKT/mTOR  Signaling,0,23,101,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,mTORC1 Signaling,1,23,193,21690,0.18590424509175016,HSPA4,curated_prior_gene_set_overlap,0.3592352562159424
+GTF3A,E2F Targets,1,23,152,21690,0.14941425787486587,NME1,curated_prior_gene_set_overlap,0.3112797039059706
+GTF3A,Myc Targets V1,1,23,188,21690,0.18153576965259904,NME1,curated_prior_gene_set_overlap,0.3534666362079965
+GTF3A,Myc Targets V2,0,23,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Epithelial Mesenchymal Transition,2,23,198,21690,0.018494491951527595,CXCL8;VEGFA,curated_prior_gene_set_overlap,0.06164830650509198
+GTF3A,Inflammatory Response,3,23,193,21690,0.0010773420825644572,ABCA1;ADM;CXCL8,curated_prior_gene_set_overlap,0.005985233792024763
+GTF3A,Xenobiotic Metabolism,0,23,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Fatty Acid Metabolism,0,23,149,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Oxidative Phosphorylation,0,23,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Glycolysis,1,23,183,21690,0.17714487719316088,VEGFA,curated_prior_gene_set_overlap,0.35252711879236
+GTF3A,Reactive Oxygen Species Pathway,0,23,48,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,p53 Pathway,1,23,198,21690,0.19025041278048319,PDGFA,curated_prior_gene_set_overlap,0.36238173862949175
+GTF3A,UV Response Up,0,23,153,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,UV Response Dn,0,23,144,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Angiogenesis,2,23,34,21690,0.0005910807474077823,PDGFA;VEGFA,curated_prior_gene_set_overlap,0.0036374199840478907
+GTF3A,heme Metabolism,0,23,184,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Coagulation,1,23,113,21690,0.11325617749864784,PLAU,curated_prior_gene_set_overlap,0.26338645929918103
+GTF3A,IL-2/STAT5 Signaling,0,23,193,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Bile Acid Metabolism,1,23,96,21690,0.09703898729709667,ABCA1,curated_prior_gene_set_overlap,0.2310452078502302
+GTF3A,Pperoxisome,0,23,93,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Allograft Rejection,3,23,191,21690,0.0010454668802189824,NME1;STAT1;TNF,curated_prior_gene_set_overlap,0.005889954254754831
+GTF3A,Spermatogenesis,0,23,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,KRAS Signaling Up,2,23,191,21690,0.01728394314226567,IGF2;PLAU,curated_prior_gene_set_overlap,0.059599803938847146
+GTF3A,KRAS Signaling Dn,0,23,146,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GTF3A,Pancreas Beta Cells,0,23,22,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,TNF-alpha Signaling via NF-kB,2,28,198,21690,0.026823390872876437,CDKN1A;IRS2,curated_prior_gene_set_overlap,0.08190348358130209
+ZNF148,Hypoxia,3,28,190,21690,0.0018445789766424923,CDKN1A;ENO3;IRS2,curated_prior_gene_set_overlap,0.009339640388063251
+ZNF148,Cholesterol Homeostasis,0,28,73,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Mitotic Spindle,1,28,177,21690,0.2051272997702479,EPB41,curated_prior_gene_set_overlap,0.383767763612634
+ZNF148,Wnt-beta Catenin Signaling,1,28,41,21690,0.051630169437727184,TP53,curated_prior_gene_set_overlap,0.1390814228697619
+ZNF148,TGF-beta Signaling,0,28,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,IL-6/JAK/STAT3 Signaling,2,28,83,21690,0.005126646045823324,BAK1;STAT1,curated_prior_gene_set_overlap,0.021140808436384842
+ZNF148,DNA Repair,1,28,140,21690,0.1659213241720787,TP53,curated_prior_gene_set_overlap,0.3351945942870277
+ZNF148,G2-M Checkpoint,1,28,155,21690,0.1820353176471182,ODC1,curated_prior_gene_set_overlap,0.3534666362079965
+ZNF148,Apoptosis,1,28,155,21690,0.1820353176471182,CDKN1A,curated_prior_gene_set_overlap,0.3534666362079965
+ZNF148,Notch Signaling,0,28,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Adipogenesis,0,28,196,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Estrogen Response Early,1,28,189,21690,0.2174566340680755,CISH,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Estrogen Response Late,1,28,179,21690,0.20719511629336146,CISH,curated_prior_gene_set_overlap,0.38547928612718413
+ZNF148,Androgen Response,0,28,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Myogenesis,2,28,186,21690,0.023888001346558316,CDKN1A;ENO3,curated_prior_gene_set_overlap,0.07768455722457988
+ZNF148,Protein Secretion,0,28,94,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Interferon Alpha Response,1,28,97,21690,0.11801319421690772,OAS1,curated_prior_gene_set_overlap,0.2706645754150952
+ZNF148,Interferon Gamma Response,2,28,198,21690,0.026823390872876437,CDKN1A;STAT1,curated_prior_gene_set_overlap,0.08190348358130209
+ZNF148,Apical Junction,1,28,185,21690,0.21336748993658355,PKD1,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Apical Surface,0,28,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Hedgehog Signaling,0,28,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Complement,1,28,187,21690,0.21541463085796791,ITGAM,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Unfolded Protein Response,1,28,111,21690,0.13389529268223166,NFYA,curated_prior_gene_set_overlap,0.29266730640924954
+ZNF148,PI3K/AKT/mTOR  Signaling,1,28,101,21690,0.12257936774996007,CDKN1A,curated_prior_gene_set_overlap,0.27239859499991126
+ZNF148,mTORC1 Signaling,1,28,193,21690,0.22152527699644942,CDKN1A,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,E2F Targets,3,28,152,21690,0.0009719783066267373,CDKN1A;CDKN2A;TP53,curated_prior_gene_set_overlap,0.005634656850010072
+ZNF148,Myc Targets V1,1,28,188,21690,0.21643627390014705,ODC1,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Myc Targets V2,0,28,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Epithelial Mesenchymal Transition,3,28,198,21690,0.002074528063989949,COL1A2;MMP3;VIM,curated_prior_gene_set_overlap,0.010119649092633898
+ZNF148,Inflammatory Response,1,28,193,21690,0.22152527699644942,CDKN1A,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Xenobiotic Metabolism,0,28,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Fatty Acid Metabolism,2,28,149,21690,0.015763286182099167,ENO3;ODC1,curated_prior_gene_set_overlap,0.05644412229113811
+ZNF148,Oxidative Phosphorylation,0,28,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Glycolysis,1,28,183,21690,0.21131519885728367,IRS2,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Reactive Oxygen Species Pathway,0,28,48,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,p53 Pathway,4,28,198,21690,0.00011617019883124655,BAK1;CDKN1A;CDKN2A;TP53,curated_prior_gene_set_overlap,0.0009761055550586708
+ZNF148,UV Response Up,1,28,153,21690,0.1799042607335117,BAK1,curated_prior_gene_set_overlap,0.3534666362079965
+ZNF148,UV Response Dn,1,28,144,21690,0.17024807042810686,COL1A2,curated_prior_gene_set_overlap,0.3422071767399133
+ZNF148,Angiogenesis,0,28,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,heme Metabolism,1,28,184,21690,0.21234198894571976,EPB41,curated_prior_gene_set_overlap,0.38641333030992875
+ZNF148,Coagulation,1,28,113,21690,0.136141528329784,MMP3,curated_prior_gene_set_overlap,0.29595984419518256
+ZNF148,IL-2/STAT5 Signaling,3,28,193,21690,0.0019288291950627647,CISH;ENO3;ODC1,curated_prior_gene_set_overlap,0.009644145975313823
+ZNF148,Bile Acid Metabolism,0,28,96,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Pperoxisome,0,28,93,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,Allograft Rejection,4,28,191,21690,0.0001011049027870806,CDKN2A;IFNG;SPI1;STAT1,curated_prior_gene_set_overlap,0.000898710246996272
+ZNF148,Spermatogenesis,0,28,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,KRAS Signaling Up,0,28,191,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ZNF148,KRAS Signaling Dn,1,28,146,21690,0.1724033193189413,IFNG,curated_prior_gene_set_overlap,0.3448066386378826
+ZNF148,Pancreas Beta Cells,1,28,22,21690,0.02803191225255605,IAPP,curated_prior_gene_set_overlap,0.08305751778535125
+CREBBP,TNF-alpha Signaling via NF-kB,6,29,198,21690,2.1391357919510006e-07,CDKN1A;CSF2;IRF1;LDLR;MYC;PTGS2,curated_prior_gene_set_overlap,5.628757903911951e-06
+CREBBP,Hypoxia,3,29,190,21690,0.0020442446047961426,CDKN1A;EGFR;S100A4,curated_prior_gene_set_overlap,0.010095035085413049
+CREBBP,Cholesterol Homeostasis,4,29,73,21690,2.6310346535615847e-06,FDPS;HMGCR;HMGCS1;LDLR,curated_prior_gene_set_overlap,4.2096554456985355e-05
+CREBBP,Mitotic Spindle,0,29,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Wnt-beta Catenin Signaling,2,29,41,21690,0.001370333527585509,MYC;TP53,curated_prior_gene_set_overlap,0.007407208257218968
+CREBBP,TGF-beta Signaling,0,29,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,IL-6/JAK/STAT3 Signaling,2,29,83,21690,0.005492787282121463,CSF2;IRF1,curated_prior_gene_set_overlap,0.02241953992702638
+CREBBP,DNA Repair,2,29,140,21690,0.014984734326014161,ERCC1;TP53,curated_prior_gene_set_overlap,0.054489943003687855
+CREBBP,G2-M Checkpoint,2,29,155,21690,0.018155402523329756,EZH2;MYC,curated_prior_gene_set_overlap,0.06126873319095849
+CREBBP,Apoptosis,4,29,155,21690,5.183777370019195e-05,BRCA1;CDKN1A;IRF1;RARA,curated_prior_gene_set_overlap,0.0005206765034755132
+CREBBP,Notch Signaling,0,29,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Adipogenesis,0,29,196,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Estrogen Response Early,2,29,189,21690,0.02628225070034653,MYC;RARA,curated_prior_gene_set_overlap,0.08190348358130209
+CREBBP,Estrogen Response Late,0,29,179,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Androgen Response,2,29,97,21690,0.007428937707495983,HMGCR;HMGCS1,curated_prior_gene_set_overlap,0.029133089049003854
+CREBBP,Myogenesis,2,29,186,21690,0.02551496030130602,CDKN1A;FDPS,curated_prior_gene_set_overlap,0.08164787296417927
+CREBBP,Protein Secretion,1,29,94,21690,0.11841575174410415,EGFR,curated_prior_gene_set_overlap,0.2706645754150952
+CREBBP,Interferon Alpha Response,1,29,97,21690,0.12196263194938681,IRF1,curated_prior_gene_set_overlap,0.27239859499991126
+CREBBP,Interferon Gamma Response,3,29,198,21690,0.0022984583156076097,CDKN1A;IRF1;PTGS2,curated_prior_gene_set_overlap,0.010642406018041768
+CREBBP,Apical Junction,1,29,185,21690,0.2200855683393963,EGFR,curated_prior_gene_set_overlap,0.38641333030992875
+CREBBP,Apical Surface,1,29,40,21690,0.05215553357616072,BRCA1,curated_prior_gene_set_overlap,0.1390814228697619
+CREBBP,Hedgehog Signaling,0,29,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Complement,1,29,187,21690,0.22218766492820902,IRF1,curated_prior_gene_set_overlap,0.38641333030992875
+CREBBP,Unfolded Protein Response,0,29,111,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,PI3K/AKT/mTOR  Signaling,2,29,101,21690,0.00803105512863644,CDKN1A;EGFR,curated_prior_gene_set_overlap,0.031188563606355107
+CREBBP,mTORC1 Signaling,4,29,193,21690,0.00012124953474465218,CDKN1A;HMGCR;HMGCS1;LDLR,curated_prior_gene_set_overlap,0.0009897921203645076
+CREBBP,E2F Targets,5,29,152,21690,1.6404060113037307e-06,BRCA1;CDKN1A;EZH2;MYC;TP53,curated_prior_gene_set_overlap,3.280812022607461e-05
+CREBBP,Myc Targets V1,1,29,188,21690,0.22323666077609444,MYC,curated_prior_gene_set_overlap,0.38655698835687347
+CREBBP,Myc Targets V2,1,29,54,21690,0.06978166630013694,MYC,curated_prior_gene_set_overlap,0.1824357288892469
+CREBBP,Epithelial Mesenchymal Transition,0,29,198,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Inflammatory Response,5,29,193,21690,5.287305698070645e-06,CDKN1A;IRF1;LDLR;MYC;SLC1A2,curated_prior_gene_set_overlap,7.049740930760861e-05
+CREBBP,Xenobiotic Metabolism,0,29,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Fatty Acid Metabolism,2,29,149,21690,0.01685550724245748,HMGCS1;PPARA,curated_prior_gene_set_overlap,0.059599803938847146
+CREBBP,Oxidative Phosphorylation,0,29,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Glycolysis,1,29,183,21690,0.21797798708593827,EGFR,curated_prior_gene_set_overlap,0.38641333030992875
+CREBBP,Reactive Oxygen Species Pathway,0,29,48,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,p53 Pathway,3,29,198,21690,0.0022984583156076097,CDKN1A;S100A4;TP53,curated_prior_gene_set_overlap,0.010642406018041768
+CREBBP,UV Response Up,2,29,153,21690,0.017717475255825666,CCK;IRF1,curated_prior_gene_set_overlap,0.06057256497718177
+CREBBP,UV Response Dn,2,29,144,21690,0.015804354241518673,LDLR;MYC,curated_prior_gene_set_overlap,0.05644412229113811
+CREBBP,Angiogenesis,1,29,34,21690,0.04450315464405386,S100A4,curated_prior_gene_set_overlap,0.12276732315601066
+CREBBP,heme Metabolism,0,29,184,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Coagulation,1,29,113,21690,0.14064785310583117,MST1,curated_prior_gene_set_overlap,0.30106923318306905
+CREBBP,IL-2/STAT5 Signaling,2,29,193,21690,0.027319875689497713,CSF2;MYC,curated_prior_gene_set_overlap,0.0821650396676623
+CREBBP,Bile Acid Metabolism,0,29,96,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Pperoxisome,2,29,93,21690,0.006848373823261521,ERCC1;FDPS,curated_prior_gene_set_overlap,0.02712227256737236
+CREBBP,Allograft Rejection,2,29,191,21690,0.026798991723042936,BRCA1;EGFR,curated_prior_gene_set_overlap,0.08190348358130209
+CREBBP,Spermatogenesis,1,29,89,21690,0.11247352166358839,EZH2,curated_prior_gene_set_overlap,0.2630959571078091
+CREBBP,KRAS Signaling Up,2,29,191,21690,0.026798991723042936,CSF2;PTGS2,curated_prior_gene_set_overlap,0.08190348358130209
+CREBBP,KRAS Signaling Dn,0,29,146,21690,1.0,,curated_prior_gene_set_overlap,1.0
+CREBBP,Pancreas Beta Cells,0,29,22,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,TNF-alpha Signaling via NF-kB,6,18,198,21690,9.08904107861557e-09,CCL5;IL1B;PLAU;PTGS2;SOD2;TNF,curated_prior_gene_set_overlap,3.3051058467692985e-07
+NFKBIB,Hypoxia,0,18,190,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Cholesterol Homeostasis,0,18,73,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Mitotic Spindle,0,18,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Wnt-beta Catenin Signaling,0,18,41,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,TGF-beta Signaling,0,18,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,IL-6/JAK/STAT3 Signaling,2,18,83,21690,0.0021271476956894564,IL1B;TNF,curated_prior_gene_set_overlap,0.010251314196093765
+NFKBIB,DNA Repair,0,18,140,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,G2-M Checkpoint,0,18,155,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Apoptosis,3,18,155,21690,0.00026993419119976223,IL1B;SOD2;TNF,curated_prior_gene_set_overlap,0.0019281013657125872
+NFKBIB,Notch Signaling,0,18,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Adipogenesis,2,18,196,21690,0.011301769890280242,CHUK;SDHC,curated_prior_gene_set_overlap,0.04185840700103793
+NFKBIB,Estrogen Response Early,0,18,189,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Estrogen Response Late,0,18,179,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Androgen Response,0,18,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Myogenesis,2,18,186,21690,0.01022505297114823,PDLIM7;PRNP,curated_prior_gene_set_overlap,0.03822449708840459
+NFKBIB,Protein Secretion,0,18,94,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Interferon Alpha Response,0,18,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Interferon Gamma Response,3,18,198,21690,0.0005525975265224459,CCL5;PTGS2;SOD2,curated_prior_gene_set_overlap,0.003489310577178927
+NFKBIB,Apical Junction,0,18,185,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Apical Surface,0,18,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Hedgehog Signaling,0,18,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Complement,1,18,187,21690,0.14437316600879632,CCL5,curated_prior_gene_set_overlap,0.30555167409269063
+NFKBIB,Unfolded Protein Response,0,18,111,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,PI3K/AKT/mTOR  Signaling,1,18,101,21690,0.08061122300009854,NFKBIB,curated_prior_gene_set_overlap,0.20407904556986972
+NFKBIB,mTORC1 Signaling,1,18,193,21690,0.1486621131237131,NFKBIB,curated_prior_gene_set_overlap,0.3112797039059706
+NFKBIB,E2F Targets,0,18,152,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Myc Targets V1,0,18,188,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Myc Targets V2,0,18,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Epithelial Mesenchymal Transition,1,18,198,21690,0.1522207171284312,CXCL8,curated_prior_gene_set_overlap,0.3138571487184148
+NFKBIB,Inflammatory Response,3,18,193,21690,0.0005129091180923224,CCL5;CXCL8;IL1B,curated_prior_gene_set_overlap,0.0034193941206154825
+NFKBIB,Xenobiotic Metabolism,0,18,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Fatty Acid Metabolism,1,18,149,21690,0.11673228784331109,SDHC,curated_prior_gene_set_overlap,0.2699012435683493
+NFKBIB,Oxidative Phosphorylation,1,18,200,21690,0.1536402212724111,SDHC,curated_prior_gene_set_overlap,0.31515942825109966
+NFKBIB,Glycolysis,1,18,183,21690,0.14150253959604245,SDHC,curated_prior_gene_set_overlap,0.30106923318306905
+NFKBIB,Reactive Oxygen Species Pathway,3,18,48,21690,8.108255796587568e-06,PRNP;SOD2;SRXN1,curated_prior_gene_set_overlap,0.00010462265543983959
+NFKBIB,p53 Pathway,0,18,198,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,UV Response Up,1,18,153,21690,0.11968108435540516,SOD2,curated_prior_gene_set_overlap,0.27200246444410264
+NFKBIB,UV Response Dn,0,18,144,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Angiogenesis,0,18,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,heme Metabolism,0,18,184,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Coagulation,1,18,113,21690,0.08977005347709652,PLAU,curated_prior_gene_set_overlap,0.22414047031295573
+NFKBIB,IL-2/STAT5 Signaling,1,18,193,21690,0.1486621131237131,PRNP,curated_prior_gene_set_overlap,0.3112797039059706
+NFKBIB,Bile Acid Metabolism,0,18,96,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Pperoxisome,1,18,93,21690,0.07445705679921141,SOD2,curated_prior_gene_set_overlap,0.1921490118063814
+NFKBIB,Allograft Rejection,5,18,191,21690,3.9225713222956575e-07,CCL5;IKBKB;IL1B;NOS2;TNF,curated_prior_gene_set_overlap,9.229579581872134e-06
+NFKBIB,Spermatogenesis,0,18,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,KRAS Signaling Up,3,18,191,21690,0.0004975630394894295,IL1B;PLAU;PTGS2,curated_prior_gene_set_overlap,0.0033733087423012172
+NFKBIB,KRAS Signaling Dn,0,18,146,21690,1.0,,curated_prior_gene_set_overlap,1.0
+NFKBIB,Pancreas Beta Cells,0,18,22,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,TNF-alpha Signaling via NF-kB,3,34,198,21690,0.003640342890310483,IRS2;SERPINE1;VEGFA,curated_prior_gene_set_overlap,0.01582757778395862
+TFE3,Hypoxia,5,34,190,21690,1.1077150252400239e-05,GCK;IRS2;MYH9;SERPINE1;VEGFA,curated_prior_gene_set_overlap,0.00013846437815500298
+TFE3,Cholesterol Homeostasis,0,34,73,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Mitotic Spindle,1,34,177,21690,0.24331357517099558,MYH9,curated_prior_gene_set_overlap,0.41950616408792346
+TFE3,Wnt-beta Catenin Signaling,0,34,41,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,TGF-beta Signaling,4,34,54,21690,1.5051438265988846e-06,CDH1;SERPINE1;SMAD7;TGFB1,curated_prior_gene_set_overlap,3.280812022607461e-05
+TFE3,IL-6/JAK/STAT3 Signaling,1,34,83,21690,0.12230407177350987,TGFB1,curated_prior_gene_set_overlap,0.27239859499991126
+TFE3,DNA Repair,0,34,140,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,G2-M Checkpoint,1,34,155,21690,0.216534122511528,TGFB1,curated_prior_gene_set_overlap,0.38641333030992875
+TFE3,Apoptosis,2,34,155,21690,0.02451174439022551,SMAD7;TXNIP,curated_prior_gene_set_overlap,0.07907014319427584
+TFE3,Notch Signaling,0,34,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Adipogenesis,0,34,196,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Estrogen Response Early,0,34,189,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Estrogen Response Late,1,34,179,21690,0.2457035352157683,CDH1,curated_prior_gene_set_overlap,0.4218086441472417
+TFE3,Androgen Response,0,34,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Myogenesis,2,34,186,21690,0.03428956221189237,MYH9;TGFB1,curated_prior_gene_set_overlap,0.0986749991709133
+TFE3,Protein Secretion,0,34,94,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Interferon Alpha Response,1,34,97,21690,0.14144879665249785,TXNIP,curated_prior_gene_set_overlap,0.30106923318306905
+TFE3,Interferon Gamma Response,3,34,198,21690,0.003640342890310483,CD40;TXNIP;UPP1,curated_prior_gene_set_overlap,0.01582757778395862
+TFE3,Apical Junction,2,34,185,21690,0.03395369134598997,CDH1;MYH9,curated_prior_gene_set_overlap,0.09841649665504339
+TFE3,Apical Surface,0,34,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Hedgehog Signaling,2,34,34,21690,0.0012965778996712777,MYH9;VEGFA,curated_prior_gene_set_overlap,0.0071045364365549465
+TFE3,Complement,2,34,187,21690,0.03462674608648868,CD40LG;SERPINE1,curated_prior_gene_set_overlap,0.09893356024711052
+TFE3,Unfolded Protein Response,1,34,111,21690,0.16018794910032733,VEGFA,curated_prior_gene_set_overlap,0.32691418183740273
+TFE3,PI3K/AKT/mTOR  Signaling,0,34,101,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,mTORC1 Signaling,0,34,193,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,E2F Targets,0,34,152,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Myc Targets V1,0,34,188,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Myc Targets V2,0,34,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Epithelial Mesenchymal Transition,5,34,198,21690,1.3522129887528046e-05,COL1A2;LAMC1;SERPINE1;TGFB1;VEGFA,curated_prior_gene_set_overlap,0.00016335447723398111
+TFE3,Inflammatory Response,4,34,193,21690,0.0002286681746138398,BEST1;CD40;MET;SERPINE1,curated_prior_gene_set_overlap,0.0016938383304728874
+TFE3,Xenobiotic Metabolism,4,34,177,21690,0.00016417799217050786,CYP17A1;SERPINE1;TYR;UPP1,curated_prior_gene_set_overlap,0.0012876705268275127
+TFE3,Fatty Acid Metabolism,0,34,149,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Oxidative Phosphorylation,0,34,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Glycolysis,3,34,183,21690,0.002916720401795042,IRS2;MET;VEGFA,curated_prior_gene_set_overlap,0.013257820008159282
+TFE3,Reactive Oxygen Species Pathway,0,34,48,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,p53 Pathway,4,34,198,21690,0.0002521053897305713,SP1;TGFB1;TXNIP;UPP1,curated_prior_gene_set_overlap,0.0018334937434950638
+TFE3,UV Response Up,0,34,153,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,UV Response Dn,5,34,144,21690,2.866387207123871e-06,COL1A2;LAMC1;MET;SERPINE1;SMAD7,curated_prior_gene_set_overlap,4.409826472498263e-05
+TFE3,Angiogenesis,1,34,34,21690,0.051979274942912,VEGFA,curated_prior_gene_set_overlap,0.1390814228697619
+TFE3,heme Metabolism,2,34,184,21690,0.03361913817445049,ACP5;TYR,curated_prior_gene_set_overlap,0.09815806766262916
+TFE3,Coagulation,3,34,113,21690,0.0007324015265155571,CTSK;DCT;SERPINE1,curated_prior_gene_set_overlap,0.004438797130397316
+TFE3,IL-2/STAT5 Signaling,0,34,193,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Bile Acid Metabolism,0,34,96,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Pperoxisome,0,34,93,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,Allograft Rejection,3,34,191,21690,0.0032903434246741936,CD40;CD40LG;TGFB1,curated_prior_gene_set_overlap,0.014788060335614353
+TFE3,Spermatogenesis,0,34,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+TFE3,KRAS Signaling Up,2,34,191,21690,0.03598851833192448,GPNMB;MAFB,curated_prior_gene_set_overlap,0.10137610797725205
+TFE3,KRAS Signaling Dn,1,34,146,21690,0.2053157535327592,CD40LG,curated_prior_gene_set_overlap,0.383767763612634
+TFE3,Pancreas Beta Cells,2,34,22,21690,0.0005402128553238009,GCK;MAFB,curated_prior_gene_set_overlap,0.003489310577178927
+ETV3,TNF-alpha Signaling via NF-kB,3,11,198,21690,0.0001171326666070405,MYC;NFKB1;RELA,curated_prior_gene_set_overlap,0.0009761055550586708
+ETV3,Hypoxia,0,11,190,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Cholesterol Homeostasis,0,11,73,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Mitotic Spindle,0,11,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Wnt-beta Catenin Signaling,1,11,41,21690,0.0206022852361201,MYC,curated_prior_gene_set_overlap,0.06810672805328959
+ETV3,TGF-beta Signaling,0,11,54,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,IL-6/JAK/STAT3 Signaling,0,11,83,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,DNA Repair,0,11,140,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,G2-M Checkpoint,1,11,155,21690,0.07587517706871068,MYC,curated_prior_gene_set_overlap,0.19331255304130107
+ETV3,Apoptosis,1,11,155,21690,0.07587517706871068,RELA,curated_prior_gene_set_overlap,0.19331255304130107
+ETV3,Notch Signaling,0,11,32,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Adipogenesis,0,11,196,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Estrogen Response Early,2,11,189,21690,0.003944692854158703,MYB;MYC,curated_prior_gene_set_overlap,0.016966420878101945
+ETV3,Estrogen Response Late,1,11,179,21690,0.08714381180669988,MYB,curated_prior_gene_set_overlap,0.21922971523698082
+ETV3,Androgen Response,0,11,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Myogenesis,1,11,186,21690,0.09040688472111275,FGF2,curated_prior_gene_set_overlap,0.22414047031295573
+ETV3,Protein Secretion,0,11,94,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Interferon Alpha Response,0,11,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Interferon Gamma Response,1,11,198,21690,0.09597606328603968,NFKB1,curated_prior_gene_set_overlap,0.2298827863138675
+ETV3,Apical Junction,0,11,185,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Apical Surface,0,11,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Hedgehog Signaling,0,11,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Complement,1,11,187,21690,0.09087217137792393,DUSP6,curated_prior_gene_set_overlap,0.22414047031295573
+ETV3,Unfolded Protein Response,0,11,111,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,PI3K/AKT/mTOR  Signaling,0,11,101,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,mTORC1 Signaling,0,11,193,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,E2F Targets,1,11,152,21690,0.07445774207497279,MYC,curated_prior_gene_set_overlap,0.1921490118063814
+ETV3,Myc Targets V1,1,11,188,21690,0.09133724165252945,MYC,curated_prior_gene_set_overlap,0.22414047031295573
+ETV3,Myc Targets V2,1,11,54,21690,0.027053681998103762,MYC,curated_prior_gene_set_overlap,0.08198085453970837
+ETV3,Epithelial Mesenchymal Transition,2,11,198,21690,0.004319600472381529,FGF2;MMP1,curated_prior_gene_set_overlap,0.018381278605878848
+ETV3,Inflammatory Response,3,11,193,21690,0.00010858889300709897,MYC;NFKB1;RELA,curated_prior_gene_set_overlap,0.000944251243539991
+ETV3,Xenobiotic Metabolism,0,11,177,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Fatty Acid Metabolism,0,11,149,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Oxidative Phosphorylation,0,11,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Glycolysis,0,11,183,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Reactive Oxygen Species Pathway,0,11,48,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,p53 Pathway,0,11,198,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,UV Response Up,0,11,153,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,UV Response Dn,2,11,144,21690,0.0023147233089240845,MYC;NFKB1,curated_prior_gene_set_overlap,0.010642406018041768
+ETV3,Angiogenesis,0,11,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,heme Metabolism,0,11,184,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Coagulation,2,11,113,21690,0.001434901081540293,DUSP6;MMP1,curated_prior_gene_set_overlap,0.007652805768214896
+ETV3,IL-2/STAT5 Signaling,1,11,193,21690,0.09365935046124926,MYC,curated_prior_gene_set_overlap,0.22705297081514975
+ETV3,Bile Acid Metabolism,0,11,96,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Pperoxisome,0,11,93,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Allograft Rejection,0,11,191,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Spermatogenesis,0,11,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,KRAS Signaling Up,1,11,191,21690,0.09273115508864539,DUSP6,curated_prior_gene_set_overlap,0.2261735489966961
+ETV3,KRAS Signaling Dn,0,11,146,21690,1.0,,curated_prior_gene_set_overlap,1.0
+ETV3,Pancreas Beta Cells,0,11,22,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,TNF-alpha Signaling via NF-kB,17,128,198,21690,2.687803581700838e-15,ABCA1;BCL6;BMP2;CCND1;CDKN1A;CFLAR;EDN1;EFNA1;HES1;IL6;JAG1;JUN;JUNB;LAMB3;MYC;SERPINB2;TNC,curated_prior_gene_set_overlap,2.687803581700838e-13
+GLI2,Hypoxia,10,128,190,21690,1.946441891595775e-07,BCL2;CCNG2;CDKN1A;EFNA1;EGFR;HK1;IGFBP3;IL6;JUN;TGFBI,curated_prior_gene_set_overlap,5.561262547416499e-06
+GLI2,Cholesterol Homeostasis,1,128,73,21690,0.3513063059132728,JAG1,curated_prior_gene_set_overlap,0.5855105098554546
+GLI2,Mitotic Spindle,1,128,177,21690,0.6507325337468752,DST,curated_prior_gene_set_overlap,1.0
+GLI2,Wnt-beta Catenin Signaling,4,128,41,21690,9.894414330526775e-05,CCND2;JAG1;MYC;PTCH1,curated_prior_gene_set_overlap,0.000898710246996272
+GLI2,TGF-beta Signaling,5,128,54,21690,1.6598292201755396e-05,BMP2;CDH1;JUNB;TGFB1;XIAP,curated_prior_gene_set_overlap,0.00018442546890839329
+GLI2,IL-6/JAK/STAT3 Signaling,8,128,83,21690,3.2115582872650486e-08,FAS;IFNGR1;IL1R2;IL6;IRF9;JUN;SOCS1;TGFB1,curated_prior_gene_set_overlap,9.96963790519793e-07
+GLI2,DNA Repair,0,128,140,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,G2-M Checkpoint,8,128,155,21690,3.929360013403859e-06,CCND1;CDC7;E2F1;H2AX;ILF3;MAD2L1;MYC;TGFB1,curated_prior_gene_set_overlap,5.613371447719798e-05
+GLI2,Apoptosis,13,128,155,21690,7.955289091204612e-12,BMP2;CCND1;CCND2;CDKN1A;CFLAR;FAS;IFNGR1;IL6;JUN;LUM;MMP2;TIMP3;XIAP,curated_prior_gene_set_overlap,4.5458794806883493e-10
+GLI2,Notch Signaling,3,128,32,21690,0.000878578246217583,CCND1;HES1;JAG1,curated_prior_gene_set_overlap,0.005168107330691664
+GLI2,Adipogenesis,5,128,196,21690,0.006185172313748795,ABCA1;BCL6;CCNG2;IFNGR1;TOB1,curated_prior_gene_set_overlap,0.02499059520706584
+GLI2,Estrogen Response Early,9,128,189,21690,1.8706857818429625e-06,ADD3;BCL2;CCND1;FOXC1;HES1;MYC;RAPGEFL1;TOB1;UGCG,curated_prior_gene_set_overlap,3.400909433183869e-05
+GLI2,Estrogen Response Late,7,128,179,21690,9.46705159324589e-05,ADD3;BCL2;CCND1;CDH1;FOXC1;RAPGEFL1;TOB1,curated_prior_gene_set_overlap,0.0008806559621624084
+GLI2,Androgen Response,2,128,97,21690,0.1121832461599826,CCND1;HPGD,curated_prior_gene_set_overlap,0.2630959571078091
+GLI2,Myogenesis,6,128,186,21690,0.0008377575413682311,CDKN1A;FST;IGFBP3;ITGB1;TGFB1;VIPR1,curated_prior_gene_set_overlap,0.005001537560407349
+GLI2,Protein Secretion,3,128,94,21690,0.01822744812431015,ABCA1;DST;EGFR,curated_prior_gene_set_overlap,0.06126873319095849
+GLI2,Interferon Alpha Response,2,128,97,21690,0.1121832461599826,IFITM1;IRF9,curated_prior_gene_set_overlap,0.2630959571078091
+GLI2,Interferon Gamma Response,5,128,198,21690,0.0064505630737122345,CDKN1A;FAS;IL6;IRF9;SOCS1,curated_prior_gene_set_overlap,0.025802252294848938
+GLI2,Apical Junction,8,128,185,21690,1.4393401299503198e-05,BMP1;CDH1;EGFR;ITGB1;LAMB3;MMP2;PTEN;TGFBI,curated_prior_gene_set_overlap,0.00016449601485146512
+GLI2,Apical Surface,0,128,40,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,Hedgehog Signaling,2,128,34,21690,0.01713675736830872,GLI1;PTCH1,curated_prior_gene_set_overlap,0.059599803938847146
+GLI2,Complement,5,128,187,21690,0.005085466984085369,CTSL;IL6;MMP13;SERPINB2;ZEB1,curated_prior_gene_set_overlap,0.021140808436384842
+GLI2,Unfolded Protein Response,1,128,111,21690,0.48245845591381187,H2AX,curated_prior_gene_set_overlap,0.79745199324597
+GLI2,PI3K/AKT/mTOR  Signaling,5,128,101,21690,0.0003332772936633508,CDKN1A;E2F1;EGFR;PTEN;VAV3,curated_prior_gene_set_overlap,0.0022984640942300054
+GLI2,mTORC1 Signaling,4,128,193,21690,0.027632183443893902,ADD3;CDKN1A;HSPA4;SYTL2,curated_prior_gene_set_overlap,0.08248412968326538
+GLI2,E2F Targets,6,128,152,21690,0.00028817721217243037,CDKN1A;H2AX;ILF3;MAD2L1;MLH1;MYC,curated_prior_gene_set_overlap,0.0020222962257714413
+GLI2,Myc Targets V1,2,128,188,21690,0.30471128841691303,MAD2L1;MYC,curated_prior_gene_set_overlap,0.5164598108761238
+GLI2,Myc Targets V2,1,128,54,21690,0.2738571429479664,MYC,curated_prior_gene_set_overlap,0.4661398177837726
+GLI2,Epithelial Mesenchymal Transition,17,128,198,21690,2.687803581700838e-15,BMP1;COL5A2;DST;FAS;FOXC2;IGFBP3;IL6;ITGB1;JUN;LUM;MMP2;PTHLH;SFRP1;TGFB1;TGFBI;TIMP3;TNC,curated_prior_gene_set_overlap,2.687803581700838e-13
+GLI2,Inflammatory Response,7,128,193,21690,0.00015114880335975346,ABCA1;CCL17;CDKN1A;EDN1;IFITM1;IL6;MYC,curated_prior_gene_set_overlap,0.0012091904268780277
+GLI2,Xenobiotic Metabolism,1,128,177,21690,0.6507325337468752,FAS,curated_prior_gene_set_overlap,1.0
+GLI2,Fatty Acid Metabolism,2,128,149,21690,0.2196590014105035,BLVRA;HPGD,curated_prior_gene_set_overlap,0.38641333030992875
+GLI2,Oxidative Phosphorylation,0,128,200,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,Glycolysis,4,128,183,21690,0.023308614096169303,EGFR;IGFBP3;TGFA;TGFBI,curated_prior_gene_set_overlap,0.07642168556121083
+GLI2,Reactive Oxygen Species Pathway,1,128,48,21690,0.247543789078396,JUNB,curated_prior_gene_set_overlap,0.42315177620238636
+GLI2,p53 Pathway,12,128,198,21690,2.2559642824415532e-09,BMP2;CCND2;CDKN1A;FAS;FGF13;JUN;KRT17;SOCS1;TGFA;TGFB1;TOB1;VDR,curated_prior_gene_set_overlap,9.023857129766212e-08
+GLI2,UV Response Up,5,128,153,21690,0.002157858155868763,BMP2;H2AX;IL6;JUNB;PRKACA,curated_prior_gene_set_overlap,0.010275515027946491
+GLI2,UV Response Dn,5,128,144,21690,0.0016550106364263246,ADD3;COL5A2;EFEMP1;MYC;PTEN,curated_prior_gene_set_overlap,0.008654976179162244
+GLI2,Angiogenesis,4,128,34,21690,4.678090575766492e-05,CCND2;COL5A2;JAG1;LUM,curated_prior_gene_set_overlap,0.0004924305869227886
+GLI2,heme Metabolism,1,128,184,21690,0.6650241195919316,BLVRA,curated_prior_gene_set_overlap,1.0
+GLI2,Coagulation,5,128,113,21690,0.0005582896923486283,BMP1;MMP10;MMP2;SERPINB2;TIMP3,curated_prior_gene_set_overlap,0.003489310577178927
+GLI2,IL-2/STAT5 Signaling,10,128,193,21690,2.2515031615647804e-07,BCL2;BMP2;CCND2;IFNGR1;IL1R2;ITGA6;MYC;PTCH1;RHOH;SOCS1,curated_prior_gene_set_overlap,5.628757903911951e-06
+GLI2,Bile Acid Metabolism,1,128,96,21690,0.4341681428953029,ABCA1,curated_prior_gene_set_overlap,0.72061102555237
+GLI2,Pperoxisome,0,128,93,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,Allograft Rejection,9,128,191,21690,2.0405456599103215e-06,CCND2;EGFR;FAS;HLA-DRA;HLA-E;IFNGR1;IL6;SOCS1;TGFB1,curated_prior_gene_set_overlap,3.400909433183869e-05
+GLI2,Spermatogenesis,0,128,89,21690,1.0,,curated_prior_gene_set_overlap,1.0
+GLI2,KRAS Signaling Up,4,128,191,21690,0.026731776072853933,BMP2;CCND2;IGFBP3;MMP10,curated_prior_gene_set_overlap,0.08190348358130209
+GLI2,KRAS Signaling Dn,3,128,146,21690,0.055549815848508634,EDN1;PAX3;SERPINB2,curated_prior_gene_set_overlap,0.14715183006227453
+GLI2,Pancreas Beta Cells,1,128,22,21690,0.12214801060933972,VDR,curated_prior_gene_set_overlap,0.27239859499991126
+JUND,TNF-alpha Signaling via NF-kB,20,94,198,21690,4.558631735375523e-22,BCL6;CCL5;CCND1;CDKN1A;DNAJB4;F3;FOSL1;GADD45A;IL1A;IL1B;IL6;JUNB;MYC;NR4A1;PLAU;PLAUR;PTGS2;SAT1;SERPINE1;TNF,curated_prior_gene_set_overlap,1.8234526941502094e-19
+JUND,Hypoxia,6,94,190,21690,0.0001794113213436266,CDKN1A;F3;HMOX1;IL6;PLAUR;SERPINE1,curated_prior_gene_set_overlap,0.0013800870872586661
+JUND,Cholesterol Homeostasis,2,94,73,21690,0.04003225465249483,CLU;PLAUR,curated_prior_gene_set_overlap,0.11197833469229324
+JUND,Mitotic Spindle,1,94,177,21690,0.5378618626145732,CD2AP,curated_prior_gene_set_overlap,0.8853693211762522
+JUND,Wnt-beta Catenin Signaling,1,94,41,21690,0.16325546615492043,MYC,curated_prior_gene_set_overlap,0.3314831800099907
+JUND,TGF-beta Signaling,4,94,54,21690,8.861760502448041e-05,JUNB;SERPINE1;TGFB1;TJP1,curated_prior_gene_set_overlap,0.0008439771907093372
+JUND,IL-6/JAK/STAT3 Signaling,6,94,83,21690,1.6266523028002837e-06,HMOX1;IL1B;IL6;ITGB3;TGFB1;TNF,curated_prior_gene_set_overlap,3.280812022607461e-05
+JUND,DNA Repair,0,94,140,21690,1.0,,curated_prior_gene_set_overlap,1.0
+JUND,G2-M Checkpoint,4,94,155,21690,0.004648958610206333,CCND1;CDK4;MYC;TGFB1,curated_prior_gene_set_overlap,0.019574562569289824
+JUND,Apoptosis,16,94,155,21690,5.9704770960826855e-18,CCND1;CDK2;CDKN1A;CLU;ERBB2;GADD45A;HMOX1;IL1A;IL1B;IL6;PDGFRB;PLAT;SAT1;TIMP1;TNF;TNFSF10,curated_prior_gene_set_overlap,1.1940954192165371e-15
+JUND,Notch Signaling,1,94,32,21690,0.1298437026338047,CCND1,curated_prior_gene_set_overlap,0.28694740913548
+JUND,Adipogenesis,2,94,196,21690,0.20869405742095642,BCL6;GADD45A,curated_prior_gene_set_overlap,0.38641333030992875
+JUND,Estrogen Response Early,3,94,189,21690,0.04906124335836934,CCND1;MYB;MYC,curated_prior_gene_set_overlap,0.13349998192753562
+JUND,Estrogen Response Late,3,94,179,21690,0.042928092317619196,CCND1;MYB;TH,curated_prior_gene_set_overlap,0.11924470088227555
+JUND,Androgen Response,3,94,97,21690,0.008663495097111631,CCND1;ITGAV;SAT1,curated_prior_gene_set_overlap,0.033003790846139545
+JUND,Myogenesis,4,94,186,21690,0.00876949270906637,CDKN1A;CLU;NQO1;TGFB1,curated_prior_gene_set_overlap,0.03309242531723158
+JUND,Protein Secretion,1,94,94,21690,0.3357798689276947,MAPK1,curated_prior_gene_set_overlap,0.5619746760296145
+JUND,Interferon Alpha Response,0,94,97,21690,1.0,,curated_prior_gene_set_overlap,1.0
+JUND,Interferon Gamma Response,5,94,198,21690,0.0017148713274131417,CCL5;CDKN1A;IL6;PTGS2;TNFSF10,curated_prior_gene_set_overlap,0.008794211935452009
+JUND,Apical Junction,2,94,185,21690,0.19136615624399697,MMP9;TJP1,curated_prior_gene_set_overlap,0.36277944311658195
+JUND,Apical Surface,2,94,40,21690,0.013024142253495538,LYPD3;PLAUR,curated_prior_gene_set_overlap,0.047795017444020316
+JUND,Hedgehog Signaling,0,94,34,21690,1.0,,curated_prior_gene_set_overlap,1.0
+JUND,Complement,11,94,187,21690,5.398782601676679e-10,CCL5;CD40LG;CLU;F3;IL6;MMP12;MMP13;PLAT;PLAUR;SERPINE1;TIMP1,curated_prior_gene_set_overlap,2.399458934078524e-08
+JUND,Unfolded Protein Response,0,94,111,21690,1.0,,curated_prior_gene_set_overlap,1.0
+JUND,PI3K/AKT/mTOR  Signaling,6,94,101,21690,5.130658635135924e-06,CDK2;CDK4;CDKN1A;MAPK1;MAPK8;NGF,curated_prior_gene_set_overlap,7.049740930760861e-05
+JUND,mTORC1 Signaling,2,94,193,21690,0.20395024944660586,CDKN1A;GCLC,curated_prior_gene_set_overlap,0.383767763612634
+JUND,E2F Targets,3,94,152,21690,0.0284600892661845,CDK4;CDKN1A;MYC,curated_prior_gene_set_overlap,0.08370614490054264
+JUND,Myc Targets V1,3,94,188,21690,0.04842952504424403,CDK2;CDK4;MYC,curated_prior_gene_set_overlap,0.13268363025820284
+JUND,Myc Targets V2,3,94,54,21690,0.001666082914488732,CDK4;MYC;PES1,curated_prior_gene_set_overlap,0.008654976179162244
+JUND,Epithelial Mesenchymal Transition,13,94,198,21690,3.243520823884269e-12,CXCL8;GADD45A;IL6;ITGAV;ITGB3;PDGFRB;PLAUR;POSTN;SAT1;SERPINE1;SPP1;TGFB1;TIMP1,curated_prior_gene_set_overlap,2.162347215922846e-10
+JUND,Inflammatory Response,14,94,193,21690,1.133987654422508e-13,CCL5;CDKN1A;CXCL8;F3;IL1A;IL1B;IL6;ITGB3;MYC;PLAUR;SERPINE1;TIMP1;TLR1;TNFSF10,curated_prior_gene_set_overlap,9.071901235380064e-12
+JUND,Xenobiotic Metabolism,5,94,177,21690,0.0010447057394522654,GCKR;GCLC;HMOX1;NQO1;SERPINE1,curated_prior_gene_set_overlap,0.005889954254754831
+JUND,Fatty Acid Metabolism,0,94,149,21690,1.0,,curated_prior_gene_set_overlap,1.0
+JUND,Oxidative Phosphorylation,2,94,200,21690,0.21503725078920768,NQO2;TCIRG1,curated_prior_gene_set_overlap,0.38641333030992875
+JUND,Glycolysis,1,94,183,21690,0.5498474007709102,GCLC,curated_prior_gene_set_overlap,0.9013891815916562
+JUND,Reactive Oxygen Species Pathway,4,94,48,21690,5.561737240601845e-05,GCLC;GCLM;JUNB;NQO1,curated_prior_gene_set_overlap,0.0005426085112782288
+JUND,p53 Pathway,7,94,198,21690,2.4863844088449116e-05,CDKN1A;GADD45A;HMOX1;IL1A;MDM2;SAT1;TGFB1,curated_prior_gene_set_overlap,0.00026879831446972017
+JUND,UV Response Up,5,94,153,21690,0.0005420010177902655,CDK2;HMOX1;IL6;JUNB;NR4A1,curated_prior_gene_set_overlap,0.003489310577178927
+JUND,UV Response Dn,7,94,144,21690,3.1041474292899284e-06,ERBB2;F3;ITGB3;MYC;PDGFRB;SERPINE1;TJP1,curated_prior_gene_set_overlap,4.598736932281375e-05
+JUND,Angiogenesis,4,94,34,21690,1.3885130564888396e-05,ITGAV;POSTN;SPP1;TIMP1,curated_prior_gene_set_overlap,0.00016335447723398111
+JUND,heme Metabolism,4,94,184,21690,0.008450257353838371,ALAS2;GCLC;GCLM;HBZ,curated_prior_gene_set_overlap,0.03250098982245527
+JUND,Coagulation,8,94,113,21690,3.2401323191893277e-08,CLU;F3;ITGB3;MMP9;PLAT;PLAU;SERPINE1;TIMP1,curated_prior_gene_set_overlap,9.96963790519793e-07
+JUND,IL-2/STAT5 Signaling,8,94,193,21690,1.967930761715495e-06,CCR4;ITGAV;MYC;PENK;RHOH;SPP1;TNFSF10;TNFSF11,curated_prior_gene_set_overlap,3.400909433183869e-05
+JUND,Bile Acid Metabolism,2,94,96,21690,0.06519713028992634,GCLM;GSTK1,curated_prior_gene_set_overlap,0.17157139549980616
+JUND,Pperoxisome,1,94,93,21690,0.33287624188398884,GSTK1,curated_prior_gene_set_overlap,0.5594558687125863
+JUND,Allograft Rejection,12,94,191,21690,3.90853382179474e-11,CCL5;CD40LG;IL11;IL1B;IL6;MMP9;NOS2;SPI1;TGFB1;TIMP1;TLR1;TNF,curated_prior_gene_set_overlap,1.95426691089737e-09
+JUND,Spermatogenesis,1,94,89,21690,0.3211356199623815,HBZ,curated_prior_gene_set_overlap,0.5420010463500109
+JUND,KRAS Signaling Up,8,94,191,21690,1.8205616178764845e-06,IL1B;MMP9;NGF;PLAT;PLAU;PLAUR;PTGS2;SPP1,curated_prior_gene_set_overlap,3.400909433183869e-05
+JUND,KRAS Signaling Dn,2,94,146,21690,0.13209967636074338,CD40LG;LYPD3,curated_prior_gene_set_overlap,0.2903289590346008
+JUND,Pancreas Beta Cells,0,94,22,21690,1.0,,curated_prior_gene_set_overlap,1.0

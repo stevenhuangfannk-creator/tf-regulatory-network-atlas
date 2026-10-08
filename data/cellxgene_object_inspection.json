@@ -1,0 +1,367 @@
+{
+  "path": "data/raw/periodontal_atlas.h5ad",
+  "bytes": 705007195,
+  "obs_fields": [
+    "Annotated Cell Sets",
+    "Anterior vs Posterior",
+    "GSE",
+    "Sample ID",
+    "Study",
+    "Tooth #",
+    "Tooth Type",
+    "_index",
+    "assay",
+    "assay_ontology_term_id",
+    "cell_type",
+    "cell_type_ontology_term_id",
+    "development_stage",
+    "development_stage_ontology_term_id",
+    "disease",
+    "disease_ontology_term_id",
+    "donor_id",
+    "is_primary_data",
+    "observation_joinid",
+    "self_reported_ethnicity",
+    "self_reported_ethnicity_ontology_term_id",
+    "sex",
+    "sex_ontology_term_id",
+    "suspension_type",
+    "tissue",
+    "tissue_ontology_term_id",
+    "tissue_type"
+  ],
+  "var_fields": [
+    "_index",
+    "feature_biotype",
+    "feature_is_filtered",
+    "feature_length",
+    "feature_name",
+    "feature_reference",
+    "feature_type"
+  ],
+  "raw_var_fields": [
+    "_index",
+    "feature_biotype",
+    "feature_length",
+    "feature_name",
+    "feature_reference",
+    "feature_type"
+  ],
+  "root_keys": [
+    "X",
+    "layers",
+    "obs",
+    "obsm",
+    "obsp",
+    "raw",
+    "uns",
+    "var",
+    "varm",
+    "varp"
+  ],
+  "matrices": {
+    "X": {
+      "shape": [
+        105918,
+        35369
+      ],
+      "dtype": "float32",
+      "nnz": 138928204,
+      "all_nonnegative": true,
+      "all_integer": false,
+      "range": [
+        0.06633423268795013,
+        9.11131477355957
+      ]
+    },
+    "raw/X": {
+      "shape": [
+        105918,
+        35369
+      ],
+      "dtype": "float32",
+      "nnz": 138928204,
+      "all_nonnegative": true,
+      "all_integer": true,
+      "range": [
+        1.0,
+        58299.0
+      ]
+    }
+  },
+  "var_example": [
+    {
+      "_index": "ENSG00000243485",
+      "feature_biotype": "gene",
+      "feature_is_filtered": false,
+      "feature_length": 517,
+      "feature_name": "MIR1302-2HG",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000237613",
+      "feature_biotype": "gene",
+      "feature_is_filtered": false,
+      "feature_length": 1015,
+      "feature_name": "FAM138A",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000186092",
+      "feature_biotype": "gene",
+      "feature_is_filtered": false,
+      "feature_length": 2618,
+      "feature_name": "OR4F5",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "protein_coding"
+    },
+    {
+      "_index": "ENSG00000239945",
+      "feature_biotype": "gene",
+      "feature_is_filtered": false,
+      "feature_length": 1319,
+      "feature_name": "ENSG00000239945",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000239906",
+      "feature_biotype": "gene",
+      "feature_is_filtered": false,
+      "feature_length": 323,
+      "feature_name": "ENSG00000239906",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    }
+  ],
+  "raw_var_example": [
+    {
+      "_index": "ENSG00000243485",
+      "feature_biotype": "gene",
+      "feature_length": 517,
+      "feature_name": "MIR1302-2HG",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000237613",
+      "feature_biotype": "gene",
+      "feature_length": 1015,
+      "feature_name": "FAM138A",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000186092",
+      "feature_biotype": "gene",
+      "feature_length": 2618,
+      "feature_name": "OR4F5",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "protein_coding"
+    },
+    {
+      "_index": "ENSG00000239945",
+      "feature_biotype": "gene",
+      "feature_length": 1319,
+      "feature_name": "ENSG00000239945",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    },
+    {
+      "_index": "ENSG00000239906",
+      "feature_biotype": "gene",
+      "feature_length": 323,
+      "feature_name": "ENSG00000239906",
+      "feature_reference": "NCBITaxon:9606",
+      "feature_type": "lncRNA"
+    }
+  ],
+  "obsm": {
+    "X_pca": [
+      105918,
+      50
+    ],
+    "X_umap": [
+      105918,
+      2
+    ]
+  },
+  "metadata_categories": {
+    "Sample ID": {
+      "GM238": 8154,
+      "GM148": 7633,
+      "GM242": 6512,
+      "PD164c": 6335,
+      "PD170": 6310,
+      "GM283": 5901,
+      "PD164": 5114,
+      "GM183": 5065,
+      "PD164b": 5024,
+      "GM169": 4035,
+      "PD161b": 3862,
+      "37": 3631,
+      "GM241": 3443,
+      "38": 3103,
+      "GM289": 2975,
+      "35": 2954,
+      "GM143": 2914,
+      "PD134": 2564,
+      "ATL03": 2331,
+      "GM136": 2215,
+      "ATL02": 2081,
+      "GM184": 1986,
+      "GM144": 1838,
+      "PD153": 1695,
+      "GM147": 1681,
+      "ATL01": 1561,
+      "4": 1277,
+      "PD161": 882,
+      "ATL05": 614,
+      "2": 587,
+      "1": 477,
+      "3": 441,
+      "33": 375,
+      "5": 348
+    },
+    "Study": {
+      "Williams": 86138,
+      "Caetano": 10063,
+      "Huang": 6587,
+      "Pagella": 3130
+    },
+    "assay": {
+      "10x 3' v3": 58783,
+      "10x 3' v2": 47135
+    },
+    "assay_ontology_term_id": {
+      "EFO:0009922": 58783,
+      "EFO:0009899": 47135
+    },
+    "cell_type": {
+      "fibroblast": 17533,
+      "endothelial cell of venule": 15819,
+      "plasma cell": 12335,
+      "keratinocyte": 9699,
+      "helper T cell": 7997,
+      "T cell": 6291,
+      "capillary endothelial cell": 4011,
+      "mast cell": 3825,
+      "pericyte": 3322,
+      "B cell": 3248,
+      "endothelial cell of artery": 3117,
+      "vascular associated smooth muscle cell": 3001,
+      "conventional dendritic cell": 2188,
+      "macrophage": 2129,
+      "neutrophil": 1836,
+      "endothelial cell of lymphatic vessel": 1831,
+      "mucosal-associated invariant T cell": 1617,
+      "gamma-delta T cell": 1249,
+      "natural killer cell": 1235,
+      "mature NK T cell": 1043,
+      "regulatory T cell": 1018,
+      "T-helper 17 cell": 625,
+      "plasmacytoid dendritic cell": 605,
+      "Langerhans cell": 149,
+      "melanocyte": 127,
+      "Schwann cell": 49,
+      "Merkel cell": 19
+    },
+    "cell_type_ontology_term_id": {
+      "CL:0000057": 17533,
+      "CL:1000414": 15819,
+      "CL:0000786": 12335,
+      "CL:0000312": 9699,
+      "CL:0000912": 7997,
+      "CL:0000084": 6291,
+      "CL:0002144": 4011,
+      "CL:0000097": 3825,
+      "CL:0000669": 3322,
+      "CL:0000236": 3248,
+      "CL:1000413": 3117,
+      "CL:0000359": 3001,
+      "CL:0000990": 2188,
+      "CL:0000235": 2129,
+      "CL:0000775": 1836,
+      "CL:0002138": 1831,
+      "CL:0000940": 1617,
+      "CL:0000798": 1249,
+      "CL:0000623": 1235,
+      "CL:0000814": 1043,
+      "CL:0000815": 1018,
+      "CL:0000899": 625,
+      "CL:0000784": 605,
+      "CL:0000453": 149,
+      "CL:0000148": 127,
+      "CL:0002573": 49,
+      "CL:0000242": 19
+    },
+    "disease": {
+      "normal": 60811,
+      "periodontitis": 38520,
+      "gingivitis": 6587
+    },
+    "disease_ontology_term_id": {
+      "PATO:0000461": 60811,
+      "MONDO:0005076": 38520,
+      "MONDO:0002508": 6587
+    },
+    "donor_id": {
+      "Williams_GSE164241_GSM5005055": 8154,
+      "Williams_GSE164241_GSM5005052": 7633,
+      "Williams_GSE164241_GSM5005057": 6512,
+      "Williams_GSE164241_GSM5177043": 6335,
+      "Williams_GSE164241_GSM5177044": 6310,
+      "Williams_GSE164241_GSM5177040": 5901,
+      "Williams_GSE164241_GSM5005062": 5114,
+      "Williams_GSE164241_GSM5005053": 5065,
+      "Williams_GSE164241_GSM5177042": 5024,
+      "Williams_GSE164241_GSM5177039": 4035,
+      "Williams_GSE164241_GSM5005061": 3862,
+      "Caetano_GSE152042_GSM4600898": 3631,
+      "Williams_GSE164241_GSM5005056": 3443,
+      "Caetano_GSE152042_GSM4600899": 3103,
+      "Williams_GSE164241_GSM5177041": 2975,
+      "Caetano_GSE152042_GSM4600897": 2954,
+      "Williams_GSE164241_GSM5005049": 2914,
+      "Williams_GSE164241_GSM5005058": 2564,
+      "Huang_ATL03": 2331,
+      "Williams_GSE164241_GSM5005048": 2215,
+      "Huang_ATL02": 2081,
+      "Williams_GSE164241_GSM5005054": 1986,
+      "Williams_GSE164241_GSM5005050": 1838,
+      "Williams_GSE164241_GSM5005059": 1695,
+      "Williams_GSE164241_GSM5005051": 1681,
+      "Huang_ATL01": 1561,
+      "Pagella_GSE161267_GSM4904137": 1277,
+      "Williams_GSE164241_GSM5005060": 882,
+      "Huang_ATL05": 614,
+      "Pagella_GSE161267_GSM4904135": 587,
+      "Pagella_GSE161267_GSM4904134": 477,
+      "Pagella_GSE161267_GSM4904136": 441,
+      "Caetano_GSE152042_GSM4600896": 375,
+      "Pagella_GSE161267_GSM4904138": 348
+    }
+  },
+  "uns_fields": [
+    "citation",
+    "default_embedding",
+    "is_pre_analysis",
+    "organism",
+    "organism_ontology_term_id",
+    "schema_reference",
+    "schema_version",
+    "title"
+  ],
+  "uns_readable": {
+    "citation": "Publication: https://doi.org/10.1038/s41467-024-49037-y Dataset Version: https://datasets.cellxgene.cziscience.com/171607d7-dcc2-4993-9deb-bbc62cf13273.h5ad curated and distributed by CZ CELLxGENE Discover in Collection: https://cellxgene.cziscience.com/collections/71f4bccf-53d4-4c12-9e80-e73bfb89e398",
+    "default_embedding": "X_umap",
+    "is_pre_analysis": null,
+    "organism": "Homo sapiens",
+    "organism_ontology_term_id": "NCBITaxon:9606",
+    "schema_reference": "https://github.com/chanzuckerberg/single-cell-curation/blob/main/schema/7.1.0/schema.md",
+    "schema_version": "7.1.0",
+    "title": "An Integrated Single Cell Meta-atlas of Human Periodontitis"
+  }
+}

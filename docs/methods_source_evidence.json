@@ -1,0 +1,1254 @@
+{
+  "verified_on": "2026-10-08",
+  "evidence": [
+    {
+      "evidence_id": "paper_aracne-ap",
+      "method": "ARACNe-AP",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fbioinformatics%2Fbtw216&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1093/bioinformatics/btw216",
+        "paper_title": "ARACNe-AP: gene network reverse engineering through adaptive partitioning inference of mutual information.",
+        "paper_year": "2016",
+        "first_publication_date": "2016-04-23",
+        "journal": "Bioinformatics (Oxford, England)",
+        "pubmed_id": "27153652",
+        "pmc_id": "PMC4937200"
+      }
+    },
+    {
+      "evidence_id": "github_aracne-ap",
+      "method": "ARACNe-AP",
+      "url": "https://api.github.com/repos/califano-lab/ARACNe-AP",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "califano-lab/ARACNe-AP",
+        "html_url": "https://github.com/califano-lab/ARACNe-AP",
+        "default_branch": "master",
+        "pushed_at": "2023-03-06T16:48:35Z",
+        "archived": false,
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "release_observed": {
+        "tag_name": null,
+        "published_at": null,
+        "html_url": null
+      },
+      "latest_release_http_status": 404
+    },
+    {
+      "evidence_id": "license_aracne-ap",
+      "method": "ARACNe-AP",
+      "url": "https://raw.githubusercontent.com/califano-lab/ARACNe-AP/master/LICENSE.md",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "c2d90ebcc47194d3b7b75d5fe0509f01b92c2a2d279591f48ab08edb2e1da52a",
+      "excerpt": "This software evaluation license agreement (\"License\") is between The Trustees of Columbia University in the City of New York, (\"University\") and You (as defined below).\n\n1. Definitions\n\na. Documentation shall mean all manuals, user documentation, and other related materials, if any, pertaining to the Program which are furnished to You by University in connection with the Program.\n\nb. Program shall mean the ARACNe-AP software computer program developed in the laboratory of Dr. Andrea Califano by"
+    },
+    {
+      "evidence_id": "paper_viper-msviper",
+      "method": "VIPER",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fng.3593&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/ng.3593",
+        "paper_title": "Functional characterization of somatic mutations in cancer using network-based inference of protein activity.",
+        "paper_year": "2016",
+        "first_publication_date": "2016-06-20",
+        "journal": "Nature genetics",
+        "pubmed_id": "27322546",
+        "pmc_id": "PMC5040167"
+      }
+    },
+    {
+      "evidence_id": "paper_collectri",
+      "method": "CollecTRI",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fnar%2Fgkad841&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1093/nar/gkad841",
+        "paper_title": "Expanding the coverage of regulons from high-confidence prior knowledge for accurate estimation of transcription factor activities.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-11-01",
+        "journal": "Nucleic acids research",
+        "pubmed_id": "37843125",
+        "pmc_id": "PMC10639077"
+      }
+    },
+    {
+      "evidence_id": "github_collectri",
+      "method": "CollecTRI",
+      "url": "https://api.github.com/repos/saezlab/CollecTRI",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "saezlab/CollecTRI",
+        "html_url": "https://github.com/saezlab/CollecTRI",
+        "default_branch": "main",
+        "pushed_at": "2026-08-24T16:12:21Z",
+        "archived": false,
+        "license": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "spdx_id": "GPL-3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0",
+          "node_id": "MDc6TGljZW5zZTk="
+        }
+      },
+      "release_observed": {
+        "tag_name": "biorxiv",
+        "published_at": "2023-04-12T09:05:38Z",
+        "html_url": "https://github.com/saezlab/CollecTRI/releases/tag/biorxiv"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_collectri",
+      "method": "CollecTRI",
+      "url": "https://raw.githubusercontent.com/saezlab/CollecTRI/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "excerpt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto"
+    },
+    {
+      "evidence_id": "paper_decoupler",
+      "method": "decoupler",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fbioadv%2Fvbac016&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1093/bioadv/vbac016",
+        "paper_title": "decoupleR: ensemble of computational methods to infer biological activities from omics data.",
+        "paper_year": "2022",
+        "first_publication_date": "2022-03-08",
+        "journal": "Bioinformatics advances",
+        "pubmed_id": "36699385",
+        "pmc_id": "PMC9710656"
+      }
+    },
+    {
+      "evidence_id": "github_decoupler",
+      "method": "decoupler",
+      "url": "https://api.github.com/repositories/428664507",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "scverse/decoupler",
+        "html_url": "https://github.com/scverse/decoupler",
+        "default_branch": "main",
+        "pushed_at": "2026-10-05T18:49:08Z",
+        "archived": false,
+        "license": {
+          "key": "bsd-3-clause",
+          "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+          "spdx_id": "BSD-3-Clause",
+          "url": "https://api.github.com/licenses/bsd-3-clause",
+          "node_id": "MDc6TGljZW5zZTU="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v2.2.0",
+        "published_at": "2026-07-11T00:57:05Z",
+        "html_url": "https://github.com/scverse/decoupler/releases/tag/v2.2.0"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_decoupler",
+      "method": "decoupler",
+      "url": "https://raw.githubusercontent.com/scverse/decoupler/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "31fdced4a076094f8794e39635b597875bf96a3e2a7cf5beb9b792e1656f5d64",
+      "excerpt": "BSD 3-Clause License\n\nCopyright (c) 2025, scverse®\nCopyright (c) 2025, Pau Badia i Mompel, Saez lab\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice, this\n   list of conditions and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\n   this list of condition"
+    },
+    {
+      "evidence_id": "paper_dorothea",
+      "method": "DoRothEA",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1101%2Fgr.240663.118&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1101/gr.240663.118",
+        "paper_title": "Benchmark and integration of resources for the estimation of human transcription factor activities.",
+        "paper_year": "2019",
+        "first_publication_date": "2019-07-24",
+        "journal": "Genome research",
+        "pubmed_id": "31340985",
+        "pmc_id": "PMC6673718"
+      }
+    },
+    {
+      "evidence_id": "github_dorothea",
+      "method": "DoRothEA",
+      "url": "https://api.github.com/repos/saezlab/dorothea",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "saezlab/dorothea",
+        "html_url": "https://github.com/saezlab/dorothea",
+        "default_branch": "master",
+        "pushed_at": "2024-02-24T12:21:16Z",
+        "archived": false,
+        "license": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "spdx_id": "GPL-3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0",
+          "node_id": "MDc6TGljZW5zZTk="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v1.0.0",
+        "published_at": "2020-05-08T08:44:14Z",
+        "html_url": "https://github.com/saezlab/dorothea/releases/tag/v1.0.0"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_dorothea",
+      "method": "DoRothEA",
+      "url": "https://raw.githubusercontent.com/saezlab/dorothea/master/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "excerpt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto"
+    },
+    {
+      "evidence_id": "paper_progeny",
+      "method": "PROGENy",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41467-017-02391-6&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41467-017-02391-6",
+        "paper_title": "Perturbation-response genes reveal signaling footprints in cancer gene expression.",
+        "paper_year": "2018",
+        "first_publication_date": "2018-01-02",
+        "journal": "Nature communications",
+        "pubmed_id": "29295995",
+        "pmc_id": "PMC5750219"
+      }
+    },
+    {
+      "evidence_id": "github_progeny",
+      "method": "PROGENy",
+      "url": "https://api.github.com/repos/saezlab/progeny",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "saezlab/progeny",
+        "html_url": "https://github.com/saezlab/progeny",
+        "default_branch": "master",
+        "pushed_at": "2023-01-30T10:01:10Z",
+        "archived": false,
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "release_observed": {
+        "tag_name": null,
+        "published_at": null,
+        "html_url": null
+      },
+      "latest_release_http_status": 404
+    },
+    {
+      "evidence_id": "license_progeny",
+      "method": "PROGENy",
+      "url": "https://raw.githubusercontent.com/saezlab/progeny/master/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "excerpt": "\n                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that i"
+    },
+    {
+      "evidence_id": "paper_pyscenic",
+      "method": "pySCENIC",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41596-020-0336-2&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41596-020-0336-2",
+        "paper_title": "A scalable SCENIC workflow for single-cell gene regulatory network analysis.",
+        "paper_year": "2020",
+        "first_publication_date": "2020-06-19",
+        "journal": "Nature protocols",
+        "pubmed_id": "32561888",
+        "pmc_id": ""
+      }
+    },
+    {
+      "evidence_id": "github_pyscenic",
+      "method": "pySCENIC",
+      "url": "https://api.github.com/repos/aertslab/pySCENIC",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "aertslab/pySCENIC",
+        "html_url": "https://github.com/aertslab/pySCENIC",
+        "default_branch": "master",
+        "pushed_at": "2025-06-26T09:57:37Z",
+        "archived": false,
+        "license": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "spdx_id": "GPL-3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0",
+          "node_id": "MDc6TGljZW5zZTk="
+        }
+      },
+      "release_observed": {
+        "tag_name": "0.12.1",
+        "published_at": "2022-11-21T13:20:37Z",
+        "html_url": "https://github.com/aertslab/pySCENIC/releases/tag/0.12.1"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_pyscenic",
+      "method": "pySCENIC",
+      "url": "https://raw.githubusercontent.com/aertslab/pySCENIC/master/LICENSE.txt",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "480cf3b68c7be050bd59d28f5f7b67cd6c837001411dd087a4858273d167c7c6",
+      "excerpt": "# https://choosealicense.com\n\n                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other pr"
+    },
+    {
+      "evidence_id": "paper_hdwgcna",
+      "method": "hdWGCNA",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22hdWGCNA+identifies+co-expression+networks%22&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1016/j.crmeth.2023.100498",
+        "paper_title": "hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-06-12",
+        "journal": "Cell reports methods",
+        "pubmed_id": "37426759",
+        "pmc_id": "PMC10326379"
+      }
+    },
+    {
+      "evidence_id": "github_hdwgcna",
+      "method": "hdWGCNA",
+      "url": "https://api.github.com/repos/smorabit/hdWGCNA",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "smorabit/hdWGCNA",
+        "html_url": "https://github.com/smorabit/hdWGCNA",
+        "default_branch": "dev",
+        "pushed_at": "2026-06-16T09:03:39Z",
+        "archived": false,
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v0.4.12",
+        "published_at": "2026-06-16T09:03:39Z",
+        "html_url": "https://github.com/smorabit/hdWGCNA/releases/tag/v0.4.12"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_hdwgcna",
+      "method": "hdWGCNA",
+      "url": "https://raw.githubusercontent.com/smorabit/hdWGCNA/dev/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "e385f93d2ca9a09e8e93cd1e4adf88b22e5aad1c92d14c892d38f9123d5bed0b",
+      "excerpt": "YEAR: 2023\nCOPYRIGHT HOLDER: hdWGCNA authors\n"
+    },
+    {
+      "evidence_id": "paper_celloracle",
+      "method": "CellOracle",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41586-022-05688-9&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41586-022-05688-9",
+        "paper_title": "Dissecting cell identity via network inference and in silico gene perturbation.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-02-08",
+        "journal": "Nature",
+        "pubmed_id": "36755098",
+        "pmc_id": "PMC9946838"
+      }
+    },
+    {
+      "evidence_id": "github_celloracle",
+      "method": "CellOracle",
+      "url": "https://api.github.com/repos/morris-lab/CellOracle",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "morris-lab/CellOracle",
+        "html_url": "https://github.com/morris-lab/CellOracle",
+        "default_branch": "master",
+        "pushed_at": "2026-04-30T03:24:49Z",
+        "archived": false,
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v0.10.12",
+        "published_at": "2022-10-25T21:19:11Z",
+        "html_url": "https://github.com/morris-lab/CellOracle/releases/tag/v0.10.12"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_celloracle",
+      "method": "CellOracle",
+      "url": "https://raw.githubusercontent.com/morris-lab/CellOracle/master/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "0854ce317785bc54adb282bc4086e5551f39b6d303ad9571a56bb0d1985edfec",
+      "excerpt": "The software is provided under a modified Apache License Version 2.0.\nThe software may be used under the Apache License below for NON-COMMERCIAL ACADEMIC PURPOSES only.\nFor any other use of the Work, including commercial use, please contact Morris lab.\n\nCopyright 2020 Kenji Kamimoto, Christy Hoffmann, Samantha Morris\n\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribut"
+    },
+    {
+      "evidence_id": "paper_scenicplus",
+      "method": "SCENIC+",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41592-023-01938-4&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41592-023-01938-4",
+        "paper_title": "SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-07-13",
+        "journal": "Nature methods",
+        "pubmed_id": "37443338",
+        "pmc_id": "PMC10482700"
+      }
+    },
+    {
+      "evidence_id": "github_scenicplus",
+      "method": "SCENIC+",
+      "url": "https://api.github.com/repos/aertslab/scenicplus",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "aertslab/scenicplus",
+        "html_url": "https://github.com/aertslab/scenicplus",
+        "default_branch": "main",
+        "pushed_at": "2026-01-16T13:46:10Z",
+        "archived": false,
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v1.0a2",
+        "published_at": "2025-01-13T07:15:18Z",
+        "html_url": "https://github.com/aertslab/scenicplus/releases/tag/v1.0a2"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_scenicplus",
+      "method": "SCENIC+",
+      "url": "https://raw.githubusercontent.com/aertslab/scenicplus/main/LICENCE.txt",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "a8d7bea5bda3956a217feafcc483796d466c0218eb2f8a6923e4d22887baf002",
+      "excerpt": "\nAcademic Non-commercial Software License Agreement\n\nThe Licensed Software is developed by and on behalf of the Laboratory of Computational Biology of VIB-KU Leuven and is owned by VIB vzw, located at Rijvisschestraat 120, B-9052 Zwijnaarde, Belgium (hereinafter referred to as \"VIB\"). By downloading or installing the Licensed Software, the user agrees with the terms and conditions below.\n\nDefinitions \n\n“Licensed Software” shall mean SCENIC+ as available on GitHub.\n\n\"Effective Date\" shall mean th"
+    },
+    {
+      "evidence_id": "paper_pando",
+      "method": "Pando",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41586-022-05279-8&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41586-022-05279-8",
+        "paper_title": "Inferring and perturbing cell fate regulomes in human brain organoids.",
+        "paper_year": "2023",
+        "first_publication_date": "2022-10-05",
+        "journal": "Nature",
+        "pubmed_id": "36198796",
+        "pmc_id": "PMC10499607"
+      }
+    },
+    {
+      "evidence_id": "github_pando",
+      "method": "Pando",
+      "url": "https://api.github.com/repositories/375011110",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "quadbio/Pando",
+        "html_url": "https://github.com/quadbio/Pando",
+        "default_branch": "main",
+        "pushed_at": "2026-04-10T15:04:33Z",
+        "archived": false,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "release_observed": {
+        "tag_name": null,
+        "published_at": null,
+        "html_url": null
+      },
+      "latest_release_http_status": 404
+    },
+    {
+      "evidence_id": "license_pando",
+      "method": "Pando",
+      "url": "https://raw.githubusercontent.com/quadbio/Pando/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "799057966d4b0abbb32a937dfb15118a6241c71d4a51c64cc6eea2af5723aca0",
+      "excerpt": "MIT License\n\nCopyright (c) 2021 QuaDBio Lab\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright n"
+    },
+    {
+      "evidence_id": "paper_granie",
+      "method": "GRaNIE",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.15252%2Fmsb.202311627&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.15252/msb.202311627",
+        "paper_title": "GRaNIE and GRaNPA: inference and evaluation of enhancer-mediated gene regulatory networks.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-04-19",
+        "journal": "Molecular systems biology",
+        "pubmed_id": "37073532",
+        "pmc_id": "PMC10258561"
+      }
+    },
+    {
+      "evidence_id": "paper_linger",
+      "method": "LINGER",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41587-024-02182-7&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41587-024-02182-7",
+        "paper_title": "Inferring gene regulatory networks from single-cell multiome data using atlas-scale external data.",
+        "paper_year": "2025",
+        "first_publication_date": "2024-04-12",
+        "journal": "Nature biotechnology",
+        "pubmed_id": "38609714",
+        "pmc_id": "PMC11825371"
+      }
+    },
+    {
+      "evidence_id": "github_linger",
+      "method": "LINGER",
+      "url": "https://api.github.com/repos/Durenlab/LINGER",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "Durenlab/LINGER",
+        "html_url": "https://github.com/Durenlab/LINGER",
+        "default_branch": "main",
+        "pushed_at": "2026-07-11T14:41:24Z",
+        "archived": false,
+        "license": null
+      },
+      "release_observed": {
+        "tag_name": "v1.0.0",
+        "published_at": "2024-02-09T10:09:22Z",
+        "html_url": "https://github.com/Durenlab/LINGER/releases/tag/v1.0.0"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "paper_scprint",
+      "method": "scPRINT",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41467-025-58699-1&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41467-025-58699-1",
+        "paper_title": "scPRINT: pre-training on 50 million cells allows robust gene network predictions.",
+        "paper_year": "2025",
+        "first_publication_date": "2025-04-16",
+        "journal": "Nature communications",
+        "pubmed_id": "40240364",
+        "pmc_id": "PMC12003772"
+      }
+    },
+    {
+      "evidence_id": "github_scprint",
+      "method": "scPRINT",
+      "url": "https://api.github.com/repos/cantinilab/scPRINT",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "cantinilab/scPRINT",
+        "html_url": "https://github.com/cantinilab/scPRINT",
+        "default_branch": "main",
+        "pushed_at": "2026-08-11T10:12:46Z",
+        "archived": false,
+        "license": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "spdx_id": "GPL-3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0",
+          "node_id": "MDc6TGljZW5zZTk="
+        }
+      },
+      "release_observed": {
+        "tag_name": "2.3.8",
+        "published_at": "2026-02-20T09:16:30Z",
+        "html_url": "https://github.com/cantinilab/scPRINT/releases/tag/2.3.8"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_scprint",
+      "method": "scPRINT",
+      "url": "https://raw.githubusercontent.com/cantinilab/scPRINT/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "excerpt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto"
+    },
+    {
+      "evidence_id": "paper_inferelator",
+      "method": "Inferelator",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1093%2Fbioinformatics%2Fbtac117&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1093/bioinformatics/btac117",
+        "paper_title": "High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0.",
+        "paper_year": "2022",
+        "first_publication_date": "2022-04-01",
+        "journal": "Bioinformatics (Oxford, England)",
+        "pubmed_id": "35188184",
+        "pmc_id": "PMC9048651"
+      }
+    },
+    {
+      "evidence_id": "github_inferelator",
+      "method": "Inferelator",
+      "url": "https://api.github.com/repos/flatironinstitute/inferelator",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "flatironinstitute/inferelator",
+        "html_url": "https://github.com/flatironinstitute/inferelator",
+        "default_branch": "release",
+        "pushed_at": "2026-06-09T15:45:28Z",
+        "archived": false,
+        "license": {
+          "key": "bsd-2-clause",
+          "name": "BSD 2-Clause \"Simplified\" License",
+          "spdx_id": "BSD-2-Clause",
+          "url": "https://api.github.com/licenses/bsd-2-clause",
+          "node_id": "MDc6TGljZW5zZTQ="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v0.6.4",
+        "published_at": "2026-06-09T15:45:28Z",
+        "html_url": "https://github.com/flatironinstitute/inferelator/releases/tag/v0.6.4"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_inferelator",
+      "method": "Inferelator",
+      "url": "https://raw.githubusercontent.com/flatironinstitute/inferelator/release/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "57d56bf07bf0084945cd35d68a864780a70cb4abb39d61647b68afdbc9ef13d2",
+      "excerpt": "Copyright (c) 2016-2021 The Simons Foundation, Inc.\nCopyright (c) 2021 Broad Institute of MIT and Harvard\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\n  list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice,\n  this list of conditi"
+    },
+    {
+      "evidence_id": "paper_regenrich",
+      "method": "RegEnrich",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs42003-021-02991-5&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s42003-021-02991-5",
+        "paper_title": "RegEnrich gene regulator enrichment analysis reveals a key role of the ETS transcription factor family in interferon signaling.",
+        "paper_year": "2022",
+        "first_publication_date": "2022-01-11",
+        "journal": "Communications biology",
+        "pubmed_id": "35017649",
+        "pmc_id": "PMC8752721"
+      }
+    },
+    {
+      "evidence_id": "paper_nichenet",
+      "method": "NicheNet",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41592-019-0667-5&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s41592-019-0667-5",
+        "paper_title": "NicheNet: modeling intercellular communication by linking ligands to target genes.",
+        "paper_year": "2020",
+        "first_publication_date": "2019-12-09",
+        "journal": "Nature methods",
+        "pubmed_id": "31819264",
+        "pmc_id": ""
+      }
+    },
+    {
+      "evidence_id": "github_nichenet",
+      "method": "NicheNet",
+      "url": "https://api.github.com/repos/saeyslab/nichenetr",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "saeyslab/nichenetr",
+        "html_url": "https://github.com/saeyslab/nichenetr",
+        "default_branch": "master",
+        "pushed_at": "2026-09-25T08:37:54Z",
+        "archived": false,
+        "license": null
+      },
+      "release_observed": {
+        "tag_name": "v2.2.0",
+        "published_at": "2024-09-05T14:26:21Z",
+        "html_url": "https://github.com/saeyslab/nichenetr/releases/tag/v2.2.0"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "paper_omnipath",
+      "method": "OmniPath",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.15252%2Fmsb.20209923&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.15252/msb.20209923",
+        "paper_title": "Integrated intra- and intercellular signaling knowledge for multicellular omics analysis.",
+        "paper_year": "2021",
+        "first_publication_date": "2021-03-01",
+        "journal": "Molecular systems biology",
+        "pubmed_id": "33749993",
+        "pmc_id": "PMC7983032"
+      }
+    },
+    {
+      "evidence_id": "github_omnipath",
+      "method": "OmniPath",
+      "url": "https://api.github.com/repos/saezlab/omnipath",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "saezlab/omnipath",
+        "html_url": "https://github.com/saezlab/omnipath",
+        "default_branch": "main",
+        "pushed_at": "2026-02-19T12:35:05Z",
+        "archived": false,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "release_observed": {
+        "tag_name": "v1.0.10",
+        "published_at": "2025-10-08T11:10:44Z",
+        "html_url": "https://github.com/saezlab/omnipath/releases/tag/v1.0.10"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_omnipath",
+      "method": "OmniPath",
+      "url": "https://raw.githubusercontent.com/saezlab/omnipath/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "008ed9f6121a563551af9b40cfd7d6c821d24306a87239799aa674ccae7d33e9",
+      "excerpt": "MIT License\nCopyright (c) 2020 Saez Lab - https://saezlab.org/\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nTh"
+    },
+    {
+      "evidence_id": "paper_renge",
+      "method": "RENGE",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs42003-023-05594-4&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1038/s42003-023-05594-4",
+        "paper_title": "RENGE infers gene regulatory networks using time-series single-cell RNA-seq data with CRISPR perturbations.",
+        "paper_year": "2023",
+        "first_publication_date": "2023-12-28",
+        "journal": "Communications biology",
+        "pubmed_id": "38155269",
+        "pmc_id": "PMC10754834"
+      }
+    },
+    {
+      "evidence_id": "github_renge",
+      "method": "RENGE",
+      "url": "https://api.github.com/repos/masastat/RENGE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "masastat/RENGE",
+        "html_url": "https://github.com/masastat/RENGE",
+        "default_branch": "main",
+        "pushed_at": "2026-09-18T16:59:57Z",
+        "archived": false,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "release_observed": {
+        "tag_name": "v0.0.3",
+        "published_at": "2023-11-11T20:41:14Z",
+        "html_url": "https://github.com/masastat/RENGE/releases/tag/v0.0.3"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_renge",
+      "method": "RENGE",
+      "url": "https://raw.githubusercontent.com/masastat/RENGE/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "25e4ff8a99ec9f426daa7a03cb6433cc5c0a5bfcfad0c0a8b168ae3fdff9f54a",
+      "excerpt": "MIT License\n\nCopyright (c) 2022 masastat\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright noti"
+    },
+    {
+      "evidence_id": "paper_switchtfi",
+      "method": "SwitchTFI",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1186%2Fs13059-025-03876-0&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1186/s13059-025-03876-0",
+        "paper_title": "SwitchTFI: identifying transcription factors driving cell differentiation.",
+        "paper_year": "2025",
+        "first_publication_date": "2025-12-02",
+        "journal": "Genome biology",
+        "pubmed_id": "41331466",
+        "pmc_id": "PMC12673684"
+      }
+    },
+    {
+      "evidence_id": "github_switchtfi",
+      "method": "SwitchTFI",
+      "url": "https://api.github.com/repos/bionetslab/SwitchTFI",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "bionetslab/SwitchTFI",
+        "html_url": "https://github.com/bionetslab/SwitchTFI",
+        "default_branch": "main",
+        "pushed_at": "2025-12-03T16:53:19Z",
+        "archived": false,
+        "license": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "spdx_id": "GPL-3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0",
+          "node_id": "MDc6TGljZW5zZTk="
+        }
+      },
+      "release_observed": {
+        "tag_name": "v0.1.0",
+        "published_at": "2025-09-23T07:34:24Z",
+        "html_url": "https://github.com/bionetslab/SwitchTFI/releases/tag/v0.1.0"
+      },
+      "latest_release_http_status": 200
+    },
+    {
+      "evidence_id": "license_switchtfi",
+      "method": "SwitchTFI",
+      "url": "https://raw.githubusercontent.com/bionetslab/SwitchTFI/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "excerpt": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this license document, but changing it is not allowed.\n\n                            Preamble\n\n  The GNU General Public License is a free, copyleft license for\nsoftware and other kinds of works.\n\n  The licenses for most software and other practical works are designed\nto"
+    },
+    {
+      "evidence_id": "paper_kegni",
+      "method": "KEGNI",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1186%2Fs13059-025-03780-7&format=json&resultType=core&pageSize=1",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "paper_doi": "10.1186/s13059-025-03780-7",
+        "paper_title": "KEGNI: knowledge graph enhanced framework for gene regulatory network inference.",
+        "paper_year": "2025",
+        "first_publication_date": "2025-09-22",
+        "journal": "Genome biology",
+        "pubmed_id": "40983951",
+        "pmc_id": "PMC12455831"
+      }
+    },
+    {
+      "evidence_id": "github_kegni",
+      "method": "KEGNI",
+      "url": "https://api.github.com/repos/Lipxiao/KEGNI",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "full_name": "Lipxiao/KEGNI",
+        "html_url": "https://github.com/Lipxiao/KEGNI",
+        "default_branch": "main",
+        "pushed_at": "2026-05-30T08:27:40Z",
+        "archived": false,
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "release_observed": {
+        "tag_name": null,
+        "published_at": null,
+        "html_url": null
+      },
+      "latest_release_http_status": 404
+    },
+    {
+      "evidence_id": "license_kegni",
+      "method": "KEGNI",
+      "url": "https://raw.githubusercontent.com/Lipxiao/KEGNI/main/LICENSE",
+      "status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3bbaf8451dc29fd3c8d44a021b14eded16d5e95db63f9f62ea551f68d79d9f7e",
+      "excerpt": "MIT License\n\nCopyright (c) 2025 Lipxiao\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notic"
+    },
+    {
+      "evidence_id": "readme_ARACNe-AP",
+      "method": "ARACNe-AP",
+      "url": "https://raw.githubusercontent.com/califano-lab/ARACNe-AP/master/README.md",
+      "http_status": 200,
+      "sha256": "b07aa28a77071bfeaebd1d50a6220dd364c5ad16ecbc07a8283e24e31ab696a3",
+      "excerpt": "Lachmann A, Giorgi FM, Lopez G, Califano A. *ARACNe-AP: gene network reverse engineering through adaptive partitioning inference of mutual information.* **Bioinformatics.** 2016 Jul 15;32(14):2233-5. doi: [10.1093/bioinformatics/btw216](https://dx.doi.org/10.1093/bioinformatics/btw216). Epub 2016 Apr 23.\nMargolin AA, Nemenman I, Basso K, Wiggins C, Stolovitzky G, Dalla Favera R, Califano A. *ARACNE: an algorithm for the reconstruction of gene regulatory networks in a mammalian cellular context.* **BMC Bioinformatics.** 2006 Mar 20;7 Suppl 1:S7. doi: [10.1186/1471-2105-7-S1-S7](https://dx.doi.org/10.1186/1471-2105-7-S1-S7)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_decoupler",
+      "method": "decoupler",
+      "url": "https://raw.githubusercontent.com/scverse/decoupler/main/README.md",
+      "http_status": 200,
+      "sha256": "050b38eee0b17c2b444bb1bb35db265da459faab25f89b3cbffb9340563a1b7e",
+      "excerpt": "`decoupler` is a python package containing different enrichment statistical methods to extract biologically driven scores from omics data within a unified framework.\nThis is its faster and memory efficient Python implementation, a deprecated version in R can be found [here](https://github.com/saezlab/decoupler).\nYou need to have Python 3.11 or newer installed on your system.\nIf you don't have Python installed, we recommend installing [uv][].\npip install decoupler\npip install decoupler[full]\npip install git+https://github.com/scverse/decoupler.git@main\n## License\nEnrichment methods inside decoupler can be used for academic or commercial purposes, except `viper` which holds a non-commercial license. \nThe data redistributed by OmniPath does not have a single license, each original resource has its own. By default, `decoupler`\nassumes an academic license, but commercial or nonprofit licenses can be specified in the `license` parameter of `decoupler`'s OmniPath functions.\n[Here](https://omnipathdb.org/info) one can find the license information of all the resources in OmniPath.\n<https://doi.org/10.1093/bioadv/vbac016>",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_DoRothEA",
+      "method": "DoRothEA",
+      "url": "https://raw.githubusercontent.com/saezlab/dorothea/master/README.md",
+      "http_status": 200,
+      "sha256": "95d056f28b9ca3cbb6c9b9c812d8387e25a087c2bfdee986764bf5fe13b9639d",
+      "excerpt": "![GitHub](https://img.shields.io/github/license/saezlab/dorothea)\n[decoupleR](https://doi.org/10.1093/bioadv/vbac016), available in\n[python](https://github.com/saezlab/decoupler-py).\n  [Holland et al., 2019](https://doi.org/10.1016/j.bbagrm.2019.194431). \n  [Holland et al., 2020](https://doi.org/10.1186/s13059-020-1949-z)\n## License\nwhose licenses don't permit commercial use. However, we developed a non-academic\ntranscription factor activities. _Genome Research._ 2019. DOI: [10.1101/gr.240663.118](https://doi.org/10.1101/gr.240663.118).\n  DOI: [10.1093/bioadv/vbac016](https://doi.org/10.1093/bioadv/vbac016)\n  accurate estimation of transcription factor activities. _bioRxiv_. 2023. DOI:\n  [10.1101/2023.03.30.534849](https://doi.org/10.1101/2023.03.30.534849)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_PROGENy",
+      "method": "PROGENy",
+      "url": "https://raw.githubusercontent.com/saezlab/progeny/master/README.md",
+      "http_status": 200,
+      "sha256": "e329242aed7bc350d672b9894dc26aac795c001f2631e60de80fa96219bd9c08",
+      "excerpt": "![GitHub](https://img.shields.io/github/license/saezlab/progeny)\n[decoupleR](https://doi.org/10.1093/bioadv/vbac016), available in\n[python](https://github.com/saezlab/decoupler-py).\n  [Holland et al., 2019](https://doi.org/10.1016/j.bbagrm.2019.194431). \n  [Holland et al., 2020](https://doi.org/10.1186/s13059-020-1949-z)\n[10.1038/s41467-017-02391-6](https://doi.org/10.1038/s41467-017-02391-6)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_pySCENIC",
+      "method": "pySCENIC",
+      "url": "https://raw.githubusercontent.com/aertslab/pySCENIC/master/README.rst",
+      "http_status": 200,
+      "sha256": "1f466e468b2db9a744069f40d0ba83017b8791c7da14ed291fee886921520b42",
+      "excerpt": "pySCENIC is a lightning-fast python implementation of the SCENIC_ pipeline (Single-Cell rEgulatory Network Inference and\nA new and comprehensive description of this Python implementation of the SCENIC pipeline is available in Nature Protocols [4]_.\n* Only databases in Feather v2 format are supported now (`ctxcore <https://github.com/aertslab/ctxcore>`_ ``>= 0.2``),\n  and end with ``*.genes_vs_motifs.rankings.feather`` or ``*.genes_vs_tracks.rankings.feather``.\n* Docker image uses python 3.10 and contains only needed pySCENIC dependencies for CLI usage.\n  * Faster loading from feather databases\n.. [1] Aibar, S. et al. SCENIC: single-cell regulatory network inference and clustering. Nat Meth 14, 1083–1086 (2017). `doi:10.1038/nmeth.4463 <https://doi.org/10.1038/nmeth.4463>`_\n.. [3] Huynh-Thu, V. A. et al. Inferring regulatory networks from expression data using tree-based methods. PLoS ONE 5, (2010). `doi:10.1371/journal.pone.0012776 <https://doi.org/10.1371/journal.pone.0012776>`_\n.. [4] Van de Sande B., Flerin C., et al. A scalable SCENIC workflow for single-cell gene regulatory network analysis. Nat Protoc. June 2020:1-30. `doi:10.1038/s41596-020-0336-2 <https://doi.org/10.1038/s41596-020-0336-2>`_\n.. _PyPI: https://pypi.python.org/pypi/pyscenic",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_hdWGCNA",
+      "method": "hdWGCNA",
+      "url": "https://raw.githubusercontent.com/smorabit/hdWGCNA/dev/README.md",
+      "http_status": 200,
+      "sha256": "0ca1d82cdaca995cd60f5c9105421f68ea66c2156fb9defdc34e9dffae246a28",
+      "excerpt": "hdWGCNA is an R package for performing weighted gene co-expression network analysis [(WGCNA)](https://doi.org/10.1186/1471-2105-9-559) in high dimensional transcriptomics data such as single-cell RNA-seq or spatial transcriptomics. hdWGCNA is highly modular and can construct context-specific co-expression networks across cellular and spatial hierarchies. hdWGNCA identifies modules of highly co-expressed genes and provides context for these modules via statistical testing and biological knowledge sources. hdWGCNA uses datasets formatted as [Seurat](https://satijalab.org/seurat/index.html) objects. Check out the [hdWGCNA in single-cell data tutorial](https://smorabit.github.io/hdWGCNA/articles/basic_tutorial.html) or the [hdWGCNA in spatial transcriptomics data tutorial](https://smorabit.github.io/hdWGCNA/articles/ST_basics.html) to get started.\nIf you use hdWGCNA in your research, please cite the manuscript describing hdWGCNA in addition to the [original WGCNA publication](https://doi.org/10.1186/1471-2105-9-559):\n* [WGCNA: an R package for weighted correlation network analysis](https://doi.org/10.1186/1471-2105-9-559)\n* [Defining clusters from a hierarchical cluster tree: the Dynamic Tree Cut package for R](https://doi.org/10.1093/bioinformatics/btm563)\n* [Is My Network Module Preserved and Reproducible?](https://doi.org/10.1371/journal.pcbi.1001057)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_CellOracle",
+      "method": "CellOracle",
+      "url": "https://raw.githubusercontent.com/morris-lab/CellOracle/master/README.md",
+      "http_status": 200,
+      "sha256": "ff8d8db5c6adce39aae6fd64ffa341bf8899e496980a521d39cea738228de82b",
+      "excerpt": "[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/celloracle)](https://pypi.org/project/celloracle/)\nCellOracle is a python library for in silico gene perturbation analyses using single-cell omics data and Gene Regulatory Network models.",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_SCENIC+",
+      "method": "SCENIC+",
+      "url": "https://raw.githubusercontent.com/aertslab/scenicplus/main/README.md",
+      "http_status": 200,
+      "sha256": "8306b289c31c5348c45af2442688fb9b0150232fd8a814c498da720186b15692",
+      "excerpt": "`SCENIC+` is a python package to build gene regulatory networks (GRNs) using combined or separate single-cell gene expression (scRNA-seq) and single-cell chromatin accessibility (scATAC-seq) data.\n$ conda create --name scenicplus python=3.11 -y\n$ pip install .\n[Bravo Gonzalez-Blas, C. & De Winter, S. *et al.* (2023). SCENIC+: single-cell multiomic inference of enhancers and gene regulatory networks](https://doi.org/10.1038/s41592-023-01938-4)\n## license\nThe SCENIC+ [license](https://github.com/aertslab/scenicplus/blob/main/LICENCE.txt) covers [SCENIC+](https://github.com/aertslab/scenicplus), [pycisTarget](https://github.com/aertslab/pycistarget), [pycisTopic](https://github.com/aertslab/pycisTopic) and the [cisTarget dabases](https://resources.aertslab.org/cistarget/).",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_Pando",
+      "method": "Pando",
+      "url": "https://raw.githubusercontent.com/quadbio/Pando/main/README.md",
+      "http_status": 200,
+      "sha256": "416cb88ad1d58efd64fe95164cbad520e3e8324f0672c8a7b88f30921e581380",
+      "excerpt": "Fleck, J.S., Jansen, S.M.J., Wollny, D. et al. Inferring and perturbing cell fate regulomes in human brain organoids. Nature 621, 365–372 (2023). https://doi.org/10.1038/s41586-022-05279-8",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_LINGER",
+      "method": "LINGER",
+      "url": "https://raw.githubusercontent.com/Durenlab/LINGER/main/README.md",
+      "http_status": 200,
+      "sha256": "dcc6bbc45bf564afa3ffeb0190adc5c8095ff16ff31bda8cbf4f8f97be749a7d",
+      "excerpt": "conda create -n LINGER python==3.10.0\npip install LingerGRN==1.110\n> [Yuan, Qiuyue, and Zhana Duren. \"Inferring gene regulatory networks from single-cell multiome data using atlas-scale external data.\" Nature Biotechnology (2024): 1-11.](https://doi.org/10.1038/s41587-024-02182-7)\n## License\nThis project is covered by the MIT license.",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_scPRINT",
+      "method": "scPRINT",
+      "url": "https://raw.githubusercontent.com/cantinilab/scPRINT/main/README.md",
+      "http_status": 200,
+      "sha256": "2fe2d4d4a8542a2a1b4752f3c2458cd4a698122b7d062f66f1e5ae50694efac3",
+      "excerpt": "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14749466.svg)](https://doi.org/10.5281/zenodo.14749466)\nPython 3.10. Its instalation takes on average 10 minutes.\nuv venv <env-name> --python 3.10 #scprint might work with python >3.10, but it is not tested\nuv pip install scprint\n# OR uv pip install scprint[dev] # for the dev dependencies (building etc..) OR\n# OR uv pip install scprint[flash] # to use flashattention2 with triton: only if you have a compatible gpu (e.g. not available for apple GPUs for now, see https://github.com/triton-lang/triton?tab=readme-ov-file#compatibility)\n#OR pip install scPRINT[dev,flash]\n```python\n`pip install torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 --index-url https://download.pytorch.org/whl/cu118`\nIf you do not have [triton](https://triton-lang.org/main/python-api/triton.html)\n```python\ndoing a PCA and Umap so it might need a lot of RAM if run as is)\n```python\ninput and takes care of doing the embedding on the fly. (it does similarly for a\n1. Install a newer sqlite module: `uv pip install \"pysqlite3-binary>=0.5.2\"`\n2. Add a sitecustomize.py so Python uses it instead of the stdlib sqlite:\n```python\n# create in ./scprint1/lib/python3.12/site-packages/sitecustomize.py\nuse `git clone` and `pip -e` instead of `pip install`.\npip install -e scPRINT[dev]\npip install -e scDataLoader[dev]\npip install -e GRnnData[dev]\npip install -e benGRN[dev]\n[python template](https://github.com/rochacbruno/python-project-template)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_Inferelator",
+      "method": "Inferelator",
+      "url": "https://raw.githubusercontent.com/flatironinstitute/inferelator/release/README.md",
+      "http_status": 200,
+      "sha256": "503b4a75d323ca2d1098f7a3e2a997dccad793d1d8a53152e2fb300cfbc59b20",
+      "excerpt": "[![CI](https://github.com/flatironinstitute/inferelator/actions/workflows/python-package.yml/badge.svg)](https://github.com/flatironinstitute/inferelator/actions/workflows/python-package.yml/)\nThe [Inferelator 3.0](https://doi.org/10.1093/bioinformatics/btac117) is a package for gene regulatory network inference that is based on regularized regression. \nIt is an update of the [Inferelator 2.0](https://ieeexplore.ieee.org/document/5334018), which is an update of the original [Inferelator](https://doi.org/10.1186/gb-2006-7-5-r36)\nThis repository is the actively developed inferelator package for python. It works for both single-cell and bulk transcriptome experiments.\n[(Castro et al 2019)](https://doi.org/10.1371/journal.pcbi.1006591), \n[(Tchourine et al 2018)](https://doi.org/10.1016/j.celrep.2018.03.048), \nWe recommend installing this package from PyPi using `python -m pip install inferelator`. \nIf running locally, also install `joblib` by `python -m pip install joblib` for parallelization.\nIf running on a cluster, also install `dask` by `python -m pip install dask[complete] dask_jobqueue` for dask-based parallelization.\nClone the [inferelator GitHub](https://github.com/flatironinstitute/inferelator) repository and run `python setup.py install`.\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3355524.svg)](https://doi.org/10.5281/zenodo.3355524).",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_NicheNet",
+      "method": "NicheNet",
+      "url": "https://raw.githubusercontent.com/saeyslab/nichenetr/master/README.md",
+      "http_status": 200,
+      "sha256": "0d89c9d177041a4a011563d571f8e2ea7a966fcca40d9589571e7f94aa4c45fe",
+      "excerpt": "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3260758.svg)](https://doi.org/10.5281/zenodo.3260758)\n[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7074291.svg)](https://doi.org/10.5281/zenodo.7074291)\n**nichenetr: the R implementation of the NicheNet method.** (see [nichenetpy](https://github.com/saeyslab/nichenetpy) for the python implementation) The goal of\n<doi:10.1038/s41592-019-0667-5>\nMacrophage Niche. Immunity (2019) <doi:10.1016/j.immuni.2019.08.017>\n<doi:10.1016/j.cell.2021.12.018>",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_OmniPath",
+      "method": "OmniPath",
+      "url": "https://raw.githubusercontent.com/saezlab/omnipath/main/README.rst",
+      "http_status": 200,
+      "sha256": "5095ccdf50dfa9fd236cc59afb5b6345ca42d0ae9f5dccf54aa4e8312b547967",
+      "excerpt": "Python client for the OmniPath web service\n    pip install omnipath\nThe Python client\nThis repository hosts a Python package for querying this web service and\nThe Python package for OmniPath is pypath, isn't it?\n* Use the rich Python APIs available for the database objects",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_CollecTRI",
+      "method": "CollecTRI",
+      "url": "https://raw.githubusercontent.com/saezlab/CollecTRI/main/README.md",
+      "http_status": 200,
+      "sha256": "9d6aa52f813fed186fedc87bede02451dde9827e3ec54cc4f3d3384c865c505f",
+      "excerpt": "A tutorial on how to perform TF activity estimation using CollecTRI is available in [python](https://decoupler.readthedocs.io/en/latest/notebooks/index.html) (recommended) and in [R](https://saezlab.github.io/decoupleR/articles/tf_bk.html) (deprecated). \nTo load the CollecTRI regulons through python or R you can use the following lines:\n```python\n## License\nThe original licenses of all resources included in CollecTRI can be found [here](https://github.com/saezlab/pypath/blob/master/pypath/resources/data/resources.json)\n> Nucleic Acids Research. https://doi.org/10.1093/nar/gkad841",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_RENGE",
+      "method": "RENGE",
+      "url": "https://raw.githubusercontent.com/masastat/RENGE/main/README.md",
+      "http_status": 200,
+      "sha256": "d22d753fe9d1de6ab5b6c9b97c3c1395f9be46b8f9120676975035a2309bd6ff",
+      "excerpt": "[![DOI](https://zenodo.org/badge/528344308.svg)](https://zenodo.org/doi/10.5281/zenodo.10114567)\npip install renge\nRENGE infers gene regulatory networks using time-series single-cell RNA-seq data with CRISPR perturbations, Masato Ishikawa, Seiichi Sugino, Yoshie Masuda, Yusuke Tarumoto, Yusuke Seto, Nobuko Taniyama, Fumi Wagai, Yuhei Yamauchi, Yasuhiro Kojima, Hisanori Kiryu, Kosuke Yusa, Mototsugu Eiraku, Atsushi Mochizuki, *Communications Biology*, 6(1), 1290 (2023); doi: https://doi.org/10.1038/s42003-023-05594-4",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_SwitchTFI",
+      "method": "SwitchTFI",
+      "url": "https://raw.githubusercontent.com/bionetslab/SwitchTFI/main/README.md",
+      "http_status": 200,
+      "sha256": "4327b05103cec8447ecbc75906196147f7fb9d2e28671cb07e1b25c08698b958",
+      "excerpt": "This repository contains the **SwitchTFI** python package as presented in *SwitchTFI: identifying transcription factors driving cell differentiation* ([doi](https://doi.org/10.1186/s13059-025-03876-0)).\n- [License](#license)\n  python example.py -d ery\n## License\nThis project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.\n[https://doi.org/10.1186/s13059-025-03876-0](https://doi.org/10.1186/s13059-025-03876-0)",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "readme_KEGNI",
+      "method": "KEGNI",
+      "url": "https://raw.githubusercontent.com/Lipxiao/KEGNI/main/README.md",
+      "http_status": 200,
+      "sha256": "b6446546b4d750bff3bbaf9868a39cdb968d07b746b423bb6ac1e9015260ea38",
+      "excerpt": "",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "viper_license",
+      "url": "https://bioconductor.org/packages/3.23/bioc/licenses/viper/LICENSE",
+      "http_status": 200,
+      "sha256": "438358d86220a6b55def1e2921d1ff21a4758d3d5844a54b2988742b3f6718a9",
+      "excerpt": "This software evaluation license agreement (\"License\") is between The Trustees of Columbia University in the City of New York, (\"University\") and You (as defined below).\n\n1. Definitions\n\na.    Documentation shall mean all manuals, user documentation, and other related materials, if any, pertaining to the Program which are furnished to You by University in connection with the Program.\n\nb.    Program shall mean the VIPER software computer program developed in the laboratory of Dr. Andrea Califano and supplied to You pursuant to this Agreement.\n\nc.    \"You\" (or \"Your\") means an individual or legal entity exercising rights under, and complying with all of the terms of, this License. If \"You\" are an individual, You hereby represent and warrant to Columbia that You are an employee of a non-profit or a not-for-profit entity. If \"You\" are a legal entity, You hereby represent and warrant to Columbia that You are a non-profit or not-for-profit entity, and “You” includes any entity that controls, is controlled by, or is under common control with You.\n\n2. Grant of Rights\n\na. The Program and Documentation is owned by the University and University retains all right, title, and interest in and to the Program. You shall not assert any right, title or interest in the Program and/or Documentation.\n\nb. University hereby grants, and You accept, subject to the terms and conditions of this License, a limited nonexclusive, nontransferable and non-assignable license to use the Program for non-commercial, academic or educational research purposes only.\n\nc. You agree that You will only use the Program and Documentation for non-commercial internal academic or educational research purposes only. You will not (i) reproduce or copy the Program (ii) use, or cause or permit the use of, the Program in whole or in part for any purpose other than as permitted under this License; (iii) distribute, sell,",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "scprint_pyproject",
+      "url": "https://raw.githubusercontent.com/cantinilab/scPRINT/main/pyproject.toml",
+      "http_status": 200,
+      "sha256": "81c9c77f7d836c87ad1e2ccf1de22a7dfee35ecc2756a7e8dfcc216dc99445b6",
+      "excerpt": "[project]\nname = \"scprint\"\nversion = \"2.3.8\"\ndescription = \"scPRINT is a Large Cell Model for Gene Network Inference, Denoising and more from scRNAseq data\"\nauthors = [\n    {name = \"jeremie kalfon\", email = \"jkobject@gmail.com\"}\n]\nlicense = \"MIT\"\nreadme = \"README.md\"\nrequires-python = \">=3.10, <3.13\"\nkeywords = [\"scRNAseq\", \"transformer\", \"GRN\", \"gene regulatory network\", \"scPRINT\", \"large cell model\", \"foundation model\"]\ndependencies = [\n    \"torch==2.2.0\",\n    \"torchvision>=0.13.0\",\n    \"torchaudio>=0.12.0\",\n    \"torchtext>=0.13.0\",\n    \"torchmetrics==1.6.0\",\n    \"torchdata>=0.7.1\",\n    \"lamindb==2.1.1\",\n    \"bionty>=1.0.0\",\n    \"scDataLoader>=2.1.3\",\n    \"simpler_flash==1.0.7\",\n    \"GRnnData>=1.1.5\",\n    \"BenGRN>=1.3.0\",\n    \"pandas>=2.0.0\",\n    \"numpy>=1.24.0,<2.0.0\",\n    \"lightning>=2.3.0\",\n    \"pytorch-lightning>=2.3.0\",\n    \"matplotlib==3.9.3\",\n    \"scikit-learn==1.6.0\",\n    \"biomart>=0.9.0\",\n    \"seaborn>=0.11.0\",\n    \"ipykernel>=6.17.0\",\n    \"leidenalg>=0.10.0\",\n    \"scikit-misc>=0.5.0\",\n    \"owlready2>=0.36\",\n    \"huggingface_hub>=0.10.0\",\n    \"scib>=1.0.0\",\n    \"scib-metrics>=0.1.0\",\n    \"scipy>=1.7.0\",\n    \"attridict>=0.0.9\",\n    \"fair-esm>=0.5.0\",\n    \"hydra-core>=1.1.0\",\n    \"pynndescent>=0.5.11\",\n    \"einops>=0.3.0\",\n    \"rich>=10.0.0\",\n    \"typeshed-client>=2.0.0\",\n    \"jsonargparse>=4.0.0\",\n    \"docstring-parser>=0.15\",\n    \"wandb>=0.12.0\",\n    \"tensorly>=0.6.0\",\n    \"numba>=0.56.0\",\n    \"sparse>=0.15.4\",\n    \"biopython\",\n    \"future>=1.0.0\",\n    # new restrictions to make it installable in python 3.11\n    \"urllib3>=1.26.0,<1.27.0\",\n    \"array_api_compat>=1.9.0\",\n    \"supabase>=2.15.0\",\n    \"patsy>=0.5.6\",\n    \"contourpy>=1.3.1\",\n    \"h5py>=3.12.1\",\n    \"gseapy>=1.1.8\",\n    \"d3graph>=2.5.1\",\n    \"gget>=0.29.1\",\n    \"setuptools>=58.0.0,<=75.8.0\",\n]\n\n[project.optional-dependencies]\ndev = [\n    \"pytest>=7.4.3\",\n    \"coverage>=7.3.2\",\n    \"ruff>=0.6.4\",\n ",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "hdwgcna_DESCRIPTION",
+      "url": "https://raw.githubusercontent.com/smorabit/hdWGCNA/dev/DESCRIPTION",
+      "http_status": 200,
+      "sha256": "992cad1a402a34e4bfd83668115cabf312ace92945fa92517dd96cb36163c3da",
+      "excerpt": "Package: hdWGCNA\nTitle: hdWGCNA\nVersion: 0.4.12\nAuthors@R: c(\n    person(\"Sam\", \"Morabito\", , \"smorabit@uci.edu\", role = c(\"aut\", \"cre\"),\n           comment = c(ORCID = \"0000-0002-7768-4856\")),\n    person(\"Zechuan\", \"Shi\", , \"zechuas@uci.edu\", role = c(\"ctb\"),\n          comment = c(ORCID = \"0000-0002-2844-5816\")),\n    person(\"Swarup Lab\", role = \"fnd\")\n  )\nDescription: hdWGCNA is an R package for performing weighted gene co-expression network analysis in high dimensional -omics such as single-cell RNA-seq or spatial transcriptomics.\nLicense: GNU GPLv3\nEncoding: UTF-8\nLazyData: true\nRoxygen: list(markdown = TRUE)\nRoxygenNote: 7.3.2\nURL: https://smorabit.github.io/hdWGCNA/, https://github.com/smorabit/hdWGCNA\nImports: WGCNA, Seurat, Matrix, harmony, igraph, enrichR, ggplot2, dplyr, tester, proxy\nSuggests: testthat (>= 3.0.0)\nConfig/testthat/edition: 3\nDepends: \n    R (>= 2.10),\n    harmony (>= 1.0.1),\n    Seurat (>= 4.0.0),\n    ggrepel (>= 0.9.0),\n    WGCNA, \n    dplyr,\n    igraph,\n    ggraph,\n    tidygraph,\n    ggrepel,\n    UCell, \n    GeneOverlap,\n    GenomicRanges,\n    SummarizedExperiment,\n    enrichR\n",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "nichenet_DESCRIPTION",
+      "url": "https://raw.githubusercontent.com/saeyslab/nichenetr/master/DESCRIPTION",
+      "http_status": 200,
+      "sha256": "3ab4724d58d2e83eed21a0c01f77f5a6fef23388949d98f861cc9a87c4de59a4",
+      "excerpt": "Package: nichenetr\nType: Package\nTitle: Modeling Intercellular Communication by Linking Ligands to Target Genes with NicheNet\nVersion: 2.2.1.1\nAuthors@R: c(person(\"Robin\", \"Browaeys\",  role = c(\"aut\")),\n            person(\"Chananchida\", \"Sang-aram\", role = c(\"aut\", \"cre\"), email = \"chananchida.sangaram@ugent.be\"))\nDescription: This package allows you the investigate intercellular communication from a computational perspective. More specifically, it allows to investigate how interacting cells influence each other's gene expression. Functionalities of this package (e.g. including predicting extracellular upstream regulators and their affected target genes) build upon a probabilistic model of ligand-target links that was inferred by data-integration.\nLicense: GPL-3\nEncoding: UTF-8\nLazyData: true\nURL: https://github.com/saeyslab/nichenetr\nBugReports: https://github.com/saeyslab/nichenetr/issues\nRoxygenNote: 7.3.2\nDepends: R (>= 3.0.0)\nbiocViews:\nImports:\n    tidyverse,\n    data.table,\n    dplyr,\n    ggplot2,\n    magrittr,\n    purrr,\n    readr,\n    tibble,\n    tidyr,\n    igraph,\n    Matrix,\n    fdrtool,\n    ROCR,\n    caTools,\n    Hmisc,\n    caret,\n    randomForest,\n    DiagrammeR,\n    mlrMBO,\n    parallelMap,\n    emoa,\n    DiceKriging,\n    e1071,\n    Seurat,\n    cowplot,\n    ggpubr,\n    circlize,\n    ComplexHeatmap,\n    grDevices,\n    ggnewscale,\n    ggforce,\n    shadowtext\nSuggests: \n    knitr,\n    RColorBrewer,\n    rmarkdown,\n    testthat,\n    doMC,\n    limma,\n    mco,\n    parallel,\n    covr,\n    sf\nVignetteBuilder: knitr\n",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "viper_bioc",
+      "url": "https://bioconductor.org/packages/release/bioc/html/viper.html",
+      "http_status": 200,
+      "sha256": "bec4674245b4ac3a0072591b842a965f886f1f3376377bd338a1a46f82749338",
+      "excerpt": ">Version</td><td data-astro-cid-sdvudldn>1.46.0</td></tr> >License</td> <!-- \"+ file LICENSE\" links the packaged file, as the legacy linkify_license() did. --> <td data-astro-cid-sdvudldn>file <a href=\"/packages/3.23/bioc/licenses/viper/LICENSE\" data-astro-cid-sdvudldn>LICENSE</a></td> </tr>",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "RegEnrich_bioc",
+      "url": "https://bioconductor.org/packages/release/bioc/html/RegEnrich.html",
+      "http_status": 200,
+      "sha256": "d3057246c6062d501e92515619460f4760ea64c831959f2a9e987442bd8482bc",
+      "excerpt": ">Version</td><td data-astro-cid-sdvudldn>1.22.1</td></tr> >License</td> <!-- \"+ file LICENSE\" links the packaged file, as the legacy linkify_license() did. --> <td data-astro-cid-sdvudldn>GPL (&gt;= 2)</td> </tr>",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "GRaNIE_bioc",
+      "url": "https://bioconductor.org/packages/release/bioc/html/GRaNIE.html",
+      "http_status": 200,
+      "sha256": "b4d4ab5a887f8409c4e206b7ec1f93c913357909194413522e5e64b8bc568dda",
+      "excerpt": ">Version</td><td data-astro-cid-sdvudldn>1.16.0</td></tr> >License</td> <!-- \"+ file LICENSE\" links the packaged file, as the legacy linkify_license() did. --> <td data-astro-cid-sdvudldn>Artistic-2.0</td> </tr>",
+      "verified_on": "2026-10-08"
+    },
+    {
+      "evidence_id": "decoupler_2.1.2_pypi",
+      "method": "decoupler",
+      "url": "https://pypi.org/pypi/decoupler/2.1.2/json",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "name": "decoupler",
+        "version": "2.1.2",
+        "requires_python": ">=3.10",
+        "license_expression": null
+      },
+      "license_excerpt": "BSD 3-Clause License\n        \n        Copyright (c) 2025, scverse®\n        Copyright (c) 2025, Pau Badia i Mompel, Saez lab\n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without\n        modification, are permitted provided that the following conditions are met:\n        \n        1. Redistributions of source code must retain the above copyright notice, this\n           list of conditions and the following disclaimer.\n        \n        2. Redistributions in binary form must reproduce the above copyright notice,\n           this list of condi",
+      "license_sha256": "be727ec36b84463152bc4fe7b0d36b0373cdfa3c3153f92ae6676e5c87d5a535",
+      "distribution_sha256": [
+        {
+          "filename": "decoupler-2.1.2-py3-none-any.whl",
+          "sha256": "013de6d22e4cc6c9d4049de65b4fd89069cb9afc3349482a495b50ab8f590184"
+        },
+        {
+          "filename": "decoupler-2.1.2.tar.gz",
+          "sha256": "2b67c3ed2d78ffdc7cfeb30a72d25901c254138221283588e60474c0082e33db"
+        }
+      ]
+    },
+    {
+      "evidence_id": "celloracle_official_docs_root",
+      "url": "https://morris-lab.github.io/CellOracle.documentation/",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "9fb3d627401e506b393729b498b38e3501d716f704e668b614c86d3769280ddc"
+    },
+    {
+      "evidence_id": "paper_scenic_foundational",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fnmeth.4463&format=json&resultType=core&pageSize=1",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "method": "SCENIC foundational paper",
+        "paper_doi": "10.1038/nmeth.4463",
+        "paper_title": "SCENIC: single-cell regulatory network inference and clustering.",
+        "paper_year": "2017",
+        "first_publication_date": "2017-10-09",
+        "journal": "Nature methods",
+        "pubmed_id": "28991892",
+        "pmc_id": "PMC5937676"
+      }
+    },
+    {
+      "evidence_id": "pyscenic_cli",
+      "url": "https://raw.githubusercontent.com/aertslab/pySCENIC/master/src/pyscenic/cli/pyscenic.py",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "3ac2e942b675266ca41047081d367e655e3de1020743bf7829c3668b557653a3"
+    },
+    {
+      "evidence_id": "scenicplus_cli",
+      "url": "https://raw.githubusercontent.com/aertslab/scenicplus/main/src/scenicplus/cli/scenicplus.py",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "sha256": "9a06abeb178eae763d3ebcae1604aa5b2307feed1f650a22553a1728228ce4dc"
+    },
+    {
+      "evidence_id": "aracne_tcga_hnsc_bulk_candidate",
+      "url": "https://api.gdc.cancer.gov/files?filters=%7B%22op%22%3A+%22and%22%2C+%22content%22%3A+%5B%7B%22op%22%3A+%22in%22%2C+%22content%22%3A+%7B%22field%22%3A+%22cases.project.project_id%22%2C+%22value%22%3A+%5B%22TCGA-HNSC%22%5D%7D%7D%2C+%7B%22op%22%3A+%22in%22%2C+%22content%22%3A+%7B%22field%22%3A+%22files.data_type%22%2C+%22value%22%3A+%5B%22Gene+Expression+Quantification%22%5D%7D%7D%2C+%7B%22op%22%3A+%22in%22%2C+%22content%22%3A+%7B%22field%22%3A+%22files.analysis.workflow_type%22%2C+%22value%22%3A+%5B%22STAR+-+Counts%22%5D%7D%7D%2C+%7B%22op%22%3A+%22in%22%2C+%22content%22%3A+%7B%22field%22%3A+%22files.access%22%2C+%22value%22%3A+%5B%22open%22%5D%7D%7D%2C+%7B%22op%22%3A+%22in%22%2C+%22content%22%3A+%7B%22field%22%3A+%22cases.samples.sample_type%22%2C+%22value%22%3A+%5B%22Primary+Tumor%22%5D%7D%7D%5D%7D&fields=file_id%2Cfile_name%2Cfile_size%2Cdata_type%2Caccess%2Canalysis.workflow_type%2Ccases.case_id%2Ccases.submitter_id%2Ccases.project.project_id%2Ccases.samples.sample_id%2Ccases.samples.sample_type&size=1000&format=JSON",
+      "http_status": 200,
+      "verified_on": "2026-10-08",
+      "observed": {
+        "n_files": 520,
+        "n_unique_cases": 520,
+        "n_unique_primary_tumor_samples": 520,
+        "total_expression_file_bytes": 2200875562,
+        "expression_files_downloaded": false,
+        "aracne_executed": false
+      },
+      "manifest": "methods_aracne_bulk_candidate.json"
+    }
+  ]
+}

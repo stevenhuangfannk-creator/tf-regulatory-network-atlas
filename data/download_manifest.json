@@ -1,0 +1,37 @@
+{
+  "url": "https://datasets.cellxgene.cziscience.com/171607d7-dcc2-4993-9deb-bbc62cf13273.h5ad",
+  "relative_path": "data/raw/periodontal_atlas.h5ad",
+  "bytes": 705007195,
+  "expected_bytes": 705007195,
+  "sha256": "7dc13de46fd2702dbfaf8d69bec933b79b05196ebce7d516e59cea471aa83c4e",
+  "download_verified_date": "2026-10-08",
+  "status": 206,
+  "response_headers": {
+    "Content-Type": "binary/octet-stream",
+    "Content-Length": "21764726",
+    "Connection": "close",
+    "Date": "Wed, 02 Sep 2026 13:07:58 GMT",
+    "Last-Modified": "Wed, 10 Jun 2026 07:07:15 GMT",
+    "ETag": "\"f95ebf94afa705c82d8eeec24e1595ab-85\"",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-version-id": "b6BYTOA0Ect8sMA5EngRElpIhhTnj7bl",
+    "Accept-Ranges": "bytes",
+    "Server": "AmazonS3",
+    "Content-Range": "bytes 683242469-705007194/705007195",
+    "X-Cache": "Hit from cloudfront",
+    "Via": "1.1 39e6364d4a5d8d1845ca5997b547202e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "HKG54-P2",
+    "X-Amz-Cf-Id": "BNqeS4pBZo7tKqtK1OUs59zMlDDaGBXpOY1o_iVypFq1Bp8uTknVSg==",
+    "Age": "3115170"
+  },
+  "dataset_id": "9fcb0b73-c734-40a5-be9c-ace7eea401c9",
+  "dataset_version_id": "171607d7-dcc2-4993-9deb-bbc62cf13273",
+  "collection_id": "71f4bccf-53d4-4c12-9e80-e73bfb89e398",
+  "doi": "10.1038/s41467-024-49037-y",
+  "retry": {
+    "initial_bytes": 683242469,
+    "resumed_bytes": 21764726,
+    "initial_failure": "premature EOF; detected by expected size and HDF5 stored_eof"
+  },
+  "large_binary_committed": false
+}

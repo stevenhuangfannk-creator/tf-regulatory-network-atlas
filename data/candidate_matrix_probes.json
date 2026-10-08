@@ -1,0 +1,128 @@
+[
+  {
+    "gsm": "GSM8256116",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256116/suppl/GSM8256116_processed_ATL_01_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/8846997",
+    "content_length": "4096",
+    "prefix_sha256": "02cfc1b7b05aa9db203bbaadb9983b5f493cd811ec1a8a2b0dcb15cb95f39a2f",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%",
+      "36601 1820 2796997",
+      "63 1 1",
+      "81 1 2"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM8256117",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256117/suppl/GSM8256117_processed_ATL_02_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/14002497",
+    "content_length": "4096",
+    "prefix_sha256": "f0e92a779c7ea5c302c62cb876bba53caf101b51965486de1be1670974debc83",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%",
+      "36601 2618 4447032",
+      "27 1 1",
+      "49 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM8256118",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256118/suppl/GSM8256118_ATL_03_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/20140254",
+    "content_length": "4096",
+    "prefix_sha256": "88a007041ddde2907115af9bcc90217eecc1941f4a8ec087b5426fb3fe85f801",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%",
+      "36601 3145 6430691",
+      "25 1 2",
+      "54 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM8256119",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8256nnn/GSM8256119/suppl/GSM8256119_ATL_05_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/7895186",
+    "content_length": "4096",
+    "prefix_sha256": "c5febb5f242e7586671f904194703a35f36c2bf1d7af535943b2700ef072ec74",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%",
+      "36601 1115 2537304",
+      "45 1 1",
+      "60 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM9288586",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288586/suppl/GSM9288586_Ko_2_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/77559753",
+    "content_length": "4096",
+    "prefix_sha256": "049ecc5f8ad9bbc96fb2c032302df427bdd7265da8257c8db1f61a98e723ddc0",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%metadata_json: {\"software_version\": \"cellranger-6.1.2\", \"format_version\": 2}",
+      "36601 8867 20374196",
+      "299 1 1",
+      "536 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM9288587",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288587/suppl/GSM9288587_Ko_3_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/23198077",
+    "content_length": "4096",
+    "prefix_sha256": "f8b6d28ad1a646af2625b5543372b30ec0c764573ddd0cf827c75770cd8b2644",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%metadata_json: {\"software_version\": \"cellranger-7.2.0\", \"format_version\": 2}",
+      "36601 1766 6170529",
+      "25 1 1",
+      "44 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  },
+  {
+    "gsm": "GSM9288588",
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9288nnn/GSM9288588/suppl/GSM9288588_Ko_6_matrix.mtx.gz",
+    "http_status": 206,
+    "content_range": "bytes 0-4095/39534467",
+    "content_length": "4096",
+    "prefix_sha256": "44a2458b5df96c54f11dc31814c71e40a9cf382641c158259fc508f5a7d7579e",
+    "read_bytes": 4096,
+    "matrix_market_header": [
+      "%%MatrixMarket matrix coordinate integer general",
+      "%metadata_json: {\"software_version\": \"cellranger-8.0.1\", \"format_version\": 2}",
+      "36601 4426 10366625",
+      "25 1 1",
+      "37 1 1"
+    ],
+    "full_download": false,
+    "all_counts_integer_verified": false
+  }
+]

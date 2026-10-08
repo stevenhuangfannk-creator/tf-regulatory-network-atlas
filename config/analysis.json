@@ -1,0 +1,25 @@
+{
+  "seed": 20261008,
+  "study": "Williams",
+  "sample_prefix": "Williams_",
+  "cell_type_map": {
+    "fibroblast": "Fibroblast",
+    "macrophage": "Macrophage",
+    "capillary endothelial cell": "Endothelial",
+    "endothelial cell of artery": "Endothelial",
+    "endothelial cell of venule": "Endothelial"
+  },
+  "conditions": ["normal", "periodontitis"],
+  "cell_types": ["Fibroblast", "Macrophage", "Endothelial"],
+  "min_cells_per_donor_celltype": 50,
+  "min_donors_per_condition": 3,
+  "min_targets": 10,
+  "chunk_size": 256,
+  "normalization_cell": "log1p(counts / library_size * 10000)",
+  "normalization_pseudobulk": "log2(CPM + 1); center each gene across donors within cell type",
+  "gene_filter": "total pseudobulk count >=10 and nonzero in >=3 donor-celltype samples",
+  "differential_test": "OLS disease+assay on donor-celltype scores; HC3 t-based CI and p-value; BH within celltype-method; v3-only Welch sensitivity",
+  "bootstrap_iterations": 1000,
+  "viper_pleiotropy": true,
+  "figure_tfs": 8
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-08",
+  "selected_cohort": "CELLxGENE periodontal meta-atlas; Study=Williams, GSE164241",
+  "n_cells": 86138,
+  "n_libraries": 21,
+  "condition_cells": {
+    "normal": 54352,
+    "periodontitis": 31786
+  },
+  "condition_libraries": {
+    "normal": 13,
+    "periodontitis": 8
+  },
+  "condition_conservative_donors": {
+    "normal": 13,
+    "periodontitis": 5
+  },
+  "assay_donors": [
+    {
+      "condition": "normal",
+      "assay": "10x 3' v2",
+      "n_donors": 10
+    },
+    {
+      "condition": "normal",
+      "assay": "10x 3' v3",
+      "n_donors": 3
+    },
+    {
+      "condition": "periodontitis",
+      "assay": "10x 3' v2",
+      "n_donors": 1
+    },
+    {
+      "condition": "periodontitis",
+      "assay": "10x 3' v3",
+      "n_donors": 4
+    }
+  ],
+  "unverified_groupings": [
+    {
+      "sample_id": "Williams_GSE164241_GSM5005060",
+      "biological_donor": "PD161",
+      "sample_title": "PD161"
+    },
+    {
+      "sample_id": "Williams_GSE164241_GSM5005061",
+      "biological_donor": "PD161",
+      "sample_title": "PD161b"
+    },
+    {
+      "sample_id": "Williams_GSE164241_GSM5005062",
+      "biological_donor": "PD164",
+      "sample_title": "PD164"
+    },
+    {
+      "sample_id": "Williams_GSE164241_GSM5177042",
+      "biological_donor": "PD164",
+      "sample_title": "PD164b"
+    },
+    {
+      "sample_id": "Williams_GSE164241_GSM5177043",
+      "biological_donor": "PD164",
+      "sample_title": "PD164c"
+    }
+  ],
+  "same_donor_multiple_assays": 0,
+  "primary_data_all_true": true,
+  "cell_types": {
+    "fibroblast": 16291,
+    "endothelial cell of venule": 14757,
+    "plasma cell": 9124,
+    "helper T cell": 6840,
+    "keratinocyte": 5293,
+    "T cell": 5173,
+    "capillary endothelial cell": 3754,
+    "endothelial cell of artery": 2911,
+    "pericyte": 2821,
+    "B cell": 2488,
+    "vascular associated smooth muscle cell": 2473,
+    "mast cell": 2460,
+    "conventional dendritic cell": 1542,
+    "macrophage": 1504,
+    "endothelial cell of lymphatic vessel": 1436,
+    "neutrophil": 1301,
+    "mucosal-associated invariant T cell": 1249,
+    "gamma-delta T cell": 907,
+    "natural killer cell": 891,
+    "mature NK T cell": 851,
+    "regulatory T cell": 844,
+    "T-helper 17 cell": 519,
+    "plasmacytoid dendritic cell": 445,
+    "melanocyte": 119,
+    "Langerhans cell": 100,
+    "Schwann cell": 26,
+    "Merkel cell": 19
+  },
+  "limitations": [
+    "CELLxGENE donor_id uses GSM-specific library labels; repeated patient-code biopsies are conservatively merged. Supplementary Table S1 confirmation remains pending.",
+    "Williams both disease states are within the original study, but assay version is strongly imbalanced: v3-only sensitivity has 3 healthy and 4 disease donor codes.",
+    "All 21 selected GEO library titles and all 7 candidate new-library metadata refreshed live on 2026-10-08.",
+    "is_primary_data=True indicates this asset is the preferred meta-atlas representation, not independence from reused GEO members; do not sum meta-atlas and GEO counts.",
+    "Author cell_type labels are retained, not independently re-annotated by this project.",
+    "Raw integer counts establish data-format integrity, not transcript/protein causal activity."
+  ]
+}
